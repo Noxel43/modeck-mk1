@@ -2399,7 +2399,6 @@
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "1f2fcbb5-4e59-4192-95e0-5d4b3ebef6c0")
 		(property "Reference" "#PWR?"
 			(at 29.21 111.76 0)
@@ -2413,7 +2412,7 @@
 			)
 		)
 		(property "Value" "+3V3"
-			(at 29.21 102.87 0)
+			(at 32.004 104.648 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -2637,7 +2636,6 @@
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "3c7d266d-0827-4fa4-a659-82c982a752b5")
 		(property "Reference" "#PWR011"
 			(at 17.78 111.76 0)
@@ -2651,7 +2649,7 @@
 			)
 		)
 		(property "Value" "+3V3"
-			(at 17.78 102.87 0)
+			(at 20.574 104.648 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -4046,7 +4044,7 @@
 			)
 		)
 		(property "Value" "+3V3"
-			(at 20.066 85.598 0)
+			(at 20.574 85.598 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
