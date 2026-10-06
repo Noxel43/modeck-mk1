@@ -1344,16 +1344,6 @@
 	)
 	(wire
 		(pts
-			(xy 90.17 53.34) (xy 87.63 54.61)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "0faa4c7a-796c-4b26-b510-910fb592f5fc")
-	)
-	(wire
-		(pts
 			(xy 13.97 72.39) (xy 25.4 72.39)
 		)
 		(stroke
@@ -1424,16 +1414,6 @@
 	)
 	(wire
 		(pts
-			(xy 90.17 63.5) (xy 87.63 64.77)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "b63001c9-068d-4998-b41e-32082cfeaaf8")
-	)
-	(wire
-		(pts
 			(xy 13.97 26.67) (xy 25.4 26.67)
 		)
 		(stroke
@@ -1481,16 +1461,6 @@
 			(type default)
 		)
 		(uuid "e395b59d-c415-4aa5-a91d-63481e06283c")
-	)
-	(wire
-		(pts
-			(xy 90.17 33.02) (xy 87.63 34.29)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "ece26df5-919b-4f3c-bd75-eacf9b0f0bfb")
 	)
 	(wire
 		(pts
@@ -1613,7 +1583,7 @@
 		(uuid "4c48b6c4-2c27-471b-8af7-1133e5e1220e")
 	)
 	(label "BTN_MODE_NEXT"
-		(at 87.63 64.77 180)
+		(at 90.17 63.5 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -1723,7 +1693,7 @@
 		(uuid "9fddf1c0-a24f-4681-88b8-ac9e1b55afaf")
 	)
 	(label "BTN_MODE_PREV"
-		(at 87.63 54.61 180)
+		(at 90.17 53.34 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -1733,7 +1703,7 @@
 		(uuid "aa1033d7-0f2e-4a60-804a-3bbb655f09be")
 	)
 	(label "BTN_TRK_PREV"
-		(at 87.63 34.29 180)
+		(at 90.17 33.02 180)
 		(effects
 			(font
 				(size 1.27 1.27)
