@@ -3442,7 +3442,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "R_Potentiometer"
+		(property "Value" "Slide pot"
 			(at 95.25 97.7899 0)
 			(show_name no)
 			(do_not_autoplace no)
