@@ -3079,6 +3079,16 @@
 		)
 		(uuid "9fddf1c0-a24f-4681-88b8-ac9e1b55afaf")
 	)
+	(label "CODEC_BCLK"
+		(at 171.45 58.42 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "a2ffc7cd-99c5-4754-8da4-570cc2e4215b")
+	)
 	(label "CODEC_MCLK"
 		(at 171.45 55.88 180)
 		(effects
