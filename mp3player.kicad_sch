@@ -3357,6 +3357,16 @@
 		)
 		(uuid "7b437b80-49e4-4808-b99c-a7e70f5e51a5")
 	)
+	(label "LOUT1"
+		(at 186.69 53.34 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "7bc3d412-e719-4483-8bb2-997608d965a1")
+	)
 	(label "12C_SCL"
 		(at 13.97 54.61 0)
 		(effects
