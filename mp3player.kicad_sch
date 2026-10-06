@@ -2391,7 +2391,7 @@
 	)
 	(symbol
 		(lib_id "power:VCC")
-		(at 29.21 104.14 0)
+		(at 29.21 107.95 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -2402,7 +2402,7 @@
 		(fields_autoplaced yes)
 		(uuid "1f2fcbb5-4e59-4192-95e0-5d4b3ebef6c0")
 		(property "Reference" "#PWR?"
-			(at 29.21 107.95 0)
+			(at 29.21 111.76 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2413,7 +2413,7 @@
 			)
 		)
 		(property "Value" "+3V3"
-			(at 29.21 99.06 0)
+			(at 29.21 102.87 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -2423,7 +2423,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 29.21 104.14 0)
+			(at 29.21 107.95 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2434,7 +2434,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 29.21 104.14 0)
+			(at 29.21 107.95 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2445,7 +2445,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"VCC\""
-			(at 29.21 104.14 0)
+			(at 29.21 107.95 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2629,7 +2629,7 @@
 	)
 	(symbol
 		(lib_id "power:VCC")
-		(at 17.78 104.14 0)
+		(at 17.78 107.95 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -2640,7 +2640,7 @@
 		(fields_autoplaced yes)
 		(uuid "3c7d266d-0827-4fa4-a659-82c982a752b5")
 		(property "Reference" "#PWR011"
-			(at 17.78 107.95 0)
+			(at 17.78 111.76 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2651,7 +2651,7 @@
 			)
 		)
 		(property "Value" "+3V3"
-			(at 17.78 99.06 0)
+			(at 17.78 102.87 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -2661,7 +2661,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 17.78 104.14 0)
+			(at 17.78 107.95 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2672,7 +2672,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 17.78 104.14 0)
+			(at 17.78 107.95 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2683,7 +2683,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"VCC\""
-			(at 17.78 104.14 0)
+			(at 17.78 107.95 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3182,7 +3182,7 @@
 	)
 	(symbol
 		(lib_id "Device:C")
-		(at 29.21 107.95 0)
+		(at 29.21 111.76 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -3193,7 +3193,7 @@
 		(fields_autoplaced yes)
 		(uuid "730fed02-ce95-4f76-893e-bdf62f10cd3e")
 		(property "Reference" "C2"
-			(at 33.02 106.6799 0)
+			(at 33.02 110.4899 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -3204,7 +3204,7 @@
 			)
 		)
 		(property "Value" "100nF"
-			(at 33.02 109.2199 0)
+			(at 33.02 113.0299 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -3215,7 +3215,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 30.1752 111.76 0)
+			(at 30.1752 115.57 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3226,7 +3226,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 29.21 107.95 0)
+			(at 29.21 111.76 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3237,7 +3237,7 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
-			(at 29.21 107.95 0)
+			(at 29.21 111.76 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3541,7 +3541,7 @@
 	)
 	(symbol
 		(lib_id "Device:C")
-		(at 17.78 107.95 0)
+		(at 17.78 111.76 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -3552,7 +3552,7 @@
 		(fields_autoplaced yes)
 		(uuid "9ea2d5b6-fe49-41a0-9296-5e043e9943d4")
 		(property "Reference" "C1"
-			(at 21.59 106.6799 0)
+			(at 21.59 110.4899 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -3563,7 +3563,7 @@
 			)
 		)
 		(property "Value" "22μF"
-			(at 21.59 109.2199 0)
+			(at 21.59 113.0299 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -3574,7 +3574,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 18.7452 111.76 0)
+			(at 18.7452 115.57 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3585,7 +3585,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 17.78 107.95 0)
+			(at 17.78 111.76 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3596,7 +3596,7 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
-			(at 17.78 107.95 0)
+			(at 17.78 111.76 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
