@@ -1018,6 +1018,16 @@
 		)
 		(uuid "1341c62d-559c-413e-854b-f1e1ea297784")
 	)
+	(label "TFT_DC"
+		(at 15.24 59.69 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "177c359a-812f-4179-9a75-8f753ae34d0c")
+	)
 	(label "EN"
 		(at 15.24 21.59 0)
 		(effects
@@ -1037,16 +1047,6 @@
 			(justify left bottom)
 		)
 		(uuid "2fbbb0a6-ad2b-4df6-843b-27fb8c98f3d9")
-	)
-	(label "TFT_RST"
-		(at 15.24 59.69 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "4284e18b-9d99-419e-a59d-1a00a3f042b1")
 	)
 	(label "12C_SCL"
 		(at 15.24 49.53 0)
