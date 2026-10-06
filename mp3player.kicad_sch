@@ -1963,7 +1963,7 @@
 				)
 			)
 		)
-		(property "Value" "SW_Push"
+		(property "Value" "Trk Next"
 			(at 92.71 39.37 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2440,7 +2440,7 @@
 				)
 			)
 		)
-		(property "Value" "SW_Push"
+		(property "Value" "Mode Prev"
 			(at 92.71 49.53 0)
 			(show_name no)
 			(do_not_autoplace no)
