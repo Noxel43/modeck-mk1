@@ -1478,6 +1478,16 @@
 		)
 		(uuid "b9afaa7a-148a-4dca-a630-ccc8801fc2dd")
 	)
+	(label "SD_CMD"
+		(at 57.15 50.8 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "cab50a61-2781-4198-9bfe-00c8ff23547d")
+	)
 	(label "IO0"
 		(at 15.24 30.48 0)
 		(effects
