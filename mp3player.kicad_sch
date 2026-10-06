@@ -4848,7 +4848,7 @@
 				)
 			)
 		)
-		(property "Value" "GND"
+		(property "Value" "AU_GND"
 			(at 167.64 76.1999 90)
 			(show_name no)
 			(do_not_autoplace no)
