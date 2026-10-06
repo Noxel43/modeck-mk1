@@ -2877,7 +2877,7 @@
 				)
 			)
 		)
-		(property "Value" "eq"
+		(property "Value" "Eq"
 			(at 92.71 69.85 0)
 			(show_name no)
 			(do_not_autoplace no)
