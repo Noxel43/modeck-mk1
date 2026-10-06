@@ -3661,7 +3661,7 @@
 		)
 		(uuid "5ad92ac2-c368-441a-82b6-e2e8def4aa37")
 	)
-	(label "12C_SCl"
+	(label "12C_SCL"
 		(at 133.35 76.2 180)
 		(effects
 			(font
