@@ -1428,7 +1428,7 @@
 	)
 	(rectangle
 		(start 13.97 15.24)
-		(end 72.39 83.82)
+		(end 72.39 112.268)
 		(stroke
 			(width 0)
 			(type default)
