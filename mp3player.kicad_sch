@@ -1348,6 +1348,16 @@
 		)
 		(uuid "2fbbb0a6-ad2b-4df6-843b-27fb8c98f3d9")
 	)
+	(label "SD_D01"
+		(at 57.15 58.42 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "352a498f-fd59-4537-b000-a20b184519ed")
+	)
 	(label "BTN_PLAY"
 		(at 57.15 45.72 0)
 		(effects
