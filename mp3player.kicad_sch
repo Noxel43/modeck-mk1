@@ -3550,10 +3550,9 @@
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "06aaa4d9-2b82-4718-b58e-0e534010733d")
 		(property "Reference" "R3"
-			(at 200.66 43.18 90)
+			(at 200.66 49.53 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -3563,7 +3562,7 @@
 			)
 		)
 		(property "Value" "5.1"
-			(at 200.66 45.72 90)
+			(at 200.66 47.498 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
