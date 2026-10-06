@@ -1830,6 +1830,16 @@
 		)
 		(uuid "ff1f2342-ac5c-486b-af34-3a828520e6bc")
 	)
+	(label "IO0"
+		(at 45.72 106.68 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "04395ced-c087-4f46-ab47-3a1c80744935")
+	)
 	(label "USB_DP"
 		(at 55.88 39.37 0)
 		(effects
