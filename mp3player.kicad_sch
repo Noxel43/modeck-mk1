@@ -3026,7 +3026,7 @@
 	)
 	(symbol
 		(lib_id "Device:C")
-		(at 27.94 107.95 0)
+		(at 29.21 107.95 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -3037,7 +3037,7 @@
 		(fields_autoplaced yes)
 		(uuid "730fed02-ce95-4f76-893e-bdf62f10cd3e")
 		(property "Reference" "C2"
-			(at 31.75 106.6799 0)
+			(at 33.02 106.6799 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -3048,7 +3048,7 @@
 			)
 		)
 		(property "Value" "C"
-			(at 31.75 109.2199 0)
+			(at 33.02 109.2199 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -3059,7 +3059,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 28.9052 111.76 0)
+			(at 30.1752 111.76 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3070,7 +3070,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 27.94 107.95 0)
+			(at 29.21 107.95 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3081,7 +3081,7 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
-			(at 27.94 107.95 0)
+			(at 29.21 107.95 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3406,7 +3406,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "C"
+		(property "Value" "22μF"
 			(at 21.59 109.2199 0)
 			(show_name no)
 			(do_not_autoplace no)
