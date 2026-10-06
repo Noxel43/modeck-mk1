@@ -1038,6 +1038,16 @@
 		)
 		(uuid "9e8779b5-7630-42ed-b43d-00eba6465466")
 	)
+	(label "12C_SDA"
+		(at 15.24 46.99 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "b2a1aad6-241a-4189-a0a3-4feb69ea5647")
+	)
 	(label "IO0"
 		(at 15.24 26.67 0)
 		(effects
