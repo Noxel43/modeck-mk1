@@ -2356,7 +2356,7 @@
 				)
 			)
 		)
-		(property "Value" "VCC"
+		(property "Value" "+3V3"
 			(at 115.57 19.05 0)
 			(show_name no)
 			(do_not_autoplace no)
