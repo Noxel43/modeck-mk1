@@ -5021,10 +5021,9 @@
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "16a7f9c3-6ab3-4031-a0ba-e3debfc3806d")
 		(property "Reference" "C12"
-			(at 157.48 106.6799 0)
+			(at 156.464 106.68 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -5035,7 +5034,7 @@
 			)
 		)
 		(property "Value" "1μF"
-			(at 157.48 109.2199 0)
+			(at 156.464 109.22 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -5973,10 +5972,9 @@
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "323b3c81-d262-404b-a05b-2e1e214a0ee5")
 		(property "Reference" "C13"
-			(at 170.18 106.6799 0)
+			(at 169.418 106.68 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -5987,7 +5985,7 @@
 			)
 		)
 		(property "Value" "1μF"
-			(at 170.18 109.2199 0)
+			(at 169.418 109.22 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
