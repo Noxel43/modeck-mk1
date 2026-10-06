@@ -6949,7 +6949,7 @@
 				)
 			)
 		)
-		(property "Value" "VCC"
+		(property "Value" "VDD_CODEC"
 			(at 208.28 49.5299 90)
 			(show_name no)
 			(do_not_autoplace no)
