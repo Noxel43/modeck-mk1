@@ -1460,6 +1460,16 @@
 		)
 		(uuid "35444d4a-bc7c-45ed-8c58-9af5bba7ca52")
 	)
+	(text "for waking from sleep\n"
+		(exclude_from_sim no)
+		(at 124.206 35.306 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "4196ac80-945d-4514-b942-f75391f1ef53")
+	)
 	(text "Controls"
 		(exclude_from_sim no)
 		(at 97.79 13.716 0)
