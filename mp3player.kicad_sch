@@ -1088,6 +1088,16 @@
 		)
 		(uuid "b2a1aad6-241a-4189-a0a3-4feb69ea5647")
 	)
+	(label "TFT_RST"
+		(at 15.24 62.23 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "b9afaa7a-148a-4dca-a630-ccc8801fc2dd")
+	)
 	(label "IO0"
 		(at 15.24 26.67 0)
 		(effects
