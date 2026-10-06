@@ -980,7 +980,7 @@
 	)
 	(wire
 		(pts
-			(xy 11.43 26.67) (xy 17.78 26.67)
+			(xy 15.24 26.67) (xy 17.78 26.67)
 		)
 		(stroke
 			(width 0)
@@ -1027,16 +1027,6 @@
 			(justify left bottom)
 		)
 		(uuid "9e8779b5-7630-42ed-b43d-00eba6465466")
-	)
-	(label "IO0"
-		(at 11.43 26.67 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "cd794e03-7436-4b9e-8a8e-f68fcfa42175")
 	)
 	(symbol
 		(lib_id "RF_Module:ESP32-S3-WROOM-1")
