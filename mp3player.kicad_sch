@@ -2480,7 +2480,7 @@
 	)
 	(wire
 		(pts
-			(xy 15.24 68.58) (xy 15.24 12.7)
+			(xy 15.24 68.58) (xy 15.24 22.86)
 		)
 		(stroke
 			(width 0)
@@ -2807,6 +2807,16 @@
 			(type default)
 		)
 		(uuid "c099218f-3795-447f-a153-38eb732cd15c")
+	)
+	(wire
+		(pts
+			(xy 15.24 15.24) (xy 15.24 12.7)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c0c6943a-4ada-44b6-b23c-fa3fab26764c")
 	)
 	(wire
 		(pts
@@ -4838,6 +4848,88 @@
 			(project "mp3player"
 				(path "/7851373b-cb7e-4e42-801a-d8b5ac5735f4"
 					(reference "#PWR04")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:C_Polarized")
+		(at 15.24 19.05 180)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "ea2b49a5-e17c-4849-be48-c0f83b0f72a7")
+		(property "Reference" "C10"
+			(at 19.05 18.6689 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "C_Polarized"
+			(at 19.05 21.2089 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" ""
+			(at 14.2748 15.24 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 15.24 19.05 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Polarized capacitor"
+			(at 15.24 19.05 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "27015a32-34b6-4cc3-888e-8b6a0cf03f5d")
+		)
+		(pin "2"
+			(uuid "6eb47d2e-e021-4a74-b549-9161edd11830")
+		)
+		(instances
+			(project "mp3player"
+				(path "/7851373b-cb7e-4e42-801a-d8b5ac5735f4"
+					(reference "C10")
 					(unit 1)
 				)
 			)
