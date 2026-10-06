@@ -1526,7 +1526,7 @@
 	)
 	(wire
 		(pts
-			(xy 115.57 31.75) (xy 115.57 34.29)
+			(xy 114.3 30.48) (xy 114.3 33.02)
 		)
 		(stroke
 			(width 0)
@@ -1795,7 +1795,7 @@
 		(uuid "5fd529ed-1b71-4d2a-989a-dab921c1df49")
 	)
 	(label "BTN_POWER"
-		(at 115.57 34.29 0)
+		(at 114.3 33.02 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2355,7 +2355,7 @@
 	)
 	(symbol
 		(lib_id "power:VCC")
-		(at 115.57 24.13 0)
+		(at 114.3 22.86 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -2366,7 +2366,7 @@
 		(fields_autoplaced yes)
 		(uuid "3e962ffb-bed0-4c34-bc28-ea7d65cef136")
 		(property "Reference" "#PWR010"
-			(at 115.57 27.94 0)
+			(at 114.3 26.67 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2377,7 +2377,7 @@
 			)
 		)
 		(property "Value" "+3V3"
-			(at 115.57 19.05 0)
+			(at 114.3 17.78 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -2387,7 +2387,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 115.57 24.13 0)
+			(at 114.3 22.86 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2398,7 +2398,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 115.57 24.13 0)
+			(at 114.3 22.86 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2409,7 +2409,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"VCC\""
-			(at 115.57 24.13 0)
+			(at 114.3 22.86 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3187,7 +3187,7 @@
 	)
 	(symbol
 		(lib_id "Device:R")
-		(at 115.57 27.94 0)
+		(at 114.3 26.67 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -3198,7 +3198,7 @@
 		(fields_autoplaced yes)
 		(uuid "b46cbe67-01c1-4698-ac1b-9b9bf5b30544")
 		(property "Reference" "R1"
-			(at 118.11 26.6699 0)
+			(at 116.84 25.3999 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -3209,7 +3209,7 @@
 			)
 		)
 		(property "Value" "10k"
-			(at 118.11 29.2099 0)
+			(at 116.84 27.9399 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -3220,7 +3220,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 113.792 27.94 90)
+			(at 112.522 26.67 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3231,7 +3231,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 115.57 27.94 0)
+			(at 114.3 26.67 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3242,7 +3242,7 @@
 			)
 		)
 		(property "Description" "Resistor"
-			(at 115.57 27.94 0)
+			(at 114.3 26.67 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
