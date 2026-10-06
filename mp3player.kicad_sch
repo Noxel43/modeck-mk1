@@ -1328,6 +1328,16 @@
 		)
 		(uuid "4bc89e89-d977-4391-907a-73c09e4c5be1")
 	)
+	(label "BTM_MODE_NEXT"
+		(at 57.15 27.94 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "5fd529ed-1b71-4d2a-989a-dab921c1df49")
+	)
 	(label "12C_SCL"
 		(at 15.24 53.34 0)
 		(effects
