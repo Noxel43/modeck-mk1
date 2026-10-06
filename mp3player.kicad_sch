@@ -6785,10 +6785,9 @@
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "7dd667da-321b-4163-8fce-87384fb1b7cc")
 		(property "Reference" "R7"
-			(at 242.57 59.6899 0)
+			(at 240.792 61.468 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -9719,7 +9718,7 @@
 				)
 			)
 		)
-		(property "Value" "GND"
+		(property "Value" "AUGND"
 			(at 240.03 69.85 0)
 			(show_name no)
 			(do_not_autoplace no)
