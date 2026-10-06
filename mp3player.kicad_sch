@@ -3129,6 +3129,17 @@
 		)
 		(uuid "4196ac80-945d-4514-b942-f75391f1ef53")
 	)
+	(text "ES8388"
+		(exclude_from_sim no)
+		(at 185.674 14.224 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "43783e0a-f6cd-4517-84ea-356814c02d5b")
+	)
 	(text "place near codec\n"
 		(exclude_from_sim no)
 		(at 169.164 81.788 0)
