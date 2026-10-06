@@ -1122,6 +1122,18 @@
 			(embedded_fonts no)
 		)
 	)
+	(rectangle
+		(start 20.32 17.78)
+		(end 78.74 86.36)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(fill
+			(type none)
+		)
+		(uuid "6eda45c8-1a8f-433b-92b6-ea3900876019")
+	)
 	(no_connect
 		(at 31.75 46.99)
 		(uuid "00fd8f04-e357-4d44-bf6c-ca86827fb0f7")
