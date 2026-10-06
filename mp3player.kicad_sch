@@ -5630,7 +5630,7 @@
 				)
 			)
 		)
-		(property "Value" "R"
+		(property "Value" "10k"
 			(at 137.16 80.518 90)
 			(show_name no)
 			(do_not_autoplace no)
