@@ -1368,6 +1368,16 @@
 		)
 		(uuid "b2a1aad6-241a-4189-a0a3-4feb69ea5647")
 	)
+	(label "BTN_TRK_PREV"
+		(at 57.15 25.4 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "b5a8b144-0e92-4258-933f-f27a42bbaabe")
+	)
 	(label "TFT_RST"
 		(at 15.24 66.04 0)
 		(effects
