@@ -1358,6 +1358,16 @@
 		)
 		(uuid "901116f0-ddb8-45ec-a0b1-c296b9bb3490")
 	)
+	(label "12S_LRCK"
+		(at 57.15 30.48 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "96db7321-cd4d-4739-9447-05bc1c31839c")
+	)
 	(label "SLIDE_POT"
 		(at 15.24 33.02 0)
 		(effects
