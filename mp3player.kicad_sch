@@ -6347,7 +6347,7 @@
 				)
 			)
 		)
-		(property "Value" "VCC"
+		(property "Value" "VDD_CODEC"
 			(at 193.04 58.4199 90)
 			(show_name no)
 			(do_not_autoplace no)
