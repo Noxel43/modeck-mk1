@@ -1368,6 +1368,16 @@
 		)
 		(uuid "807bdd60-fc67-486f-b9cc-2c14aaf755e6")
 	)
+	(label "BTN_POWER"
+		(at 57.15 40.64 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "8783feb3-784a-4b05-9c7c-f58793994326")
+	)
 	(label "TFT_CS"
 		(at 15.24 55.88 0)
 		(effects
