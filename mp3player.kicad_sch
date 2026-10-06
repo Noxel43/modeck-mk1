@@ -2849,6 +2849,16 @@
 		)
 		(uuid "5209be09-8d8a-4f56-8e57-07c7718e259b")
 	)
+	(label "12C_SDA"
+		(at 171.45 71.12 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "5ad92ac2-c368-441a-82b6-e2e8def4aa37")
+	)
 	(label "BTM_MODE_NEXT"
 		(at 55.88 29.21 0)
 		(effects
