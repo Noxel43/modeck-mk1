@@ -868,6 +868,26 @@
 			(embedded_fonts no)
 		)
 	)
+	(wire
+		(pts
+			(xy 15.24 21.59) (xy 17.78 21.59)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "bcfed3bb-9fbc-4b23-891a-8e7e665d0fb0")
+	)
+	(wire
+		(pts
+			(xy 15.24 26.67) (xy 17.78 26.67)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ccd6fde5-2d6c-42b5-9496-70becc802826")
+	)
 	(symbol
 		(lib_id "RF_Module:ESP32-S3-WROOM-1")
 		(at 33.02 44.45 0)
