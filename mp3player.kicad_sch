@@ -1930,6 +1930,16 @@
 		)
 		(uuid "3f2e98ad-f6da-4a4b-84f5-ed8f0d0411c1")
 	)
+	(label "EN"
+		(at 45.72 96.52 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "4212ded7-2713-48a1-b2e5-e8e4e7fd6658")
+	)
 	(label "12S_MCLK"
 		(at 13.97 69.85 0)
 		(effects
