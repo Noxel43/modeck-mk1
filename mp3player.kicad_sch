@@ -8286,10 +8286,9 @@
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "f68b77da-0078-4189-a8ff-bd8ee00861a0")
 		(property "Reference" "R4"
-			(at 200.66 52.07 90)
+			(at 197.866 55.88 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -8299,7 +8298,7 @@
 			)
 		)
 		(property "Value" "4.7"
-			(at 200.66 54.61 90)
+			(at 200.66 55.88 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
