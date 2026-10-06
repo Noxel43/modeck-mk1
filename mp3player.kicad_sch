@@ -3550,7 +3550,6 @@
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "08d5fe93-9e3d-4ea7-a8ee-19def54225c3")
 		(property "Reference" "#PWR019"
 			(at 207.01 24.13 0)
@@ -3564,7 +3563,7 @@
 			)
 		)
 		(property "Value" "VDD_CODEC"
-			(at 207.01 15.24 0)
+			(at 200.914 16.764 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -5381,7 +5380,6 @@
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "6f2bf6b6-1b1e-4783-8b17-6b2698dcd4d7")
 		(property "Reference" "#PWR020"
 			(at 224.79 24.13 0)
@@ -5395,7 +5393,7 @@
 			)
 		)
 		(property "Value" "VDD_CODEC"
-			(at 224.79 15.24 0)
+			(at 219.202 16.764 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
