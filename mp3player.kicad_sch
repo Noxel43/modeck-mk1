@@ -1048,6 +1048,16 @@
 		)
 		(uuid "2fbbb0a6-ad2b-4df6-843b-27fb8c98f3d9")
 	)
+	(label "12S_MCLK"
+		(at 15.24 64.77 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "4bc89e89-d977-4391-907a-73c09e4c5be1")
+	)
 	(label "12C_SCL"
 		(at 15.24 49.53 0)
 		(effects
