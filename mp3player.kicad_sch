@@ -3562,7 +3562,7 @@
 				)
 			)
 		)
-		(property "Value" "R"
+		(property "Value" "5.1"
 			(at 200.66 45.72 90)
 			(show_name no)
 			(do_not_autoplace no)
