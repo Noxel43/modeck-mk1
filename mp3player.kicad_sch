@@ -3079,6 +3079,16 @@
 		)
 		(uuid "9fddf1c0-a24f-4681-88b8-ac9e1b55afaf")
 	)
+	(label "CODEC_MCLK"
+		(at 171.45 55.88 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "a9c7ee97-b7d8-41e3-aa57-ee4669728007")
+	)
 	(label "BTN_MODE_PREV"
 		(at 92.71 54.61 180)
 		(effects
