@@ -1528,6 +1528,16 @@
 		)
 		(uuid "f13ce100-a3dc-4188-837e-a2673f799274")
 	)
+	(label "SD_D03"
+		(at 57.15 43.18 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "f76cd651-7d1f-4c4b-8176-5d3e7a99e503")
+	)
 	(label "VBAT_SENSE"
 		(at 15.24 45.72 0)
 		(effects
