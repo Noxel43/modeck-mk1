@@ -8038,7 +8038,6 @@
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "ae9a03f9-bc19-41c8-aa9e-f4dccd1f79b3")
 		(property "Reference" "#PWR028"
 			(at 240.03 50.8 0)
@@ -8052,7 +8051,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 240.03 52.07 0)
+			(at 240.03 53.34 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -9703,7 +9702,6 @@
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "f77d787e-8215-4c3d-9dfa-8dd305367d05")
 		(property "Reference" "#PWR?"
 			(at 240.03 71.12 0)
@@ -9717,7 +9715,7 @@
 			)
 		)
 		(property "Value" "AUGND"
-			(at 240.03 69.85 0)
+			(at 240.03 68.58 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
