@@ -2931,6 +2931,16 @@
 		)
 		(uuid "5fd529ed-1b71-4d2a-989a-dab921c1df49")
 	)
+	(label "ADC_VREF"
+		(at 171.45 83.82 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "659fdbfe-28c4-43af-8c2d-013c5afd8c47")
+	)
 	(label "BTN_POWER"
 		(at 114.3 33.02 0)
 		(effects
