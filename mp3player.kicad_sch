@@ -3671,6 +3671,16 @@
 		)
 		(uuid "5209be09-8d8a-4f56-8e57-07c7718e259b")
 	)
+	(label "CODEC_BCLK"
+		(at 148.59 93.98 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "589a4406-9112-48a3-ad72-53f1b31ec6da")
+	)
 	(label "12C_SDA"
 		(at 143.51 43.18 180)
 		(effects
