@@ -3627,6 +3627,16 @@
 		)
 		(uuid "f5260ade-243b-43c0-8da3-b4b10c164e64")
 	)
+	(label "ROUT1"
+		(at 200.66 53.34 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "f67d43f1-f0a4-4794-8d50-9dd2045e3ae3")
+	)
 	(label "SD_D03"
 		(at 55.88 44.45 0)
 		(effects
