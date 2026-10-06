@@ -5461,7 +5461,7 @@
 	)
 	(symbol
 		(lib_id "Device:C")
-		(at 218.44 24.13 0)
+		(at 237.49 24.13 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -5470,9 +5470,9 @@
 		(in_pos_files yes)
 		(dnp no)
 		(fields_autoplaced yes)
-		(uuid "886e7a11-7fd8-4e3a-a5ba-a62521b60c86")
-		(property "Reference" "C7"
-			(at 222.25 22.8599 0)
+		(uuid "8485e888-d25b-490d-87d3-b63d1e9b41e6")
+		(property "Reference" "C8"
+			(at 241.3 22.8599 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -5483,7 +5483,7 @@
 			)
 		)
 		(property "Value" "C"
-			(at 222.25 25.3999 0)
+			(at 241.3 25.3999 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -5494,7 +5494,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 219.4052 27.94 0)
+			(at 238.4552 27.94 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5505,7 +5505,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 218.44 24.13 0)
+			(at 237.49 24.13 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5516,7 +5516,89 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
-			(at 218.44 24.13 0)
+			(at 237.49 24.13 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "eb22c81a-29cf-4432-a7f8-63d9cfba756b")
+		)
+		(pin "2"
+			(uuid "79febb64-9a6d-4996-82c1-11119ed68b01")
+		)
+		(instances
+			(project "mp3player"
+				(path "/7851373b-cb7e-4e42-801a-d8b5ac5735f4"
+					(reference "C8")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:C")
+		(at 224.79 24.13 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "886e7a11-7fd8-4e3a-a5ba-a62521b60c86")
+		(property "Reference" "C7"
+			(at 228.6 22.8599 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "C"
+			(at 228.6 25.3999 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" ""
+			(at 225.7552 27.94 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 224.79 24.13 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Unpolarized capacitor"
+			(at 224.79 24.13 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
