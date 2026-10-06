@@ -1438,6 +1438,16 @@
 		)
 		(uuid "9e8779b5-7630-42ed-b43d-00eba6465466")
 	)
+	(label "SD_DO2"
+		(at 57.15 60.96 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "9fddf1c0-a24f-4681-88b8-ac9e1b55afaf")
+	)
 	(label "12C_SDA"
 		(at 15.24 50.8 0)
 		(effects
