@@ -1038,6 +1038,16 @@
 		)
 		(uuid "cd794e03-7436-4b9e-8a8e-f68fcfa42175")
 	)
+	(label "VBAT_SENSE"
+		(at 15.24 41.91 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "ffe92a7e-e772-49ce-847c-faddcbf83c8d")
+	)
 	(symbol
 		(lib_id "RF_Module:ESP32-S3-WROOM-1")
 		(at 33.02 44.45 0)
