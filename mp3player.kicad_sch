@@ -4736,7 +4736,6 @@
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "426c9739-fab2-4d20-bea0-2d98109eb7e8")
 		(property "Reference" "#PWR021"
 			(at 237.49 24.13 0)
@@ -4750,7 +4749,7 @@
 			)
 		)
 		(property "Value" "VDD_CODEC"
-			(at 237.49 15.24 0)
+			(at 232.918 16.002 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -5392,8 +5391,8 @@
 				)
 			)
 		)
-		(property "Value" "VDD_CODEC"
-			(at 219.202 16.764 0)
+		(property "Value" "HPVDD"
+			(at 221.234 17.018 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
