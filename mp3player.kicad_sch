@@ -1804,7 +1804,7 @@
 				)
 			)
 		)
-		(property "Value" "SW_Push"
+		(property "Value" "Play"
 			(at 92.71 19.05 0)
 			(show_name no)
 			(do_not_autoplace no)
