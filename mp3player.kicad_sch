@@ -3088,7 +3088,7 @@
 	)
 	(rectangle
 		(start 129.794 15.24)
-		(end 259.334 118.872)
+		(end 258.826 103.632)
 		(stroke
 			(width 0)
 			(type default)
