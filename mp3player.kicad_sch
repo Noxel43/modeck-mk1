@@ -6705,7 +6705,7 @@
 		(dnp no)
 		(uuid "7af53d45-7a04-4203-ac29-8e1da9f12935")
 		(property "Reference" "R5"
-			(at 213.614 61.722 90)
+			(at 213.36 61.976 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
