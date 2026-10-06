@@ -3961,6 +3961,16 @@
 		)
 		(uuid "d4bab7e9-acaa-4cec-abd7-27fdd380854e")
 	)
+	(label "12S_MCLK"
+		(at 137.16 86.36 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "d80862b2-b428-4345-be78-58b2a077f80f")
+	)
 	(label "BTN_EQ"
 		(at 55.88 72.39 0)
 		(effects
