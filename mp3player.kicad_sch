@@ -2043,7 +2043,7 @@
 				)
 			)
 		)
-		(property "Value" "SW_Push"
+		(property "Value" "Trk Prev"
 			(at 92.71 29.21 0)
 			(show_name no)
 			(do_not_autoplace no)
