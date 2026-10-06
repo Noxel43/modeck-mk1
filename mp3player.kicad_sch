@@ -3377,7 +3377,7 @@
 		(uuid "21c90a70-d2d4-43bc-a6a5-915d10bd2571")
 	)
 	(label "HP_R"
-		(at 227.33 45.72 180)
+		(at 232.41 44.45 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3747,7 +3747,7 @@
 		(uuid "b9afaa7a-148a-4dca-a630-ccc8801fc2dd")
 	)
 	(label "HP_L"
-		(at 227.33 43.18 180)
+		(at 232.41 41.91 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6840,7 +6840,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 227.33 48.26 270)
+		(at 232.41 46.99 270)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -6848,10 +6848,9 @@
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "8fc1b124-833e-4110-84fd-13199a3e4e7f")
 		(property "Reference" "#PWR026"
-			(at 220.98 48.26 0)
+			(at 226.06 46.99 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6862,7 +6861,7 @@
 			)
 		)
 		(property "Value" "AU_GND"
-			(at 223.52 48.2599 90)
+			(at 228.6 52.578 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -6873,7 +6872,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 227.33 48.26 0)
+			(at 232.41 46.99 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6884,7 +6883,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 227.33 48.26 0)
+			(at 232.41 46.99 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6895,7 +6894,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 227.33 48.26 0)
+			(at 232.41 46.99 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7197,7 +7196,7 @@
 	)
 	(symbol
 		(lib_id "Connector_Audio:AudioJack3")
-		(at 232.41 45.72 180)
+		(at 237.49 44.45 180)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -7208,7 +7207,7 @@
 		(fields_autoplaced yes)
 		(uuid "97b06040-59d2-4150-90ed-499306eb44bf")
 		(property "Reference" "J1"
-			(at 240.03 43.8149 0)
+			(at 245.11 42.5449 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -7219,7 +7218,7 @@
 			)
 		)
 		(property "Value" "AudioJack3"
-			(at 240.03 46.3549 0)
+			(at 245.11 45.0849 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -7230,7 +7229,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 232.41 45.72 0)
+			(at 237.49 44.45 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7241,7 +7240,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 232.41 45.72 0)
+			(at 237.49 44.45 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7252,7 +7251,7 @@
 			)
 		)
 		(property "Description" "Audio Jack, 3 Poles (Stereo / TRS)"
-			(at 232.41 45.72 0)
+			(at 237.49 44.45 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
