@@ -868,6 +868,18 @@
 			(embedded_fonts no)
 		)
 	)
+	(no_connect
+		(at 17.78 31.75)
+		(uuid "3cc4a81f-9f03-42ac-8e26-d85e6779febc")
+	)
+	(no_connect
+		(at 17.78 34.29)
+		(uuid "56e77eb1-1678-4535-b237-d0a1b5def450")
+	)
+	(no_connect
+		(at 17.78 36.83)
+		(uuid "c1af3c75-38bd-4928-b65f-8aefce2e665d")
+	)
 	(wire
 		(pts
 			(xy 6.35 59.69) (xy 17.78 59.69)
