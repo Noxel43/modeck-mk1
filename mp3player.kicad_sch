@@ -3763,7 +3763,7 @@
 	)
 	(symbol
 		(lib_id "Audio:ES8388")
-		(at 193.04 71.12 0)
+		(at 189.23 71.12 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -3774,7 +3774,7 @@
 		(fields_autoplaced yes)
 		(uuid "2d94b920-b466-41f7-9f19-dc86944670e9")
 		(property "Reference" "U2"
-			(at 197.7233 45.72 0)
+			(at 193.9133 45.72 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -3785,7 +3785,7 @@
 			)
 		)
 		(property "Value" "ES8388"
-			(at 197.7233 48.26 0)
+			(at 193.9133 48.26 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -3796,7 +3796,7 @@
 			)
 		)
 		(property "Footprint" "Package_DFN_QFN:QFN-28-1EP_4x4mm_P0.45mm_EP2.6x2.6mm"
-			(at 193.04 104.14 0)
+			(at 189.23 104.14 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3807,7 +3807,7 @@
 			)
 		)
 		(property "Datasheet" "http://www.everest-semi.com/pdf/ES8388%20DS.pdf"
-			(at 193.04 101.6 0)
+			(at 189.23 101.6 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3818,7 +3818,7 @@
 			)
 		)
 		(property "Description" "Low Power Stereo Audio CODEC With Headphone Amplifier, 24-bit, 8kHz - 96kHz ADC / DAC sampling frequency, 1.8V - 3.3V supply, WQFN-28"
-			(at 193.04 99.314 0)
+			(at 189.23 99.314 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
