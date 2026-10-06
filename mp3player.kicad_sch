@@ -3561,6 +3561,16 @@
 		)
 		(uuid "4212ded7-2713-48a1-b2e5-e8e4e7fd6658")
 	)
+	(label "12C_SDA"
+		(at 139.7 82.55 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "434eb121-cb1c-4bd6-88ab-9ebc198d9897")
+	)
 	(label "12S_MCLK"
 		(at 13.97 69.85 0)
 		(effects
@@ -3662,7 +3672,7 @@
 		(uuid "5ad92ac2-c368-441a-82b6-e2e8def4aa37")
 	)
 	(label "12C_SCL"
-		(at 133.35 76.2 180)
+		(at 139.7 76.2 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5621,7 +5631,7 @@
 	)
 	(symbol
 		(lib_id "Device:R")
-		(at 137.16 82.55 90)
+		(at 143.51 82.55 90)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -5631,7 +5641,7 @@
 		(dnp no)
 		(uuid "32274aac-9173-4958-814b-eb950595850d")
 		(property "Reference" "R9"
-			(at 136.906 82.55 90)
+			(at 143.256 82.55 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -5641,7 +5651,7 @@
 			)
 		)
 		(property "Value" "10k"
-			(at 137.16 80.518 90)
+			(at 143.51 80.518 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -5651,7 +5661,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 137.16 84.328 90)
+			(at 143.51 84.328 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5662,7 +5672,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 137.16 82.55 0)
+			(at 143.51 82.55 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5673,7 +5683,7 @@
 			)
 		)
 		(property "Description" "Resistor"
-			(at 137.16 82.55 0)
+			(at 143.51 82.55 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5700,7 +5710,7 @@
 	)
 	(symbol
 		(lib_id "power:VCC")
-		(at 140.97 82.55 270)
+		(at 147.32 82.55 270)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -5711,7 +5721,7 @@
 		(fields_autoplaced yes)
 		(uuid "329bc888-8d2d-43de-a4a1-84693eef8505")
 		(property "Reference" "#PWR?"
-			(at 137.16 82.55 0)
+			(at 143.51 82.55 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5722,7 +5732,7 @@
 			)
 		)
 		(property "Value" "VCC"
-			(at 144.78 82.5499 90)
+			(at 151.13 82.5499 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -5733,7 +5743,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 140.97 82.55 0)
+			(at 147.32 82.55 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5744,7 +5754,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 140.97 82.55 0)
+			(at 147.32 82.55 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5755,7 +5765,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"VCC\""
-			(at 140.97 82.55 0)
+			(at 147.32 82.55 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7286,7 +7296,7 @@
 	)
 	(symbol
 		(lib_id "power:VCC")
-		(at 140.97 76.2 270)
+		(at 147.32 76.2 270)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -7297,7 +7307,7 @@
 		(fields_autoplaced yes)
 		(uuid "78c3897c-9a6b-435c-893b-5adaccff897a")
 		(property "Reference" "#PWR032"
-			(at 137.16 76.2 0)
+			(at 143.51 76.2 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7308,7 +7318,7 @@
 			)
 		)
 		(property "Value" "VCC"
-			(at 144.78 76.1999 90)
+			(at 151.13 76.1999 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -7319,7 +7329,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 140.97 76.2 0)
+			(at 147.32 76.2 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7330,7 +7340,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 140.97 76.2 0)
+			(at 147.32 76.2 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7341,7 +7351,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"VCC\""
-			(at 140.97 76.2 0)
+			(at 147.32 76.2 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9957,7 +9967,7 @@
 	)
 	(symbol
 		(lib_id "Device:R")
-		(at 137.16 76.2 90)
+		(at 143.51 76.2 90)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -9967,7 +9977,7 @@
 		(dnp no)
 		(uuid "e68d4ce7-dbd3-4ecb-b602-4de2b9279eea")
 		(property "Reference" "R8"
-			(at 137.16 76.2 90)
+			(at 143.51 76.2 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -9977,7 +9987,7 @@
 			)
 		)
 		(property "Value" "10k"
-			(at 137.16 74.168 90)
+			(at 143.51 74.168 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -9987,7 +9997,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 137.16 77.978 90)
+			(at 143.51 77.978 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9998,7 +10008,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 137.16 76.2 0)
+			(at 143.51 76.2 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10009,7 +10019,7 @@
 			)
 		)
 		(property "Description" "Resistor"
-			(at 137.16 76.2 0)
+			(at 143.51 76.2 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
