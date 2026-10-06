@@ -1123,32 +1123,32 @@
 		)
 	)
 	(no_connect
-		(at 26.67 43.18)
+		(at 31.75 46.99)
 		(uuid "00fd8f04-e357-4d44-bf6c-ca86827fb0f7")
 	)
 	(no_connect
-		(at 57.15 63.5)
+		(at 62.23 67.31)
 		(uuid "12d68872-647e-4ce2-8eb2-30aef2a4e911")
 	)
 	(no_connect
-		(at 26.67 35.56)
+		(at 31.75 39.37)
 		(uuid "3cc4a81f-9f03-42ac-8e26-d85e6779febc")
 	)
 	(no_connect
-		(at 57.15 66.04)
+		(at 62.23 69.85)
 		(uuid "4bc25a4b-374a-427d-91b8-8e4245992788")
 	)
 	(no_connect
-		(at 26.67 38.1)
+		(at 31.75 41.91)
 		(uuid "56e77eb1-1678-4535-b237-d0a1b5def450")
 	)
 	(no_connect
-		(at 26.67 40.64)
+		(at 31.75 44.45)
 		(uuid "c1af3c75-38bd-4928-b65f-8aefce2e665d")
 	)
 	(wire
 		(pts
-			(xy 15.24 63.5) (xy 26.67 63.5)
+			(xy 20.32 67.31) (xy 31.75 67.31)
 		)
 		(stroke
 			(width 0)
@@ -1158,7 +1158,7 @@
 	)
 	(wire
 		(pts
-			(xy 15.24 71.12) (xy 26.67 71.12)
+			(xy 20.32 74.93) (xy 31.75 74.93)
 		)
 		(stroke
 			(width 0)
@@ -1168,7 +1168,7 @@
 	)
 	(wire
 		(pts
-			(xy 15.24 58.42) (xy 26.67 58.42)
+			(xy 20.32 62.23) (xy 31.75 62.23)
 		)
 		(stroke
 			(width 0)
@@ -1178,7 +1178,7 @@
 	)
 	(wire
 		(pts
-			(xy 15.24 45.72) (xy 26.67 45.72)
+			(xy 20.32 49.53) (xy 31.75 49.53)
 		)
 		(stroke
 			(width 0)
@@ -1188,7 +1188,7 @@
 	)
 	(wire
 		(pts
-			(xy 15.24 66.04) (xy 26.67 66.04)
+			(xy 20.32 69.85) (xy 31.75 69.85)
 		)
 		(stroke
 			(width 0)
@@ -1198,7 +1198,7 @@
 	)
 	(wire
 		(pts
-			(xy 15.24 53.34) (xy 26.67 53.34)
+			(xy 20.32 57.15) (xy 31.75 57.15)
 		)
 		(stroke
 			(width 0)
@@ -1208,7 +1208,7 @@
 	)
 	(wire
 		(pts
-			(xy 15.24 48.26) (xy 26.67 48.26)
+			(xy 20.32 52.07) (xy 31.75 52.07)
 		)
 		(stroke
 			(width 0)
@@ -1218,7 +1218,7 @@
 	)
 	(wire
 		(pts
-			(xy 15.24 33.02) (xy 26.67 33.02)
+			(xy 20.32 36.83) (xy 31.75 36.83)
 		)
 		(stroke
 			(width 0)
@@ -1228,7 +1228,7 @@
 	)
 	(wire
 		(pts
-			(xy 15.24 25.4) (xy 26.67 25.4)
+			(xy 20.32 29.21) (xy 31.75 29.21)
 		)
 		(stroke
 			(width 0)
@@ -1238,7 +1238,7 @@
 	)
 	(wire
 		(pts
-			(xy 15.24 60.96) (xy 26.67 60.96)
+			(xy 20.32 64.77) (xy 31.75 64.77)
 		)
 		(stroke
 			(width 0)
@@ -1248,7 +1248,7 @@
 	)
 	(wire
 		(pts
-			(xy 15.24 55.88) (xy 26.67 55.88)
+			(xy 20.32 59.69) (xy 31.75 59.69)
 		)
 		(stroke
 			(width 0)
@@ -1258,7 +1258,7 @@
 	)
 	(wire
 		(pts
-			(xy 15.24 30.48) (xy 26.67 30.48)
+			(xy 20.32 34.29) (xy 31.75 34.29)
 		)
 		(stroke
 			(width 0)
@@ -1268,7 +1268,7 @@
 	)
 	(wire
 		(pts
-			(xy 15.24 68.58) (xy 26.67 68.58)
+			(xy 20.32 72.39) (xy 31.75 72.39)
 		)
 		(stroke
 			(width 0)
@@ -1278,7 +1278,7 @@
 	)
 	(wire
 		(pts
-			(xy 15.24 50.8) (xy 26.67 50.8)
+			(xy 20.32 54.61) (xy 31.75 54.61)
 		)
 		(stroke
 			(width 0)
@@ -1287,7 +1287,7 @@
 		(uuid "ff1f2342-ac5c-486b-af34-3a828520e6bc")
 	)
 	(label "USB_DP"
-		(at 57.15 38.1 0)
+		(at 62.23 41.91 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -1297,7 +1297,7 @@
 		(uuid "077895c0-1a04-479d-aa2f-dd88af1e4f42")
 	)
 	(label "TFT_MOSI"
-		(at 15.24 58.42 0)
+		(at 20.32 62.23 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -1307,7 +1307,7 @@
 		(uuid "1341c62d-559c-413e-854b-f1e1ea297784")
 	)
 	(label "TFT_DC"
-		(at 15.24 63.5 0)
+		(at 20.32 67.31 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -1317,7 +1317,7 @@
 		(uuid "177c359a-812f-4179-9a75-8f753ae34d0c")
 	)
 	(label "BTN_TRK_NEXT"
-		(at 57.15 48.26 0)
+		(at 62.23 52.07 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -1327,7 +1327,7 @@
 		(uuid "19533465-fff7-4ba3-aec3-2ded05402a2b")
 	)
 	(label "EN"
-		(at 15.24 25.4 0)
+		(at 20.32 29.21 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -1337,7 +1337,7 @@
 		(uuid "1fe67ec8-3889-472f-beaf-8b16f3016bda")
 	)
 	(label "USB_DM"
-		(at 57.15 35.56 0)
+		(at 62.23 39.37 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -1347,7 +1347,7 @@
 		(uuid "21c90a70-d2d4-43bc-a6a5-915d10bd2571")
 	)
 	(label "TFT_BL"
-		(at 15.24 48.26 0)
+		(at 20.32 52.07 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -1357,7 +1357,7 @@
 		(uuid "2fbbb0a6-ad2b-4df6-843b-27fb8c98f3d9")
 	)
 	(label "SD_D01"
-		(at 57.15 58.42 0)
+		(at 62.23 62.23 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -1367,7 +1367,7 @@
 		(uuid "352a498f-fd59-4537-b000-a20b184519ed")
 	)
 	(label "BTN_PLAY"
-		(at 57.15 45.72 0)
+		(at 62.23 49.53 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -1377,7 +1377,7 @@
 		(uuid "3f2e98ad-f6da-4a4b-84f5-ed8f0d0411c1")
 	)
 	(label "12S_MCLK"
-		(at 15.24 68.58 0)
+		(at 20.32 72.39 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -1387,7 +1387,7 @@
 		(uuid "4bc89e89-d977-4391-907a-73c09e4c5be1")
 	)
 	(label "BTN_MODE_PREV"
-		(at 57.15 68.58 0)
+		(at 62.23 72.39 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -1397,7 +1397,7 @@
 		(uuid "5209be09-8d8a-4f56-8e57-07c7718e259b")
 	)
 	(label "BTM_MODE_NEXT"
-		(at 57.15 27.94 0)
+		(at 62.23 31.75 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -1407,7 +1407,7 @@
 		(uuid "5fd529ed-1b71-4d2a-989a-dab921c1df49")
 	)
 	(label "SD_CLK"
-		(at 57.15 53.34 0)
+		(at 62.23 57.15 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -1417,7 +1417,7 @@
 		(uuid "7b437b80-49e4-4808-b99c-a7e70f5e51a5")
 	)
 	(label "12C_SCL"
-		(at 15.24 53.34 0)
+		(at 20.32 57.15 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -1427,7 +1427,7 @@
 		(uuid "807bdd60-fc67-486f-b9cc-2c14aaf755e6")
 	)
 	(label "BTN_POWER"
-		(at 57.15 40.64 0)
+		(at 62.23 44.45 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -1437,7 +1437,7 @@
 		(uuid "8783feb3-784a-4b05-9c7c-f58793994326")
 	)
 	(label "TFT_CS"
-		(at 15.24 55.88 0)
+		(at 20.32 59.69 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -1447,7 +1447,7 @@
 		(uuid "901116f0-ddb8-45ec-a0b1-c296b9bb3490")
 	)
 	(label "12S_LRCK"
-		(at 57.15 30.48 0)
+		(at 62.23 34.29 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -1457,7 +1457,7 @@
 		(uuid "96db7321-cd4d-4739-9447-05bc1c31839c")
 	)
 	(label "SLIDE_POT"
-		(at 15.24 33.02 0)
+		(at 20.32 36.83 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -1467,7 +1467,7 @@
 		(uuid "9e8779b5-7630-42ed-b43d-00eba6465466")
 	)
 	(label "SD_DO2"
-		(at 57.15 60.96 0)
+		(at 62.23 64.77 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -1477,7 +1477,7 @@
 		(uuid "9fddf1c0-a24f-4681-88b8-ac9e1b55afaf")
 	)
 	(label "12C_SDA"
-		(at 15.24 50.8 0)
+		(at 20.32 54.61 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -1487,7 +1487,7 @@
 		(uuid "b2a1aad6-241a-4189-a0a3-4feb69ea5647")
 	)
 	(label "BTN_TRK_PREV"
-		(at 57.15 25.4 0)
+		(at 62.23 29.21 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -1497,7 +1497,7 @@
 		(uuid "b5a8b144-0e92-4258-933f-f27a42bbaabe")
 	)
 	(label "TFT_RST"
-		(at 15.24 66.04 0)
+		(at 20.32 69.85 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -1507,7 +1507,7 @@
 		(uuid "b9afaa7a-148a-4dca-a630-ccc8801fc2dd")
 	)
 	(label "SD_CMD"
-		(at 57.15 50.8 0)
+		(at 62.23 54.61 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -1517,7 +1517,7 @@
 		(uuid "cab50a61-2781-4198-9bfe-00c8ff23547d")
 	)
 	(label "IO0"
-		(at 15.24 30.48 0)
+		(at 20.32 34.29 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -1527,7 +1527,7 @@
 		(uuid "cd794e03-7436-4b9e-8a8e-f68fcfa42175")
 	)
 	(label "BTN_EQ"
-		(at 57.15 71.12 0)
+		(at 62.23 74.93 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -1537,7 +1537,7 @@
 		(uuid "d98ad604-02ff-4a41-8cf0-3d7a68b4d333")
 	)
 	(label "12S_BCLK"
-		(at 15.24 71.12 0)
+		(at 20.32 74.93 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -1547,7 +1547,7 @@
 		(uuid "df3ef0ec-5858-425c-9b1e-f832e28f9af6")
 	)
 	(label "TFT_SCK"
-		(at 15.24 60.96 0)
+		(at 20.32 64.77 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -1557,7 +1557,7 @@
 		(uuid "e4558c6f-05e1-46c1-8cfa-e70cd3010ecd")
 	)
 	(label "12S_DOUT"
-		(at 57.15 33.02 0)
+		(at 62.23 36.83 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -1567,7 +1567,7 @@
 		(uuid "ecdbbdba-b0b4-42b5-810c-6f5d54e6d27f")
 	)
 	(label "SD_D0"
-		(at 57.15 55.88 0)
+		(at 62.23 59.69 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -1577,7 +1577,7 @@
 		(uuid "f13ce100-a3dc-4188-837e-a2673f799274")
 	)
 	(label "SD_D03"
-		(at 57.15 43.18 0)
+		(at 62.23 46.99 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -1587,7 +1587,7 @@
 		(uuid "f76cd651-7d1f-4c4b-8176-5d3e7a99e503")
 	)
 	(label "VBAT_SENSE"
-		(at 15.24 45.72 0)
+		(at 20.32 49.53 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -1598,7 +1598,7 @@
 	)
 	(symbol
 		(lib_id "RF_Module:ESP32-S3-WROOM-1")
-		(at 41.91 48.26 0)
+		(at 46.99 52.07 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -1609,7 +1609,7 @@
 		(fields_autoplaced yes)
 		(uuid "93512ec1-3ac5-4f07-900a-252f2a879178")
 		(property "Reference" "U1"
-			(at 44.0533 17.78 0)
+			(at 49.1333 21.59 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -1620,7 +1620,7 @@
 			)
 		)
 		(property "Value" "ESP32-S3-WROOM-1"
-			(at 44.0533 20.32 0)
+			(at 49.1333 24.13 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -1631,7 +1631,7 @@
 			)
 		)
 		(property "Footprint" "RF_Module:ESP32-S3-WROOM-1"
-			(at 41.91 45.72 0)
+			(at 46.99 49.53 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1642,7 +1642,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.espressif.com/sites/default/files/documentation/esp32-s3-wroom-1_wroom-1u_datasheet_en.pdf"
-			(at 41.91 48.26 0)
+			(at 46.99 52.07 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1653,7 +1653,7 @@
 			)
 		)
 		(property "Description" "RF Module, ESP32-S3 SoC, Wi-Fi 802.11b/g/n, Bluetooth, BLE, 32-bit, 3.3V, onboard antenna, SMD"
-			(at 41.91 48.26 0)
+			(at 46.99 52.07 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1797,7 +1797,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 41.91 76.2 0)
+		(at 46.99 80.01 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -1808,7 +1808,7 @@
 		(fields_autoplaced yes)
 		(uuid "9a3bfa14-36d6-4df0-876a-94dff6ad2a7f")
 		(property "Reference" "#PWR01"
-			(at 41.91 82.55 0)
+			(at 46.99 86.36 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1819,7 +1819,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 41.91 81.28 0)
+			(at 46.99 85.09 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -1829,7 +1829,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 41.91 76.2 0)
+			(at 46.99 80.01 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1840,7 +1840,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 41.91 76.2 0)
+			(at 46.99 80.01 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1851,7 +1851,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 41.91 76.2 0)
+			(at 46.99 80.01 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1875,7 +1875,7 @@
 	)
 	(symbol
 		(lib_id "power:VCC")
-		(at 41.91 20.32 0)
+		(at 46.99 24.13 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -1886,7 +1886,7 @@
 		(fields_autoplaced yes)
 		(uuid "d2cdf86c-bf0c-47f6-b058-8ba417b66e60")
 		(property "Reference" "#PWR02"
-			(at 41.91 24.13 0)
+			(at 46.99 27.94 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1897,7 +1897,7 @@
 			)
 		)
 		(property "Value" "VCC"
-			(at 41.91 15.24 0)
+			(at 46.99 19.05 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -1907,7 +1907,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 41.91 20.32 0)
+			(at 46.99 24.13 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1918,7 +1918,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 41.91 20.32 0)
+			(at 46.99 24.13 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1929,7 +1929,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"VCC\""
-			(at 41.91 20.32 0)
+			(at 46.99 24.13 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
