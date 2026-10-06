@@ -2931,7 +2931,7 @@
 		)
 		(uuid "5fd529ed-1b71-4d2a-989a-dab921c1df49")
 	)
-	(label "ADC_VREF"
+	(label "ADCVREF"
 		(at 171.45 83.82 180)
 		(effects
 			(font
