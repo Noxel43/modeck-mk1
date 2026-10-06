@@ -4892,7 +4892,6 @@
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "472e9ae1-2c51-4e55-b4fc-57a183a3e388")
 		(property "Reference" "C4"
 			(at 194.31 24.1299 0)
@@ -4906,7 +4905,7 @@
 			)
 		)
 		(property "Value" "100nF"
-			(at 194.31 26.6699 0)
+			(at 191.77 27.686 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
