@@ -3565,7 +3565,7 @@
 		(uuid "21c90a70-d2d4-43bc-a6a5-915d10bd2571")
 	)
 	(label "VMID"
-		(at 163.83 104.14 0)
+		(at 162.56 104.14 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5964,7 +5964,7 @@
 	)
 	(symbol
 		(lib_id "Device:C")
-		(at 163.83 107.95 0)
+		(at 162.56 107.95 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -5974,7 +5974,7 @@
 		(dnp no)
 		(uuid "323b3c81-d262-404b-a05b-2e1e214a0ee5")
 		(property "Reference" "C13"
-			(at 166.878 106.68 0)
+			(at 165.608 106.68 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -5985,7 +5985,7 @@
 			)
 		)
 		(property "Value" "1μF"
-			(at 166.878 109.22 0)
+			(at 165.608 109.22 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -5996,7 +5996,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 164.7952 111.76 0)
+			(at 163.5252 111.76 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6007,7 +6007,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 163.83 107.95 0)
+			(at 162.56 107.95 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6018,7 +6018,7 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
-			(at 163.83 107.95 0)
+			(at 162.56 107.95 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10234,7 +10234,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 163.83 111.76 0)
+		(at 162.56 111.76 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -10244,7 +10244,7 @@
 		(dnp no)
 		(uuid "d39c50dd-e566-45f5-8b7b-ac9b7ecc51a5")
 		(property "Reference" "#PWR?"
-			(at 163.83 118.11 0)
+			(at 162.56 118.11 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10255,7 +10255,7 @@
 			)
 		)
 		(property "Value" "AU_GND"
-			(at 167.386 115.316 0)
+			(at 166.116 115.316 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -10265,7 +10265,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 163.83 111.76 0)
+			(at 162.56 111.76 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10276,7 +10276,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 163.83 111.76 0)
+			(at 162.56 111.76 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10287,7 +10287,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 163.83 111.76 0)
+			(at 162.56 111.76 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
