@@ -3267,6 +3267,16 @@
 		)
 		(uuid "50612475-0d4d-4dd5-a4b2-1ab520311171")
 	)
+	(label "HP_R"
+		(at 198.12 59.69 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "50c13f7e-2c26-4533-8c06-b79eb1e378e4")
+	)
 	(label "CODEC_LRCK"
 		(at 143.51 33.02 180)
 		(effects
