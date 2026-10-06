@@ -5731,7 +5731,7 @@
 				)
 			)
 		)
-		(property "Value" "VCC"
+		(property "Value" "+3V3"
 			(at 151.13 82.5499 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7317,7 +7317,7 @@
 				)
 			)
 		)
-		(property "Value" "VCC"
+		(property "Value" "+3V3"
 			(at 151.13 76.1999 90)
 			(show_name no)
 			(do_not_autoplace no)
