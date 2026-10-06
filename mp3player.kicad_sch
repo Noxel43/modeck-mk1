@@ -5619,10 +5619,9 @@
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "32274aac-9173-4958-814b-eb950595850d")
 		(property "Reference" "R9"
-			(at 137.16 76.2 90)
+			(at 136.906 82.55 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -9798,10 +9797,9 @@
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "e68d4ce7-dbd3-4ecb-b602-4de2b9279eea")
 		(property "Reference" "R8"
-			(at 137.16 69.85 90)
+			(at 137.16 76.2 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
