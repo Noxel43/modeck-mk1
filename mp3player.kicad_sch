@@ -870,7 +870,7 @@
 	)
 	(wire
 		(pts
-			(xy 15.24 59.69) (xy 17.78 59.69)
+			(xy 6.35 59.69) (xy 17.78 59.69)
 		)
 		(stroke
 			(width 0)
@@ -880,7 +880,7 @@
 	)
 	(wire
 		(pts
-			(xy 15.24 67.31) (xy 17.78 67.31)
+			(xy 6.35 67.31) (xy 17.78 67.31)
 		)
 		(stroke
 			(width 0)
@@ -890,7 +890,7 @@
 	)
 	(wire
 		(pts
-			(xy 15.24 54.61) (xy 17.78 54.61)
+			(xy 6.35 54.61) (xy 17.78 54.61)
 		)
 		(stroke
 			(width 0)
@@ -900,7 +900,7 @@
 	)
 	(wire
 		(pts
-			(xy 15.24 41.91) (xy 17.78 41.91)
+			(xy 6.35 41.91) (xy 17.78 41.91)
 		)
 		(stroke
 			(width 0)
@@ -910,7 +910,7 @@
 	)
 	(wire
 		(pts
-			(xy 15.24 62.23) (xy 17.78 62.23)
+			(xy 6.35 62.23) (xy 17.78 62.23)
 		)
 		(stroke
 			(width 0)
@@ -920,7 +920,7 @@
 	)
 	(wire
 		(pts
-			(xy 15.24 49.53) (xy 17.78 49.53)
+			(xy 6.35 49.53) (xy 17.78 49.53)
 		)
 		(stroke
 			(width 0)
@@ -930,7 +930,7 @@
 	)
 	(wire
 		(pts
-			(xy 15.24 44.45) (xy 17.78 44.45)
+			(xy 6.35 44.45) (xy 17.78 44.45)
 		)
 		(stroke
 			(width 0)
@@ -940,7 +940,7 @@
 	)
 	(wire
 		(pts
-			(xy 15.24 29.21) (xy 17.78 29.21)
+			(xy 6.35 29.21) (xy 17.78 29.21)
 		)
 		(stroke
 			(width 0)
@@ -950,7 +950,7 @@
 	)
 	(wire
 		(pts
-			(xy 15.24 21.59) (xy 17.78 21.59)
+			(xy 6.35 21.59) (xy 17.78 21.59)
 		)
 		(stroke
 			(width 0)
@@ -960,7 +960,7 @@
 	)
 	(wire
 		(pts
-			(xy 15.24 57.15) (xy 17.78 57.15)
+			(xy 6.35 57.15) (xy 17.78 57.15)
 		)
 		(stroke
 			(width 0)
@@ -970,7 +970,7 @@
 	)
 	(wire
 		(pts
-			(xy 15.24 52.07) (xy 17.78 52.07)
+			(xy 6.35 52.07) (xy 17.78 52.07)
 		)
 		(stroke
 			(width 0)
@@ -980,7 +980,7 @@
 	)
 	(wire
 		(pts
-			(xy 15.24 26.67) (xy 17.78 26.67)
+			(xy 6.35 26.67) (xy 17.78 26.67)
 		)
 		(stroke
 			(width 0)
@@ -990,7 +990,7 @@
 	)
 	(wire
 		(pts
-			(xy 15.24 64.77) (xy 17.78 64.77)
+			(xy 6.35 64.77) (xy 17.78 64.77)
 		)
 		(stroke
 			(width 0)
@@ -1000,7 +1000,7 @@
 	)
 	(wire
 		(pts
-			(xy 15.24 46.99) (xy 17.78 46.99)
+			(xy 6.35 46.99) (xy 17.78 46.99)
 		)
 		(stroke
 			(width 0)
@@ -1009,7 +1009,7 @@
 		(uuid "ff1f2342-ac5c-486b-af34-3a828520e6bc")
 	)
 	(label "TFT_MOSI"
-		(at 15.24 54.61 0)
+		(at 6.35 54.61 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -1019,7 +1019,7 @@
 		(uuid "1341c62d-559c-413e-854b-f1e1ea297784")
 	)
 	(label "TFT_DC"
-		(at 15.24 59.69 0)
+		(at 6.35 59.69 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -1029,7 +1029,7 @@
 		(uuid "177c359a-812f-4179-9a75-8f753ae34d0c")
 	)
 	(label "EN"
-		(at 15.24 21.59 0)
+		(at 6.35 21.59 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -1039,7 +1039,7 @@
 		(uuid "1fe67ec8-3889-472f-beaf-8b16f3016bda")
 	)
 	(label "TFT_BL"
-		(at 15.24 44.45 0)
+		(at 6.35 44.45 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -1049,7 +1049,7 @@
 		(uuid "2fbbb0a6-ad2b-4df6-843b-27fb8c98f3d9")
 	)
 	(label "12S_MCLK"
-		(at 15.24 64.77 0)
+		(at 6.35 64.77 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -1059,7 +1059,7 @@
 		(uuid "4bc89e89-d977-4391-907a-73c09e4c5be1")
 	)
 	(label "12C_SCL"
-		(at 15.24 49.53 0)
+		(at 6.35 49.53 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -1069,7 +1069,7 @@
 		(uuid "807bdd60-fc67-486f-b9cc-2c14aaf755e6")
 	)
 	(label "TFT_CS"
-		(at 15.24 52.07 0)
+		(at 6.35 52.07 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -1079,7 +1079,7 @@
 		(uuid "901116f0-ddb8-45ec-a0b1-c296b9bb3490")
 	)
 	(label "SLIDE_POT"
-		(at 15.24 29.21 0)
+		(at 6.35 29.21 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -1089,7 +1089,7 @@
 		(uuid "9e8779b5-7630-42ed-b43d-00eba6465466")
 	)
 	(label "12C_SDA"
-		(at 15.24 46.99 0)
+		(at 6.35 46.99 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -1099,7 +1099,7 @@
 		(uuid "b2a1aad6-241a-4189-a0a3-4feb69ea5647")
 	)
 	(label "TFT_RST"
-		(at 15.24 62.23 0)
+		(at 6.35 62.23 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -1109,7 +1109,7 @@
 		(uuid "b9afaa7a-148a-4dca-a630-ccc8801fc2dd")
 	)
 	(label "IO0"
-		(at 15.24 26.67 0)
+		(at 6.35 26.67 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -1119,7 +1119,7 @@
 		(uuid "cd794e03-7436-4b9e-8a8e-f68fcfa42175")
 	)
 	(label "12S_BCLK"
-		(at 15.24 67.31 0)
+		(at 6.35 67.31 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -1129,7 +1129,7 @@
 		(uuid "df3ef0ec-5858-425c-9b1e-f832e28f9af6")
 	)
 	(label "TFT_SCK"
-		(at 15.24 57.15 0)
+		(at 6.35 57.15 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -1139,7 +1139,7 @@
 		(uuid "e4558c6f-05e1-46c1-8cfa-e70cd3010ecd")
 	)
 	(label "VBAT_SENSE"
-		(at 15.24 41.91 0)
+		(at 6.35 41.91 0)
 		(effects
 			(font
 				(size 1.27 1.27)
