@@ -4728,7 +4728,7 @@
 	)
 	(symbol
 		(lib_id "power:VCC")
-		(at 241.3 20.32 0)
+		(at 243.84 20.32 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -4738,7 +4738,7 @@
 		(dnp no)
 		(uuid "426c9739-fab2-4d20-bea0-2d98109eb7e8")
 		(property "Reference" "#PWR021"
-			(at 241.3 24.13 0)
+			(at 243.84 24.13 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4749,7 +4749,7 @@
 			)
 		)
 		(property "Value" "VDD_CODEC"
-			(at 234.95 17.018 0)
+			(at 237.49 17.018 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -4759,7 +4759,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 241.3 20.32 0)
+			(at 243.84 20.32 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4770,7 +4770,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 241.3 20.32 0)
+			(at 243.84 20.32 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4781,7 +4781,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"VCC\""
-			(at 241.3 20.32 0)
+			(at 243.84 20.32 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5692,7 +5692,7 @@
 	)
 	(symbol
 		(lib_id "Device:C")
-		(at 241.3 24.13 0)
+		(at 243.84 24.13 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -5703,7 +5703,7 @@
 		(fields_autoplaced yes)
 		(uuid "8485e888-d25b-490d-87d3-b63d1e9b41e6")
 		(property "Reference" "C8"
-			(at 245.11 22.8599 0)
+			(at 247.65 22.8599 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -5714,7 +5714,7 @@
 			)
 		)
 		(property "Value" "C"
-			(at 245.11 25.3999 0)
+			(at 247.65 25.3999 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -5725,7 +5725,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 242.2652 27.94 0)
+			(at 244.8052 27.94 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5736,7 +5736,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 241.3 24.13 0)
+			(at 243.84 24.13 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5747,7 +5747,7 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
-			(at 241.3 24.13 0)
+			(at 243.84 24.13 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
