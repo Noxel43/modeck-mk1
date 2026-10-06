@@ -3709,7 +3709,6 @@
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "14ec2d3f-ef33-4eca-8ab5-69e4469a74a1")
 		(property "Reference" "#PWR?"
 			(at 191.77 52.07 0)
@@ -3722,8 +3721,8 @@
 				)
 			)
 		)
-		(property "Value" "VDD"
-			(at 191.77 43.18 0)
+		(property "Value" "HPVDD"
+			(at 190.246 44.704 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
