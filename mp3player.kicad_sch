@@ -2506,6 +2506,10 @@
 		(uuid "12d68872-647e-4ce2-8eb2-30aef2a4e911")
 	)
 	(no_connect
+		(at 204.47 73.66)
+		(uuid "1c570046-1ee3-4a48-a27a-bf722e23d61e")
+	)
+	(no_connect
 		(at 171.45 66.04)
 		(uuid "37d3fdd6-b017-4b71-8663-b59d3f3cfa59")
 	)
