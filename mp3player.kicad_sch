@@ -1338,6 +1338,16 @@
 		)
 		(uuid "2fbbb0a6-ad2b-4df6-843b-27fb8c98f3d9")
 	)
+	(label "BTN_PLAY"
+		(at 57.15 45.72 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "3f2e98ad-f6da-4a4b-84f5-ed8f0d0411c1")
+	)
 	(label "12S_MCLK"
 		(at 15.24 68.58 0)
 		(effects
