@@ -1722,6 +1722,16 @@
 		)
 		(uuid "cd794e03-7436-4b9e-8a8e-f68fcfa42175")
 	)
+	(label "BTN_TRK_NEXT"
+		(at 87.63 44.45 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "d0483223-e012-43c2-8846-9904128351cd")
+	)
 	(label "BTN_EQ"
 		(at 55.88 72.39 0)
 		(effects
