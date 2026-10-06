@@ -3117,6 +3117,17 @@
 		)
 		(uuid "4196ac80-945d-4514-b942-f75391f1ef53")
 	)
+	(text "place near codec\n"
+		(exclude_from_sim no)
+		(at 154.686 83.058 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "bc5a04a9-aab0-4de7-8993-9e2ef3cc7e7e")
+	)
 	(text "Controls"
 		(exclude_from_sim no)
 		(at 97.79 13.716 0)
