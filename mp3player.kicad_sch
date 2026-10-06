@@ -1473,7 +1473,7 @@
 	)
 	(text "for waking from sleep\n"
 		(exclude_from_sim no)
-		(at 159.766 40.64 0)
+		(at 119.888 42.418 0)
 		(effects
 			(font
 				(size 1.27 1.27)
