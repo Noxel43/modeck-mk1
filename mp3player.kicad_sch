@@ -2470,6 +2470,16 @@
 	)
 	(wire
 		(pts
+			(xy 39.37 63.5) (xy 39.37 62.23)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "039868ec-39c2-4c50-b833-2349fe90d792")
+	)
+	(wire
+		(pts
 			(xy 15.24 68.58) (xy 15.24 12.7)
 		)
 		(stroke
@@ -2640,7 +2650,7 @@
 	)
 	(wire
 		(pts
-			(xy 34.29 72.39) (xy 34.29 62.23)
+			(xy 34.29 72.39) (xy 34.29 71.12)
 		)
 		(stroke
 			(width 0)
@@ -2650,7 +2660,17 @@
 	)
 	(wire
 		(pts
-			(xy 39.37 72.39) (xy 39.37 62.23)
+			(xy 34.29 63.5) (xy 34.29 62.23)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "6804a716-ca81-4087-95be-689e19fbf752")
+	)
+	(wire
+		(pts
+			(xy 39.37 72.39) (xy 39.37 71.12)
 		)
 		(stroke
 			(width 0)
@@ -2740,7 +2760,7 @@
 	)
 	(wire
 		(pts
-			(xy 36.83 72.39) (xy 36.83 62.23)
+			(xy 36.83 72.39) (xy 36.83 71.12)
 		)
 		(stroke
 			(width 0)
@@ -2850,7 +2870,7 @@
 	)
 	(wire
 		(pts
-			(xy 41.91 72.39) (xy 41.91 62.23)
+			(xy 41.91 72.39) (xy 41.91 71.12)
 		)
 		(stroke
 			(width 0)
@@ -2867,6 +2887,16 @@
 			(type default)
 		)
 		(uuid "d67156e7-7ae9-4aa6-a28e-c66c60243733")
+	)
+	(wire
+		(pts
+			(xy 36.83 63.5) (xy 36.83 62.23)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d757a905-2c5d-4cce-80a3-343b4b22f04e")
 	)
 	(wire
 		(pts
@@ -2907,6 +2937,16 @@
 			(type default)
 		)
 		(uuid "e0b1dbcd-bc4f-459e-af0b-42298d291075")
+	)
+	(wire
+		(pts
+			(xy 41.91 63.5) (xy 41.91 62.23)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e29e9653-3ce1-47b9-abd0-7e4718ea73d4")
 	)
 	(wire
 		(pts
@@ -3351,6 +3391,88 @@
 	)
 	(symbol
 		(lib_id "Device:C_Polarized")
+		(at 41.91 67.31 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "2175616a-98e3-4576-9a30-9db94f8a236a")
+		(property "Reference" "C9"
+			(at 45.72 65.1509 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "C_Polarized"
+			(at 45.72 67.6909 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" ""
+			(at 42.8752 71.12 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 41.91 67.31 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Polarized capacitor"
+			(at 41.91 67.31 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "27015a32-34b6-4cc3-888e-8b6a0cf03f5d")
+		)
+		(pin "2"
+			(uuid "6eb47d2e-e021-4a74-b549-9161edd11830")
+		)
+		(instances
+			(project "mp3player"
+				(path "/7851373b-cb7e-4e42-801a-d8b5ac5735f4"
+					(reference "C9")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:C_Polarized")
 		(at 63.5 31.75 180)
 		(unit 1)
 		(body_style 1)
@@ -3591,6 +3713,88 @@
 			(project "mp3player"
 				(path "/7851373b-cb7e-4e42-801a-d8b5ac5735f4"
 					(reference "C4")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:C_Polarized")
+		(at 39.37 67.31 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "4ec54542-2133-48cd-b9d8-bca28e484f1e")
+		(property "Reference" "C8"
+			(at 43.18 65.1509 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "C_Polarized"
+			(at 43.18 67.6909 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" ""
+			(at 40.3352 71.12 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 39.37 67.31 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Polarized capacitor"
+			(at 39.37 67.31 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "27015a32-34b6-4cc3-888e-8b6a0cf03f5d")
+		)
+		(pin "2"
+			(uuid "6eb47d2e-e021-4a74-b549-9161edd11830")
+		)
+		(instances
+			(project "mp3player"
+				(path "/7851373b-cb7e-4e42-801a-d8b5ac5735f4"
+					(reference "C8")
 					(unit 1)
 				)
 			)
@@ -4470,6 +4674,88 @@
 			(project "mp3player"
 				(path "/7851373b-cb7e-4e42-801a-d8b5ac5735f4"
 					(reference "#PWR?")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:C_Polarized")
+		(at 36.83 67.31 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "e085f634-42f4-4ccc-a9d8-09f805c453c2")
+		(property "Reference" "C7"
+			(at 40.64 65.1509 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "C_Polarized"
+			(at 40.64 67.6909 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" ""
+			(at 37.7952 71.12 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 36.83 67.31 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Polarized capacitor"
+			(at 36.83 67.31 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "27015a32-34b6-4cc3-888e-8b6a0cf03f5d")
+		)
+		(pin "2"
+			(uuid "6eb47d2e-e021-4a74-b549-9161edd11830")
+		)
+		(instances
+			(project "mp3player"
+				(path "/7851373b-cb7e-4e42-801a-d8b5ac5735f4"
+					(reference "C7")
 					(unit 1)
 				)
 			)
