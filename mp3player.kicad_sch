@@ -1642,6 +1642,16 @@
 		)
 		(uuid "901116f0-ddb8-45ec-a0b1-c296b9bb3490")
 	)
+	(label "BTN_EQ"
+		(at 87.63 74.93 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "9525db65-1e04-464e-9abd-f51cf1b21573")
+	)
 	(label "12S_LRCK"
 		(at 55.88 31.75 0)
 		(effects
