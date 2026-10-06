@@ -3804,6 +3804,16 @@
 		)
 		(uuid "6843c5b1-13d2-4ea0-8006-0690a4fef81a")
 	)
+	(label "VREF"
+		(at 139.7 104.14 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "795a4c8d-03e2-4a12-b441-e12112dc1040")
+	)
 	(label "SLIDE_POT"
 		(at 93.98 100.33 0)
 		(effects
@@ -3943,6 +3953,16 @@
 			(justify right bottom)
 		)
 		(uuid "a2ffc7cd-99c5-4754-8da4-570cc2e4215b")
+	)
+	(label "ADCVREF"
+		(at 153.67 104.14 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "a739ea1c-1188-46ca-8f54-46beec3b2a5d")
 	)
 	(label "CODEC_MCLK"
 		(at 143.51 27.94 180)
