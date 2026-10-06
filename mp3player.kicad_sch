@@ -3911,6 +3911,16 @@
 		)
 		(uuid "c275122e-9a8e-4a4a-8728-a0d731ad0000")
 	)
+	(label "12S_BCLK"
+		(at 148.59 86.36 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "c9a0dbe2-6ab9-4b7d-820d-486bf4f57251")
+	)
 	(label "SD_CMD"
 		(at 55.88 52.07 0)
 		(effects
