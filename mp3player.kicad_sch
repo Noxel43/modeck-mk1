@@ -1028,6 +1028,16 @@
 		)
 		(uuid "2fbbb0a6-ad2b-4df6-843b-27fb8c98f3d9")
 	)
+	(label "12C_SCL"
+		(at 15.24 49.53 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "807bdd60-fc67-486f-b9cc-2c14aaf755e6")
+	)
 	(label "SLIDE_POT"
 		(at 15.24 29.21 0)
 		(effects
