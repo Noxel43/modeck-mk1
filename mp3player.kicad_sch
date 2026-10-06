@@ -3466,6 +3466,16 @@
 		)
 		(uuid "4eaa94e9-0bbc-4a85-9b44-7be65102c126")
 	)
+	(label "HP_L"
+		(at 184.15 63.5 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "50560548-7ac1-4fb6-ad7b-d06ba0543b91")
+	)
 	(label "BTN_PLAY"
 		(at 92.71 24.13 180)
 		(effects
