@@ -1019,7 +1019,7 @@
 		(uuid "1fe67ec8-3889-472f-beaf-8b16f3016bda")
 	)
 	(label "SLIDE_POT"
-		(at 5.08 29.21 0)
+		(at 15.24 29.21 0)
 		(effects
 			(font
 				(size 1.27 1.27)
