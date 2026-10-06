@@ -1008,6 +1008,16 @@
 		)
 		(uuid "ff1f2342-ac5c-486b-af34-3a828520e6bc")
 	)
+	(label "EN"
+		(at 15.24 21.59 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "1fe67ec8-3889-472f-beaf-8b16f3016bda")
+	)
 	(symbol
 		(lib_id "RF_Module:ESP32-S3-WROOM-1")
 		(at 33.02 44.45 0)
