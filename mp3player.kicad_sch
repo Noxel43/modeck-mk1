@@ -6231,7 +6231,6 @@
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "daafe5de-ac3a-481a-b769-ba0ac15c2624")
 		(property "Reference" "#PWR017"
 			(at 184.15 52.07 0)
@@ -6244,8 +6243,8 @@
 				)
 			)
 		)
-		(property "Value" "VDD"
-			(at 184.15 43.18 0)
+		(property "Value" "VDD_CODEC"
+			(at 178.054 44.958 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
