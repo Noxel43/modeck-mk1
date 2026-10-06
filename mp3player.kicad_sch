@@ -3709,7 +3709,7 @@
 		(dnp no)
 		(uuid "100ef462-847c-402e-8d2f-27122a07676e")
 		(property "Reference" "C5"
-			(at 204.724 26.162 0)
+			(at 204.978 25.146 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -3720,7 +3720,7 @@
 			)
 		)
 		(property "Value" "100nF"
-			(at 204.724 28.702 0)
+			(at 203.2 27.686 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
