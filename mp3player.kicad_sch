@@ -3111,6 +3111,16 @@
 		)
 		(uuid "cab50a61-2781-4198-9bfe-00c8ff23547d")
 	)
+	(label "VMID"
+		(at 171.45 86.36 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "cb9ce651-534f-4051-aa9a-2a846d50411b")
+	)
 	(label "IO0"
 		(at 13.97 31.75 0)
 		(effects
