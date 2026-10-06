@@ -1028,6 +1028,16 @@
 		)
 		(uuid "9e8779b5-7630-42ed-b43d-00eba6465466")
 	)
+	(label "IO0"
+		(at 11.43 26.67 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "e8cfc8a6-ef1a-40e7-9883-76fc77627f9e")
+	)
 	(symbol
 		(lib_id "RF_Module:ESP32-S3-WROOM-1")
 		(at 33.02 44.45 0)
