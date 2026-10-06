@@ -3551,6 +3551,16 @@
 		)
 		(uuid "3f2e98ad-f6da-4a4b-84f5-ed8f0d0411c1")
 	)
+	(label "12S_DOUT"
+		(at 171.45 86.36 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "419880fa-6b23-432f-9a62-72be80b33d2e")
+	)
 	(label "EN"
 		(at 48.26 96.52 180)
 		(effects
