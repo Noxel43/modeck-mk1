@@ -3303,7 +3303,7 @@
 	)
 	(wire
 		(pts
-			(xy 176.53 96.52) (xy 176.53 93.98)
+			(xy 179.07 96.52) (xy 179.07 93.98)
 		)
 		(stroke
 			(width 0)
@@ -3592,7 +3592,7 @@
 		(uuid "3f2e98ad-f6da-4a4b-84f5-ed8f0d0411c1")
 	)
 	(label "12S_DOUT"
-		(at 176.53 86.36 0)
+		(at 179.07 86.36 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3822,7 +3822,7 @@
 		(uuid "807bdd60-fc67-486f-b9cc-2c14aaf755e6")
 	)
 	(label "CODEC_DIN"
-		(at 176.53 96.52 0)
+		(at 179.07 96.52 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -10570,7 +10570,7 @@
 	)
 	(symbol
 		(lib_id "Device:R")
-		(at 176.53 90.17 0)
+		(at 179.07 90.17 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -10580,7 +10580,7 @@
 		(dnp no)
 		(uuid "eb68a724-0c38-48d5-af22-962d919bb681")
 		(property "Reference" "R13"
-			(at 176.53 91.948 90)
+			(at 179.07 91.948 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -10591,7 +10591,7 @@
 			)
 		)
 		(property "Value" "R"
-			(at 178.054 91.186 0)
+			(at 180.594 91.186 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -10602,7 +10602,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 174.752 90.17 90)
+			(at 177.292 90.17 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10613,7 +10613,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 176.53 90.17 0)
+			(at 179.07 90.17 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10624,7 +10624,7 @@
 			)
 		)
 		(property "Description" "Resistor"
-			(at 176.53 90.17 0)
+			(at 179.07 90.17 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
