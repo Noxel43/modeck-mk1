@@ -3283,7 +3283,7 @@
 	)
 	(wire
 		(pts
-			(xy 137.16 96.52) (xy 137.16 93.98)
+			(xy 137.16 97.79) (xy 137.16 95.25)
 		)
 		(stroke
 			(width 0)
@@ -3303,7 +3303,7 @@
 	)
 	(wire
 		(pts
-			(xy 179.07 96.52) (xy 179.07 93.98)
+			(xy 179.07 97.79) (xy 179.07 95.25)
 		)
 		(stroke
 			(width 0)
@@ -3343,7 +3343,7 @@
 	)
 	(wire
 		(pts
-			(xy 151.13 96.52) (xy 151.13 93.98)
+			(xy 151.13 97.79) (xy 151.13 95.25)
 		)
 		(stroke
 			(width 0)
@@ -3383,7 +3383,7 @@
 	)
 	(wire
 		(pts
-			(xy 165.1 96.52) (xy 165.1 93.98)
+			(xy 165.1 97.79) (xy 165.1 95.25)
 		)
 		(stroke
 			(width 0)
@@ -3592,7 +3592,7 @@
 		(uuid "3f2e98ad-f6da-4a4b-84f5-ed8f0d0411c1")
 	)
 	(label "12S_DOUT"
-		(at 179.07 86.36 0)
+		(at 179.07 87.63 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3712,7 +3712,7 @@
 		(uuid "5209be09-8d8a-4f56-8e57-07c7718e259b")
 	)
 	(label "CODEC_BCLK"
-		(at 151.13 96.52 0)
+		(at 151.13 97.79 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3762,7 +3762,7 @@
 		(uuid "659fdbfe-28c4-43af-8c2d-013c5afd8c47")
 	)
 	(label "CODEC_MCLK"
-		(at 137.16 96.52 0)
+		(at 137.16 97.79 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3822,7 +3822,7 @@
 		(uuid "807bdd60-fc67-486f-b9cc-2c14aaf755e6")
 	)
 	(label "CODEC_DIN"
-		(at 179.07 96.52 0)
+		(at 179.07 97.79 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3992,7 +3992,7 @@
 		(uuid "c275122e-9a8e-4a4a-8728-a0d731ad0000")
 	)
 	(label "CODEC_LRCK"
-		(at 165.1 96.52 0)
+		(at 165.1 97.79 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4002,7 +4002,7 @@
 		(uuid "c67ae8b9-ada7-4aad-9874-3723291753ac")
 	)
 	(label "12S_BCLK"
-		(at 151.13 86.36 0)
+		(at 151.13 87.63 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4062,7 +4062,7 @@
 		(uuid "d4bab7e9-acaa-4cec-abd7-27fdd380854e")
 	)
 	(label "12S_MCLK"
-		(at 137.16 86.36 0)
+		(at 137.16 87.63 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4102,7 +4102,7 @@
 		(uuid "e4558c6f-05e1-46c1-8cfa-e70cd3010ecd")
 	)
 	(label "12S_LRCK"
-		(at 165.1 86.36 0)
+		(at 165.1 87.63 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -7254,7 +7254,7 @@
 	)
 	(symbol
 		(lib_id "Device:R")
-		(at 165.1 90.17 0)
+		(at 165.1 91.44 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -7264,7 +7264,7 @@
 		(dnp no)
 		(uuid "714f4ddc-772d-400d-bbc8-1416f2bc69ab")
 		(property "Reference" "R12"
-			(at 165.1 91.948 90)
+			(at 165.1 93.218 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -7275,7 +7275,7 @@
 			)
 		)
 		(property "Value" "R"
-			(at 166.624 91.186 0)
+			(at 166.624 92.456 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -7286,7 +7286,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 163.322 90.17 90)
+			(at 163.322 91.44 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7297,7 +7297,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 165.1 90.17 0)
+			(at 165.1 91.44 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7308,7 +7308,7 @@
 			)
 		)
 		(property "Description" "Resistor"
-			(at 165.1 90.17 0)
+			(at 165.1 91.44 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7820,7 +7820,7 @@
 	)
 	(symbol
 		(lib_id "Device:R")
-		(at 137.16 90.17 0)
+		(at 137.16 91.44 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -7830,7 +7830,7 @@
 		(dnp no)
 		(uuid "84ad2a42-2221-4837-99b1-7c4c80336162")
 		(property "Reference" "R10"
-			(at 137.16 91.948 90)
+			(at 137.16 93.218 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -7841,7 +7841,7 @@
 			)
 		)
 		(property "Value" "R"
-			(at 138.684 91.186 0)
+			(at 138.684 92.456 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -7852,7 +7852,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 135.382 90.17 90)
+			(at 135.382 91.44 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7863,7 +7863,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 137.16 90.17 0)
+			(at 137.16 91.44 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7874,7 +7874,7 @@
 			)
 		)
 		(property "Description" "Resistor"
-			(at 137.16 90.17 0)
+			(at 137.16 91.44 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8219,7 +8219,7 @@
 	)
 	(symbol
 		(lib_id "Device:R")
-		(at 151.13 90.17 0)
+		(at 151.13 91.44 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -8229,7 +8229,7 @@
 		(dnp no)
 		(uuid "92dd2920-aa8e-44c6-afe1-9175cf0ae14c")
 		(property "Reference" "R11"
-			(at 151.13 91.948 90)
+			(at 151.13 93.218 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -8240,7 +8240,7 @@
 			)
 		)
 		(property "Value" "R"
-			(at 152.654 91.186 0)
+			(at 152.654 92.456 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -8251,7 +8251,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 149.352 90.17 90)
+			(at 149.352 91.44 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8262,7 +8262,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 151.13 90.17 0)
+			(at 151.13 91.44 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8273,7 +8273,7 @@
 			)
 		)
 		(property "Description" "Resistor"
-			(at 151.13 90.17 0)
+			(at 151.13 91.44 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10570,7 +10570,7 @@
 	)
 	(symbol
 		(lib_id "Device:R")
-		(at 179.07 90.17 0)
+		(at 179.07 91.44 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -10580,7 +10580,7 @@
 		(dnp no)
 		(uuid "eb68a724-0c38-48d5-af22-962d919bb681")
 		(property "Reference" "R13"
-			(at 179.07 91.948 90)
+			(at 179.07 93.218 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -10591,7 +10591,7 @@
 			)
 		)
 		(property "Value" "R"
-			(at 180.594 91.186 0)
+			(at 180.594 92.456 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -10602,7 +10602,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 177.292 90.17 90)
+			(at 177.292 91.44 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10613,7 +10613,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 179.07 90.17 0)
+			(at 179.07 91.44 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10624,7 +10624,7 @@
 			)
 		)
 		(property "Description" "Resistor"
-			(at 179.07 90.17 0)
+			(at 179.07 91.44 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
