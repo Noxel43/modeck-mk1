@@ -8376,7 +8376,7 @@
 	)
 	(symbol
 		(lib_id "Device:C_Polarized")
-		(at 205.74 57.15 0)
+		(at 200.66 57.15 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -8387,7 +8387,7 @@
 		(fields_autoplaced yes)
 		(uuid "f143af60-10d9-4beb-9703-2ceeb6c2e057")
 		(property "Reference" "C10"
-			(at 209.55 54.9909 0)
+			(at 204.47 54.9909 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -8398,7 +8398,7 @@
 			)
 		)
 		(property "Value" "220μF"
-			(at 209.55 57.5309 0)
+			(at 204.47 57.5309 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -8409,7 +8409,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 206.7052 60.96 0)
+			(at 201.6252 60.96 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8420,7 +8420,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 205.74 57.15 0)
+			(at 200.66 57.15 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8431,7 +8431,7 @@
 			)
 		)
 		(property "Description" "Polarized capacitor"
-			(at 205.74 57.15 0)
+			(at 200.66 57.15 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
