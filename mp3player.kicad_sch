@@ -1018,25 +1018,15 @@
 		)
 		(uuid "1fe67ec8-3889-472f-beaf-8b16f3016bda")
 	)
-	(label "SLIDE_POT"
-		(at 5.08 29.21 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "9e8779b5-7630-42ed-b43d-00eba6465466")
-	)
 	(label "IO0"
-		(at 11.43 26.67 0)
+		(at 15.24 26.67 0)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
 			(justify left bottom)
 		)
-		(uuid "e8cfc8a6-ef1a-40e7-9883-76fc77627f9e")
+		(uuid "cd794e03-7436-4b9e-8a8e-f68fcfa42175")
 	)
 	(symbol
 		(lib_id "RF_Module:ESP32-S3-WROOM-1")
