@@ -5544,7 +5544,7 @@
 				)
 			)
 		)
-		(property "Value" "VCC"
+		(property "Value" "+3V3"
 			(at 193.04 49.5299 90)
 			(show_name no)
 			(do_not_autoplace no)
