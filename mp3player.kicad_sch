@@ -3357,7 +3357,7 @@
 		(uuid "19533465-fff7-4ba3-aec3-2ded05402a2b")
 	)
 	(label "HP_R"
-		(at 226.06 55.88 0)
+		(at 226.06 57.15 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3477,7 +3477,7 @@
 		(uuid "4eaa94e9-0bbc-4a85-9b44-7be65102c126")
 	)
 	(label "HP_L"
-		(at 213.36 55.88 0)
+		(at 213.36 57.15 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5813,7 +5813,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 213.36 63.5 0)
+		(at 213.36 64.77 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -5823,7 +5823,7 @@
 		(dnp no)
 		(uuid "4cabb602-364d-4fc9-9778-1cccf7f2e0f9")
 		(property "Reference" "#PWR027"
-			(at 213.36 69.85 0)
+			(at 213.36 71.12 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5834,7 +5834,7 @@
 			)
 		)
 		(property "Value" "AU_GND"
-			(at 218.948 67.31 0)
+			(at 218.948 68.58 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -5845,7 +5845,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 213.36 63.5 0)
+			(at 213.36 64.77 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5856,7 +5856,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 213.36 63.5 0)
+			(at 213.36 64.77 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5867,7 +5867,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 213.36 63.5 0)
+			(at 213.36 64.77 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6695,7 +6695,7 @@
 	)
 	(symbol
 		(lib_id "Device:R")
-		(at 213.36 59.69 180)
+		(at 213.36 60.96 180)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -6706,7 +6706,7 @@
 		(fields_autoplaced yes)
 		(uuid "7af53d45-7a04-4203-ac29-8e1da9f12935")
 		(property "Reference" "R5"
-			(at 215.9 58.4199 0)
+			(at 215.9 59.6899 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -6717,7 +6717,7 @@
 			)
 		)
 		(property "Value" "10k"
-			(at 215.9 60.9599 0)
+			(at 215.9 62.2299 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -6728,7 +6728,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 215.138 59.69 90)
+			(at 215.138 60.96 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6739,7 +6739,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 213.36 59.69 0)
+			(at 213.36 60.96 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6750,7 +6750,7 @@
 			)
 		)
 		(property "Description" "Resistor"
-			(at 213.36 59.69 0)
+			(at 213.36 60.96 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8351,7 +8351,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 226.06 63.5 0)
+		(at 226.06 64.77 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -8361,7 +8361,7 @@
 		(dnp no)
 		(uuid "ccacdcbc-33e7-4526-b3c8-5e0ca4392604")
 		(property "Reference" "#PWR?"
-			(at 226.06 69.85 0)
+			(at 226.06 71.12 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8372,7 +8372,7 @@
 			)
 		)
 		(property "Value" "AU_GND"
-			(at 231.648 67.31 0)
+			(at 231.648 68.58 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -8383,7 +8383,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 226.06 63.5 0)
+			(at 226.06 64.77 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8394,7 +8394,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 226.06 63.5 0)
+			(at 226.06 64.77 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8405,7 +8405,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 226.06 63.5 0)
+			(at 226.06 64.77 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8661,7 +8661,7 @@
 	)
 	(symbol
 		(lib_id "Device:R")
-		(at 226.06 59.69 180)
+		(at 226.06 60.96 180)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -8672,7 +8672,7 @@
 		(fields_autoplaced yes)
 		(uuid "dbaf487a-17dd-421f-b60f-298169f0becb")
 		(property "Reference" "R6"
-			(at 228.6 58.4199 0)
+			(at 228.6 59.6899 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -8683,7 +8683,7 @@
 			)
 		)
 		(property "Value" "10k"
-			(at 228.6 60.9599 0)
+			(at 228.6 62.2299 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -8694,7 +8694,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 227.838 59.69 90)
+			(at 227.838 60.96 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8705,7 +8705,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 226.06 59.69 0)
+			(at 226.06 60.96 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8716,7 +8716,7 @@
 			)
 		)
 		(property "Description" "Resistor"
-			(at 226.06 59.69 0)
+			(at 226.06 60.96 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
