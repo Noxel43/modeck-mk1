@@ -4033,7 +4033,6 @@
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "dd8cedaf-a7a8-4e09-878f-3b3bbf6830a6")
 		(property "Reference" "#PWR?"
 			(at 17.78 92.71 0)
@@ -4046,8 +4045,8 @@
 				)
 			)
 		)
-		(property "Value" "VCC"
-			(at 17.78 83.82 0)
+		(property "Value" "+3V3"
+			(at 20.066 85.598 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
