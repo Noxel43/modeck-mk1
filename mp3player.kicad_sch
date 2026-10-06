@@ -1526,6 +1526,16 @@
 	)
 	(wire
 		(pts
+			(xy 115.57 31.75) (xy 115.57 34.29)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "39a9223e-9b62-4b52-b54f-67a1a2f32e36")
+	)
+	(wire
+		(pts
 			(xy 13.97 46.99) (xy 25.4 46.99)
 		)
 		(stroke
@@ -1783,6 +1793,16 @@
 			(justify left bottom)
 		)
 		(uuid "5fd529ed-1b71-4d2a-989a-dab921c1df49")
+	)
+	(label "BTN_POWER"
+		(at 115.57 34.29 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "6843c5b1-13d2-4ea0-8006-0690a4fef81a")
 	)
 	(label "SD_CLK"
 		(at 55.88 54.61 0)
