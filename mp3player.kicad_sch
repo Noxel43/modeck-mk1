@@ -1038,6 +1038,16 @@
 		)
 		(uuid "807bdd60-fc67-486f-b9cc-2c14aaf755e6")
 	)
+	(label "TFT_CS"
+		(at 15.24 52.07 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "901116f0-ddb8-45ec-a0b1-c296b9bb3490")
+	)
 	(label "SLIDE_POT"
 		(at 15.24 29.21 0)
 		(effects
