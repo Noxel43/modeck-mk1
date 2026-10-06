@@ -2919,6 +2919,16 @@
 		)
 		(uuid "50612475-0d4d-4dd5-a4b2-1ab520311171")
 	)
+	(label "CODEC_LRCK"
+		(at 171.45 60.96 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "515abc50-658f-4046-b36c-2a6c8c1e1e20")
+	)
 	(label "VREF"
 		(at 171.45 81.28 180)
 		(effects
