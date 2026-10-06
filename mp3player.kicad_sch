@@ -3098,6 +3098,18 @@
 		)
 		(uuid "dd5613d6-8e73-4bc9-a466-30c7c7753a84")
 	)
+	(rectangle
+		(start 130.048 108.966)
+		(end 259.08 182.118)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(fill
+			(type none)
+		)
+		(uuid "dff6bd1b-ccc2-4882-8022-58ef9fe4eac2")
+	)
 	(text "MCU - ESP32-S3"
 		(exclude_from_sim no)
 		(at 40.64 13.97 0)
