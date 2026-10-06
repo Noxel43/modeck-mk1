@@ -1473,12 +1473,11 @@
 	)
 	(text "for waking from sleep\n"
 		(exclude_from_sim no)
-		(at 119.888 42.418 0)
+		(at 123.19 35.306 0)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
-			(justify left)
 		)
 		(uuid "4196ac80-945d-4514-b942-f75391f1ef53")
 	)
