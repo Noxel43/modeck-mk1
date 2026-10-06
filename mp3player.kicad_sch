@@ -2689,6 +2689,16 @@
 		)
 		(uuid "04395ced-c087-4f46-ab47-3a1c80744935")
 	)
+	(label "12C_SCL"
+		(at 171.45 73.66 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "04db18fc-f10b-471c-9474-c4b418670c3d")
+	)
 	(label "USB_DP"
 		(at 55.88 39.37 0)
 		(effects
