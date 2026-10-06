@@ -2210,6 +2210,16 @@
 		)
 		(uuid "f13ce100-a3dc-4188-837e-a2673f799274")
 	)
+	(label "EN"
+		(at 33.02 90.17 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "f5260ade-243b-43c0-8da3-b4b10c164e64")
+	)
 	(label "SD_D03"
 		(at 55.88 44.45 0)
 		(effects
