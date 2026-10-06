@@ -1118,6 +1118,16 @@
 		)
 		(uuid "cd794e03-7436-4b9e-8a8e-f68fcfa42175")
 	)
+	(label "12S_BCLK"
+		(at 15.24 67.31 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "df3ef0ec-5858-425c-9b1e-f832e28f9af6")
+	)
 	(label "TFT_SCK"
 		(at 15.24 57.15 0)
 		(effects
