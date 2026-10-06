@@ -2820,6 +2820,16 @@
 	)
 	(wire
 		(pts
+			(xy 41.91 69.85) (xy 41.91 62.23)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "cdb638dd-a6f2-4f9f-af05-e37414a2a450")
+	)
+	(wire
+		(pts
 			(xy 105.41 19.05) (xy 105.41 52.07)
 		)
 		(stroke
@@ -2910,7 +2920,7 @@
 	)
 	(symbol
 		(lib_id "power:VCC")
-		(at 41.91 62.23 180)
+		(at 41.91 69.85 180)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -2921,7 +2931,7 @@
 		(fields_autoplaced yes)
 		(uuid "03e7bc53-ce51-4079-83a7-cf849e978bf6")
 		(property "Reference" "#PWR02"
-			(at 41.91 58.42 0)
+			(at 41.91 66.04 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2932,7 +2942,7 @@
 			)
 		)
 		(property "Value" "VCC"
-			(at 41.91 67.31 0)
+			(at 41.91 74.93 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -2942,7 +2952,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 41.91 62.23 0)
+			(at 41.91 69.85 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2953,7 +2963,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 41.91 62.23 0)
+			(at 41.91 69.85 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2964,7 +2974,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"VCC\""
-			(at 41.91 62.23 0)
+			(at 41.91 69.85 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
