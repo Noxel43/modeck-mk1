@@ -8288,7 +8288,7 @@
 		(dnp no)
 		(uuid "f68b77da-0078-4189-a8ff-bd8ee00861a0")
 		(property "Reference" "R4"
-			(at 197.866 55.88 90)
+			(at 200.66 58.42 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -8298,7 +8298,7 @@
 			)
 		)
 		(property "Value" "4.7"
-			(at 200.66 55.88 90)
+			(at 200.406 56.134 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
