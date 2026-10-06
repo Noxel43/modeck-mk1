@@ -3878,7 +3878,7 @@
 				)
 			)
 		)
-		(property "Value" "VCC"
+		(property "Value" "HPVDD"
 			(at 208.28 58.4199 90)
 			(show_name no)
 			(do_not_autoplace no)
