@@ -2460,7 +2460,7 @@
 	)
 	(wire
 		(pts
-			(xy 67.31 29.21) (xy 67.31 74.93)
+			(xy 67.31 29.21) (xy 67.31 35.56)
 		)
 		(stroke
 			(width 0)
@@ -2487,6 +2487,16 @@
 			(type default)
 		)
 		(uuid "2b5a786d-0902-40ac-a49f-e860f8326c67")
+	)
+	(wire
+		(pts
+			(xy 67.31 45.72) (xy 67.31 74.93)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "2c0dc0a3-dcd8-409f-91e2-8443038604a4")
 	)
 	(wire
 		(pts
@@ -4615,6 +4625,88 @@
 			(project "mp3player"
 				(path "/7851373b-cb7e-4e42-801a-d8b5ac5735f4"
 					(reference "U2")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Switch:SW_Push")
+		(at 67.31 40.64 90)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "fa168efa-3686-4337-9caa-3969da6b2378")
+		(property "Reference" "SW2"
+			(at 68.58 39.3699 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "SW_Push"
+			(at 68.58 41.9099 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" ""
+			(at 62.23 40.64 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 62.23 40.64 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Push button switch, generic, two pins"
+			(at 67.31 40.64 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "2"
+			(uuid "ed30ecf8-a547-4c0a-83ca-b885662b9113")
+		)
+		(pin "1"
+			(uuid "f48b1e4c-5db9-43c5-a5c3-01a5be245cbf")
+		)
+		(instances
+			(project "mp3player"
+				(path "/7851373b-cb7e-4e42-801a-d8b5ac5735f4"
+					(reference "SW2")
 					(unit 1)
 				)
 			)
