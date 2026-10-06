@@ -1572,6 +1572,16 @@
 		)
 		(uuid "4bc89e89-d977-4391-907a-73c09e4c5be1")
 	)
+	(label "BTN_MODE_NEXT"
+		(at 87.63 64.77 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "4eaa94e9-0bbc-4a85-9b44-7be65102c126")
+	)
 	(label "BTN_MODE_PREV"
 		(at 55.88 69.85 0)
 		(effects
