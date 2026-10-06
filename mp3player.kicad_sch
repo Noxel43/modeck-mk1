@@ -1450,7 +1450,7 @@
 		)
 		(uuid "97df0fc3-9399-459d-ad22-1641b03bc092")
 	)
-	(text "Main Chip - ESP32-S3"
+	(text "MCU - ESP32-S3"
 		(exclude_from_sim no)
 		(at 40.64 13.97 0)
 		(effects
