@@ -3661,6 +3661,16 @@
 		)
 		(uuid "5ad92ac2-c368-441a-82b6-e2e8def4aa37")
 	)
+	(label "12C_SCl"
+		(at 133.35 76.2 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "5dda565e-79a0-46f3-ba12-9aa16dba80af")
+	)
 	(label "BTM_MODE_NEXT"
 		(at 55.88 29.21 0)
 		(effects
