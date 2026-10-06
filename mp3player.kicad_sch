@@ -1388,6 +1388,16 @@
 		)
 		(uuid "5fd529ed-1b71-4d2a-989a-dab921c1df49")
 	)
+	(label "SD_CLK"
+		(at 57.15 53.34 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "7b437b80-49e4-4808-b99c-a7e70f5e51a5")
+	)
 	(label "12C_SCL"
 		(at 15.24 53.34 0)
 		(effects
