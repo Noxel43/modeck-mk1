@@ -2360,7 +2360,7 @@
 				)
 			)
 		)
-		(property "Value" "SW_Push"
+		(property "Value" "Power"
 			(at 92.71 80.01 0)
 			(show_name no)
 			(do_not_autoplace no)
