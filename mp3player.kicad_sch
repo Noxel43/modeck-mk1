@@ -5713,7 +5713,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "C"
+		(property "Value" "10μF"
 			(at 252.73 26.6699 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5795,7 +5795,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "C"
+		(property "Value" "1μF"
 			(at 237.49 26.6699 0)
 			(show_name no)
 			(do_not_autoplace no)
