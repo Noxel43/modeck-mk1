@@ -3063,6 +3063,18 @@
 		(uuid "6eda45c8-1a8f-433b-92b6-ea3900876019")
 	)
 	(rectangle
+		(start 135.128 84.582)
+		(end 191.516 99.568)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(fill
+			(type none)
+		)
+		(uuid "8d53dde2-a479-4bd2-9e3b-e03af722e1b0")
+	)
+	(rectangle
 		(start 76.454 15.24)
 		(end 127.508 117.094)
 		(stroke
