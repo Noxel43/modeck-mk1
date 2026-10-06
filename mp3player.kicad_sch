@@ -1498,6 +1498,16 @@
 		)
 		(uuid "ecdbbdba-b0b4-42b5-810c-6f5d54e6d27f")
 	)
+	(label "SD_D0"
+		(at 57.15 55.88 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "f13ce100-a3dc-4188-837e-a2673f799274")
+	)
 	(label "VBAT_SENSE"
 		(at 15.24 45.72 0)
 		(effects
