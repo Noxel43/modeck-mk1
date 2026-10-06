@@ -1298,6 +1298,18 @@
 		)
 		(uuid "6eda45c8-1a8f-433b-92b6-ea3900876019")
 	)
+	(rectangle
+		(start 76.454 15.24)
+		(end 113.538 87.884)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(fill
+			(type none)
+		)
+		(uuid "97df0fc3-9399-459d-ad22-1641b03bc092")
+	)
 	(text "Main Chip - ESP32-S3"
 		(exclude_from_sim no)
 		(at 40.64 13.97 0)
