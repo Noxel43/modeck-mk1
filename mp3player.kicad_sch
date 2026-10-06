@@ -7287,7 +7287,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "C_Polarized"
+		(property "Value" "220μF"
 			(at 190.5 57.5309 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8397,7 +8397,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "C_Polarized"
+		(property "Value" "220μF"
 			(at 209.55 57.5309 0)
 			(show_name no)
 			(do_not_autoplace no)
