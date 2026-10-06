@@ -1320,6 +1320,16 @@
 		)
 		(uuid "35444d4a-bc7c-45ed-8c58-9af5bba7ca52")
 	)
+	(text "Controls"
+		(exclude_from_sim no)
+		(at 97.79 13.716 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "fe8e994b-7ebc-4ef1-a64d-479c7d3f56a1")
+	)
 	(no_connect
 		(at 25.4 44.45)
 		(uuid "00fd8f04-e357-4d44-bf6c-ca86827fb0f7")
