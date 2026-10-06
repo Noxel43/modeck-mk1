@@ -869,24 +869,24 @@
 		)
 	)
 	(no_connect
-		(at 27.94 43.18)
+		(at 26.67 43.18)
 		(uuid "00fd8f04-e357-4d44-bf6c-ca86827fb0f7")
 	)
 	(no_connect
-		(at 27.94 35.56)
+		(at 26.67 35.56)
 		(uuid "3cc4a81f-9f03-42ac-8e26-d85e6779febc")
 	)
 	(no_connect
-		(at 27.94 38.1)
+		(at 26.67 38.1)
 		(uuid "56e77eb1-1678-4535-b237-d0a1b5def450")
 	)
 	(no_connect
-		(at 27.94 40.64)
+		(at 26.67 40.64)
 		(uuid "c1af3c75-38bd-4928-b65f-8aefce2e665d")
 	)
 	(wire
 		(pts
-			(xy 16.51 63.5) (xy 27.94 63.5)
+			(xy 15.24 63.5) (xy 26.67 63.5)
 		)
 		(stroke
 			(width 0)
@@ -896,7 +896,7 @@
 	)
 	(wire
 		(pts
-			(xy 16.51 71.12) (xy 27.94 71.12)
+			(xy 15.24 71.12) (xy 26.67 71.12)
 		)
 		(stroke
 			(width 0)
@@ -906,7 +906,7 @@
 	)
 	(wire
 		(pts
-			(xy 16.51 58.42) (xy 27.94 58.42)
+			(xy 15.24 58.42) (xy 26.67 58.42)
 		)
 		(stroke
 			(width 0)
@@ -916,7 +916,7 @@
 	)
 	(wire
 		(pts
-			(xy 16.51 45.72) (xy 27.94 45.72)
+			(xy 15.24 45.72) (xy 26.67 45.72)
 		)
 		(stroke
 			(width 0)
@@ -926,7 +926,7 @@
 	)
 	(wire
 		(pts
-			(xy 16.51 66.04) (xy 27.94 66.04)
+			(xy 15.24 66.04) (xy 26.67 66.04)
 		)
 		(stroke
 			(width 0)
@@ -936,7 +936,7 @@
 	)
 	(wire
 		(pts
-			(xy 16.51 53.34) (xy 27.94 53.34)
+			(xy 15.24 53.34) (xy 26.67 53.34)
 		)
 		(stroke
 			(width 0)
@@ -946,7 +946,7 @@
 	)
 	(wire
 		(pts
-			(xy 16.51 48.26) (xy 27.94 48.26)
+			(xy 15.24 48.26) (xy 26.67 48.26)
 		)
 		(stroke
 			(width 0)
@@ -956,7 +956,7 @@
 	)
 	(wire
 		(pts
-			(xy 16.51 33.02) (xy 27.94 33.02)
+			(xy 15.24 33.02) (xy 26.67 33.02)
 		)
 		(stroke
 			(width 0)
@@ -966,7 +966,7 @@
 	)
 	(wire
 		(pts
-			(xy 16.51 25.4) (xy 27.94 25.4)
+			(xy 15.24 25.4) (xy 26.67 25.4)
 		)
 		(stroke
 			(width 0)
@@ -976,7 +976,7 @@
 	)
 	(wire
 		(pts
-			(xy 16.51 60.96) (xy 27.94 60.96)
+			(xy 15.24 60.96) (xy 26.67 60.96)
 		)
 		(stroke
 			(width 0)
@@ -986,7 +986,7 @@
 	)
 	(wire
 		(pts
-			(xy 16.51 55.88) (xy 27.94 55.88)
+			(xy 15.24 55.88) (xy 26.67 55.88)
 		)
 		(stroke
 			(width 0)
@@ -996,7 +996,7 @@
 	)
 	(wire
 		(pts
-			(xy 16.51 30.48) (xy 27.94 30.48)
+			(xy 15.24 30.48) (xy 26.67 30.48)
 		)
 		(stroke
 			(width 0)
@@ -1006,7 +1006,7 @@
 	)
 	(wire
 		(pts
-			(xy 16.51 68.58) (xy 27.94 68.58)
+			(xy 15.24 68.58) (xy 26.67 68.58)
 		)
 		(stroke
 			(width 0)
@@ -1016,7 +1016,7 @@
 	)
 	(wire
 		(pts
-			(xy 16.51 50.8) (xy 27.94 50.8)
+			(xy 15.24 50.8) (xy 26.67 50.8)
 		)
 		(stroke
 			(width 0)
@@ -1025,7 +1025,7 @@
 		(uuid "ff1f2342-ac5c-486b-af34-3a828520e6bc")
 	)
 	(label "TFT_MOSI"
-		(at 16.51 58.42 0)
+		(at 15.24 58.42 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -1035,7 +1035,7 @@
 		(uuid "1341c62d-559c-413e-854b-f1e1ea297784")
 	)
 	(label "TFT_DC"
-		(at 16.51 63.5 0)
+		(at 15.24 63.5 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -1045,7 +1045,7 @@
 		(uuid "177c359a-812f-4179-9a75-8f753ae34d0c")
 	)
 	(label "EN"
-		(at 16.51 25.4 0)
+		(at 15.24 25.4 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -1055,7 +1055,7 @@
 		(uuid "1fe67ec8-3889-472f-beaf-8b16f3016bda")
 	)
 	(label "TFT_BL"
-		(at 16.51 48.26 0)
+		(at 15.24 48.26 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -1065,7 +1065,7 @@
 		(uuid "2fbbb0a6-ad2b-4df6-843b-27fb8c98f3d9")
 	)
 	(label "12S_MCLK"
-		(at 16.51 68.58 0)
+		(at 15.24 68.58 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -1075,7 +1075,7 @@
 		(uuid "4bc89e89-d977-4391-907a-73c09e4c5be1")
 	)
 	(label "12C_SCL"
-		(at 16.51 53.34 0)
+		(at 15.24 53.34 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -1085,7 +1085,7 @@
 		(uuid "807bdd60-fc67-486f-b9cc-2c14aaf755e6")
 	)
 	(label "TFT_CS"
-		(at 16.51 55.88 0)
+		(at 15.24 55.88 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -1095,7 +1095,7 @@
 		(uuid "901116f0-ddb8-45ec-a0b1-c296b9bb3490")
 	)
 	(label "SLIDE_POT"
-		(at 16.51 33.02 0)
+		(at 15.24 33.02 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -1105,7 +1105,7 @@
 		(uuid "9e8779b5-7630-42ed-b43d-00eba6465466")
 	)
 	(label "12C_SDA"
-		(at 16.51 50.8 0)
+		(at 15.24 50.8 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -1115,7 +1115,7 @@
 		(uuid "b2a1aad6-241a-4189-a0a3-4feb69ea5647")
 	)
 	(label "TFT_RST"
-		(at 16.51 66.04 0)
+		(at 15.24 66.04 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -1125,7 +1125,7 @@
 		(uuid "b9afaa7a-148a-4dca-a630-ccc8801fc2dd")
 	)
 	(label "IO0"
-		(at 16.51 30.48 0)
+		(at 15.24 30.48 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -1135,7 +1135,7 @@
 		(uuid "cd794e03-7436-4b9e-8a8e-f68fcfa42175")
 	)
 	(label "12S_BCLK"
-		(at 16.51 71.12 0)
+		(at 15.24 71.12 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -1145,7 +1145,7 @@
 		(uuid "df3ef0ec-5858-425c-9b1e-f832e28f9af6")
 	)
 	(label "TFT_SCK"
-		(at 16.51 60.96 0)
+		(at 15.24 60.96 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -1155,7 +1155,7 @@
 		(uuid "e4558c6f-05e1-46c1-8cfa-e70cd3010ecd")
 	)
 	(label "VBAT_SENSE"
-		(at 16.51 45.72 0)
+		(at 15.24 45.72 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -1166,7 +1166,7 @@
 	)
 	(symbol
 		(lib_id "RF_Module:ESP32-S3-WROOM-1")
-		(at 43.18 48.26 0)
+		(at 41.91 48.26 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -1177,7 +1177,7 @@
 		(fields_autoplaced yes)
 		(uuid "93512ec1-3ac5-4f07-900a-252f2a879178")
 		(property "Reference" "U1"
-			(at 45.3233 17.78 0)
+			(at 44.0533 17.78 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -1188,7 +1188,7 @@
 			)
 		)
 		(property "Value" "ESP32-S3-WROOM-1"
-			(at 45.3233 20.32 0)
+			(at 44.0533 20.32 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -1199,7 +1199,7 @@
 			)
 		)
 		(property "Footprint" "RF_Module:ESP32-S3-WROOM-1"
-			(at 43.18 45.72 0)
+			(at 41.91 45.72 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1210,7 +1210,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.espressif.com/sites/default/files/documentation/esp32-s3-wroom-1_wroom-1u_datasheet_en.pdf"
-			(at 43.18 48.26 0)
+			(at 41.91 48.26 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1221,7 +1221,7 @@
 			)
 		)
 		(property "Description" "RF Module, ESP32-S3 SoC, Wi-Fi 802.11b/g/n, Bluetooth, BLE, 32-bit, 3.3V, onboard antenna, SMD"
-			(at 43.18 48.26 0)
+			(at 41.91 48.26 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
