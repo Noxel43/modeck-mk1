@@ -3965,7 +3965,7 @@
 		(uuid "a2ffc7cd-99c5-4754-8da4-570cc2e4215b")
 	)
 	(label "ADCVREF"
-		(at 153.67 104.14 0)
+		(at 149.86 104.14 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5013,7 +5013,7 @@
 	)
 	(symbol
 		(lib_id "Device:C")
-		(at 153.67 107.95 0)
+		(at 149.86 107.95 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -5023,7 +5023,7 @@
 		(dnp no)
 		(uuid "16a7f9c3-6ab3-4031-a0ba-e3debfc3806d")
 		(property "Reference" "C12"
-			(at 156.464 106.68 0)
+			(at 152.654 106.68 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -5034,7 +5034,7 @@
 			)
 		)
 		(property "Value" "1μF"
-			(at 156.464 109.22 0)
+			(at 152.654 109.22 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -5045,7 +5045,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 154.6352 111.76 0)
+			(at 150.8252 111.76 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5056,7 +5056,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 153.67 107.95 0)
+			(at 149.86 107.95 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5067,7 +5067,7 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
-			(at 153.67 107.95 0)
+			(at 149.86 107.95 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6201,7 +6201,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 153.67 111.76 0)
+		(at 149.86 111.76 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -6211,7 +6211,7 @@
 		(dnp no)
 		(uuid "3825a854-b500-4dec-a1fc-c9d5682b61f5")
 		(property "Reference" "#PWR034"
-			(at 153.67 118.11 0)
+			(at 149.86 118.11 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6222,7 +6222,7 @@
 			)
 		)
 		(property "Value" "AU_GND"
-			(at 157.226 115.316 0)
+			(at 153.416 115.316 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -6232,7 +6232,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 153.67 111.76 0)
+			(at 149.86 111.76 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6243,7 +6243,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 153.67 111.76 0)
+			(at 149.86 111.76 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6254,7 +6254,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 153.67 111.76 0)
+			(at 149.86 111.76 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8969,10 +8969,9 @@
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "9954cd29-820c-40ea-ac0e-7de12d93f18f")
 		(property "Reference" "C11"
-			(at 143.51 106.6799 0)
+			(at 142.748 106.68 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -8983,7 +8982,7 @@
 			)
 		)
 		(property "Value" "1μF"
-			(at 143.51 109.2199 0)
+			(at 142.748 109.22 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
