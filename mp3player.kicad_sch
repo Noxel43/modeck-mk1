@@ -6703,10 +6703,9 @@
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "7af53d45-7a04-4203-ac29-8e1da9f12935")
 		(property "Reference" "R5"
-			(at 215.9 59.6899 0)
+			(at 213.614 61.722 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -6787,7 +6786,7 @@
 		(dnp no)
 		(uuid "7dd667da-321b-4163-8fce-87384fb1b7cc")
 		(property "Reference" "R7"
-			(at 240.792 61.468 90)
+			(at 240.03 62.484 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -8828,10 +8827,9 @@
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "dbaf487a-17dd-421f-b60f-298169f0becb")
 		(property "Reference" "R6"
-			(at 228.6 59.6899 0)
+			(at 226.06 61.976 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
