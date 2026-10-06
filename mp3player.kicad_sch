@@ -4011,6 +4011,16 @@
 		)
 		(uuid "e4558c6f-05e1-46c1-8cfa-e70cd3010ecd")
 	)
+	(label "12S_LRCK"
+		(at 160.02 86.36 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "e8122f19-16fb-4b6e-8df3-bc5ca0d1ebcd")
+	)
 	(label "12S_DOUT"
 		(at 55.88 34.29 0)
 		(effects
