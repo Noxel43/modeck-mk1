@@ -1008,6 +1008,16 @@
 		)
 		(uuid "ff1f2342-ac5c-486b-af34-3a828520e6bc")
 	)
+	(label "TFT_MOSI"
+		(at 15.24 54.61 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "1341c62d-559c-413e-854b-f1e1ea297784")
+	)
 	(label "EN"
 		(at 15.24 21.59 0)
 		(effects
