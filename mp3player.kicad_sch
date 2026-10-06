@@ -1647,6 +1647,16 @@
 	)
 	(wire
 		(pts
+			(xy 17.78 97.79) (xy 17.78 96.52)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e0548ea6-0c8e-49f5-b6bb-72bf17e4123b")
+	)
+	(wire
+		(pts
 			(xy 13.97 69.85) (xy 25.4 69.85)
 		)
 		(stroke
@@ -1744,6 +1754,16 @@
 			(justify left bottom)
 		)
 		(uuid "352a498f-fd59-4537-b000-a20b184519ed")
+	)
+	(label "EN"
+		(at 17.78 97.79 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "37465d11-5d46-4da1-8340-93e585e2726d")
 	)
 	(label "BTN_PLAY"
 		(at 55.88 46.99 0)
