@@ -3163,6 +3163,17 @@
 		)
 		(uuid "bc5a04a9-aab0-4de7-8993-9e2ef3cc7e7e")
 	)
+	(text "other random shit\n"
+		(exclude_from_sim no)
+		(at 182.626 107.442 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "f8d56d8c-c1ec-443a-8421-66071e582bb5")
+	)
 	(text "Controls"
 		(exclude_from_sim no)
 		(at 97.79 13.716 0)
