@@ -1278,6 +1278,16 @@
 		)
 		(uuid "ff1f2342-ac5c-486b-af34-3a828520e6bc")
 	)
+	(label "USB_DP"
+		(at 57.15 38.1 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "077895c0-1a04-479d-aa2f-dd88af1e4f42")
+	)
 	(label "TFT_MOSI"
 		(at 15.24 58.42 0)
 		(effects
