@@ -1018,6 +1018,16 @@
 		)
 		(uuid "1fe67ec8-3889-472f-beaf-8b16f3016bda")
 	)
+	(label "TFT_BL"
+		(at 15.24 44.45 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "2fbbb0a6-ad2b-4df6-843b-27fb8c98f3d9")
+	)
 	(label "SLIDE_POT"
 		(at 15.24 29.21 0)
 		(effects
