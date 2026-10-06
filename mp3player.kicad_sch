@@ -3397,6 +3397,16 @@
 		)
 		(uuid "8783feb3-784a-4b05-9c7c-f58793994326")
 	)
+	(label "HP_L"
+		(at 184.15 59.69 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "8da397b6-9c58-4623-b9fc-c12fe6eaeca2")
+	)
 	(label "TFT_CS"
 		(at 13.97 57.15 0)
 		(effects
