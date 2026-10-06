@@ -3358,7 +3358,7 @@
 		(uuid "7b437b80-49e4-4808-b99c-a7e70f5e51a5")
 	)
 	(label "LOUT1"
-		(at 186.69 53.34 0)
+		(at 184.15 52.07 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3628,7 +3628,7 @@
 		(uuid "f5260ade-243b-43c0-8da3-b4b10c164e64")
 	)
 	(label "ROUT1"
-		(at 200.66 53.34 0)
+		(at 198.12 52.07 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -7286,7 +7286,7 @@
 	)
 	(symbol
 		(lib_id "Device:C_Polarized")
-		(at 186.69 57.15 0)
+		(at 184.15 55.88 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -7297,7 +7297,7 @@
 		(fields_autoplaced yes)
 		(uuid "ab9080ed-71b6-45c0-a4a7-befd8f708e54")
 		(property "Reference" "C9"
-			(at 190.5 54.9909 0)
+			(at 187.96 53.7209 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -7308,7 +7308,7 @@
 			)
 		)
 		(property "Value" "220μF"
-			(at 190.5 57.5309 0)
+			(at 187.96 56.2609 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -7319,7 +7319,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 187.6552 60.96 0)
+			(at 185.1152 59.69 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7330,7 +7330,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 186.69 57.15 0)
+			(at 184.15 55.88 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7341,7 +7341,7 @@
 			)
 		)
 		(property "Description" "Polarized capacitor"
-			(at 186.69 57.15 0)
+			(at 184.15 55.88 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8396,7 +8396,7 @@
 	)
 	(symbol
 		(lib_id "Device:C_Polarized")
-		(at 200.66 57.15 0)
+		(at 198.12 55.88 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -8407,7 +8407,7 @@
 		(fields_autoplaced yes)
 		(uuid "f143af60-10d9-4beb-9703-2ceeb6c2e057")
 		(property "Reference" "C10"
-			(at 204.47 54.9909 0)
+			(at 201.93 53.7209 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -8418,7 +8418,7 @@
 			)
 		)
 		(property "Value" "220μF"
-			(at 204.47 57.5309 0)
+			(at 201.93 56.2609 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -8429,7 +8429,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 201.6252 60.96 0)
+			(at 199.0852 59.69 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8440,7 +8440,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 200.66 57.15 0)
+			(at 198.12 55.88 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8451,7 +8451,7 @@
 			)
 		)
 		(property "Description" "Polarized capacitor"
-			(at 200.66 57.15 0)
+			(at 198.12 55.88 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
