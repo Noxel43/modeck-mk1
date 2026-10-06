@@ -3736,6 +3736,16 @@
 		)
 		(uuid "b9afaa7a-148a-4dca-a630-ccc8801fc2dd")
 	)
+	(label "HP_L"
+		(at 227.33 43.18 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "c275122e-9a8e-4a4a-8728-a0d731ad0000")
+	)
 	(label "SD_CMD"
 		(at 55.88 52.07 0)
 		(effects
