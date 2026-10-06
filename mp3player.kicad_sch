@@ -3374,6 +3374,7 @@
 		)
 		(property "Value" "C_Polarized"
 			(at 21.59 65.1509 0)
+			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -4018,6 +4019,7 @@
 		)
 		(property "Value" "C_Polarized"
 			(at 24.13 65.1509 0)
+			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
