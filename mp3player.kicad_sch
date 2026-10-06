@@ -3707,10 +3707,9 @@
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "100ef462-847c-402e-8d2f-27122a07676e")
 		(property "Reference" "C5"
-			(at 205.74 24.1299 0)
+			(at 204.724 26.162 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -3721,7 +3720,7 @@
 			)
 		)
 		(property "Value" "100nF"
-			(at 205.74 26.6699 0)
+			(at 204.724 28.702 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -4894,7 +4893,7 @@
 		(dnp no)
 		(uuid "472e9ae1-2c51-4e55-b4fc-57a183a3e388")
 		(property "Reference" "C4"
-			(at 194.31 24.1299 0)
+			(at 193.294 25.654 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
