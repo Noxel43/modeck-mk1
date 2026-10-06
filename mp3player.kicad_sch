@@ -5631,7 +5631,7 @@
 			)
 		)
 		(property "Value" "R"
-			(at 137.16 78.74 90)
+			(at 137.16 80.518 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -9808,8 +9808,8 @@
 				)
 			)
 		)
-		(property "Value" "R"
-			(at 137.16 72.39 90)
+		(property "Value" "10k"
+			(at 137.16 74.168 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
