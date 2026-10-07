@@ -6904,6 +6904,16 @@
 		)
 		(uuid "c67ae8b9-ada7-4aad-9874-3723291753ac")
 	)
+	(label "SD_D2"
+		(at 372.11 66.04 270)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "c6d73dc6-70af-4102-af1e-2929a4d940e8")
+	)
 	(label "12S_BCLK"
 		(at 147.32 86.36 0)
 		(effects
@@ -6983,6 +6993,16 @@
 			(justify left bottom)
 		)
 		(uuid "d80862b2-b428-4345-be78-58b2a077f80f")
+	)
+	(label "SD_D3"
+		(at 378.46 66.04 270)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "d8e19912-7735-4832-9715-cc8d23017049")
 	)
 	(label "BTN_EQ"
 		(at 55.88 72.39 0)
