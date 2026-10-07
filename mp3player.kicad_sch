@@ -6734,6 +6734,16 @@
 		)
 		(uuid "9525db65-1e04-464e-9abd-f51cf1b21573")
 	)
+	(label "SD_D1"
+		(at 378.46 46.99 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "96403f43-3fb9-427c-91b3-42a1b5f385fa")
+	)
 	(label "12S_LRCK"
 		(at 55.88 31.75 0)
 		(effects
