@@ -7420,6 +7420,16 @@
 		)
 		(uuid "df3ef0ec-5858-425c-9b1e-f832e28f9af6")
 	)
+	(label "TFT_RST"
+		(at 356.87 64.77 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "e2e9224d-f926-4238-a6ec-3bce90f790a2")
+	)
 	(label "TFT_SCK"
 		(at 13.97 62.23 0)
 		(effects
