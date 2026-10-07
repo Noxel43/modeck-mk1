@@ -7676,7 +7676,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 31.75 119.888 0)
+			(at 31.75 119.38 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -15113,7 +15113,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 20.32 119.888 0)
+			(at 20.32 119.38 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
