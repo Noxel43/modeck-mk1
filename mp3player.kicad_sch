@@ -6929,7 +6929,7 @@
 		)
 		(uuid "5dda565e-79a0-46f3-ba12-9aa16dba80af")
 	)
-	(label "BTM_MODE_NEXT"
+	(label "BTN_MODE_NEXT"
 		(at 63.5 38.1 0)
 		(effects
 			(font
