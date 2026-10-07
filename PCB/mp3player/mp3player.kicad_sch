@@ -5888,7 +5888,7 @@
 	)
 	(rectangle
 		(start 21.844 138.43)
-		(end 72.898 240.284)
+		(end 72.898 267.208)
 		(stroke
 			(width 0)
 			(type default)
@@ -6096,10 +6096,6 @@
 		(uuid "37d3fdd6-b017-4b71-8663-b59d3f3cfa59")
 	)
 	(no_connect
-		(at 33.02 45.72)
-		(uuid "3cc4a81f-9f03-42ac-8e26-d85e6779febc")
-	)
-	(no_connect
 		(at 63.5 76.2)
 		(uuid "4bc25a4b-374a-427d-91b8-8e4245992788")
 	)
@@ -6130,10 +6126,6 @@
 	(no_connect
 		(at 147.32 44.45)
 		(uuid "be372dcd-4bbd-45fc-91f6-b5d8b2d97a4d")
-	)
-	(no_connect
-		(at 33.02 50.8)
-		(uuid "c1af3c75-38bd-4928-b65f-8aefce2e665d")
 	)
 	(no_connect
 		(at 274.32 35.56)
@@ -6235,7 +6227,7 @@
 	)
 	(wire
 		(pts
-			(xy 39.37 224.79) (xy 39.37 223.52)
+			(xy 39.37 245.11) (xy 39.37 243.84)
 		)
 		(stroke
 			(width 0)
@@ -6513,6 +6505,16 @@
 		)
 		(uuid "04db18fc-f10b-471c-9474-c4b418670c3d")
 	)
+	(label "NEXT"
+		(at 33.02 45.72 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "06f02236-0bc3-42e3-8f25-019f55f8cc7d")
+	)
 	(label "USB_DP"
 		(at 63.5 48.26 0)
 		(effects
@@ -6732,6 +6734,16 @@
 			(justify left bottom)
 		)
 		(uuid "3f2e98ad-f6da-4a4b-84f5-ed8f0d0411c1")
+	)
+	(label "NEXT"
+		(at 38.1 218.44 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "3f6d0210-01d9-456e-a44b-6a27c53fc4b0")
 	)
 	(label "12S_DOUT"
 		(at 146.05 95.25 0)
@@ -7074,7 +7086,7 @@
 		(uuid "795a4c8d-03e2-4a12-b441-e12112dc1040")
 	)
 	(label "SLIDE_POT"
-		(at 39.37 223.52 0)
+		(at 39.37 243.84 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -7134,7 +7146,7 @@
 		(uuid "81de5f2f-296f-4640-9c96-7cb6d14fdddf")
 	)
 	(label "SLIDE_POT"
-		(at 33.02 219.71 0)
+		(at 33.02 240.03 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -7253,6 +7265,16 @@
 		)
 		(uuid "a2ffc7cd-99c5-4754-8da4-570cc2e4215b")
 	)
+	(label "PREV"
+		(at 33.02 50.8 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "a619a089-49bf-40dc-8f9c-628b37049305")
+	)
 	(label "ADCVREF"
 		(at 171.45 95.25 0)
 		(effects
@@ -7332,6 +7354,16 @@
 			(justify left bottom)
 		)
 		(uuid "b9afaa7a-148a-4dca-a630-ccc8801fc2dd")
+	)
+	(label "PREV"
+		(at 38.1 228.6 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "ba75823e-1820-4f72-a722-dcfef21889ca")
 	)
 	(label "SD_D2"
 		(at 110.49 184.15 180)
@@ -7665,7 +7697,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
+		(property "Footprint" "Button_Switch_THT:SW_PUSH_6mm_H4.3mm"
 			(at 60.96 110.49 0)
 			(hide yes)
 			(show_name no)
@@ -7888,7 +7920,7 @@
 				)
 			)
 		)
-		(property "Value" "Power"
+		(property "Value" "Power_sw"
 			(at 181.61 130.556 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7898,7 +7930,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
+		(property "Footprint" "Button_Switch_SMD:SW_DIP_SPSTx01_Slide_6.7x4.1mm_W6.73mm_P2.54mm_LowProfile_JPin"
 			(at 181.61 133.35 0)
 			(hide yes)
 			(show_name no)
@@ -8443,7 +8475,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
+		(property "Footprint" "Button_Switch_THT:SW_PUSH_6mm_H4.3mm"
 			(at 43.18 142.24 0)
 			(hide yes)
 			(show_name no)
@@ -9579,6 +9611,85 @@
 	)
 	(symbol
 		(lib_id "power:GND")
+		(at 48.26 218.44 90)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "1cae3c07-3761-4392-851a-4fb7f61303a0")
+		(property "Reference" "#PWR029"
+			(at 54.61 218.44 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "GND"
+			(at 52.07 218.4399 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" ""
+			(at 48.26 218.44 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 48.26 218.44 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 48.26 218.44 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "f4cc0310-9ab9-42d7-800b-5ee1d0740b50")
+		)
+		(instances
+			(project "mp3player"
+				(path "/7851373b-cb7e-4e42-801a-d8b5ac5735f4"
+					(reference "#PWR029")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
 		(at 48.26 177.8 90)
 		(unit 1)
 		(body_style 1)
@@ -9844,7 +9955,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
+		(property "Footprint" "Button_Switch_THT:SW_PUSH_6mm_H4.3mm"
 			(at 43.18 162.56 0)
 			(hide yes)
 			(show_name no)
@@ -10736,7 +10847,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
+		(property "Footprint" "Button_Switch_THT:SW_PUSH_6mm_H4.3mm"
 			(at 43.18 152.4 0)
 			(hide yes)
 			(show_name no)
@@ -12770,7 +12881,7 @@
 	)
 	(symbol
 		(lib_id "Device:R_Potentiometer")
-		(at 29.21 219.71 0)
+		(at 29.21 240.03 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -12780,7 +12891,7 @@
 		(dnp no)
 		(uuid "521c6e9f-de69-445e-a896-c37a74245e80")
 		(property "Reference" "RV1"
-			(at 26.67 218.4399 0)
+			(at 26.67 238.7599 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -12791,7 +12902,7 @@
 			)
 		)
 		(property "Value" "Slide pot"
-			(at 26.67 220.9799 90)
+			(at 26.67 241.2999 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -12802,7 +12913,7 @@
 			)
 		)
 		(property "Footprint" "Potentiometer_SMD:Potentiometer_ACP_CA6-VSMD_Vertical"
-			(at 29.21 219.71 0)
+			(at 29.21 240.03 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12814,7 +12925,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 29.21 219.71 0)
+			(at 29.21 240.03 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12826,7 +12937,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 29.21 219.71 0)
+			(at 29.21 240.03 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13593,7 +13704,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
+		(property "Footprint" "Button_Switch_THT:SW_PUSH_6mm_H4.3mm"
 			(at 43.18 203.2 0)
 			(hide yes)
 			(show_name no)
@@ -13750,7 +13861,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
+		(property "Footprint" "Button_Switch_THT:SW_PUSH_6mm_H4.3mm"
 			(at 43.18 172.72 0)
 			(hide yes)
 			(show_name no)
@@ -14272,6 +14383,86 @@
 			(project "mp3player"
 				(path "/7851373b-cb7e-4e42-801a-d8b5ac5735f4"
 					(reference "C2")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Switch:SW_Push")
+		(at 43.18 228.6 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "755ce803-ab21-441e-9fef-dcf79f070b55")
+		(property "Reference" "SW12"
+			(at 43.18 220.98 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "Prev"
+			(at 43.18 223.52 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Button_Switch_THT:SW_PUSH_6mm_H4.3mm"
+			(at 43.18 223.52 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 43.18 223.52 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Push button switch, generic, two pins"
+			(at 43.18 228.6 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "1e7b7087-1a5a-425e-8d51-8a973323cc9f")
+		)
+		(pin "2"
+			(uuid "d97dacbc-db2f-4b56-a8a8-c99156bb1aad")
+		)
+		(instances
+			(project "mp3player"
+				(path "/7851373b-cb7e-4e42-801a-d8b5ac5735f4"
+					(reference "SW12")
 					(unit 1)
 				)
 			)
@@ -16504,7 +16695,7 @@
 	)
 	(symbol
 		(lib_id "Device:C")
-		(at 39.37 228.6 0)
+		(at 39.37 248.92 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -16515,7 +16706,7 @@
 		(fields_autoplaced yes)
 		(uuid "987fac37-63c9-4402-9d7c-797a048c29dc")
 		(property "Reference" "C16"
-			(at 41.91 227.33 0)
+			(at 41.91 247.65 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -16526,7 +16717,7 @@
 			)
 		)
 		(property "Value" "100nF"
-			(at 41.91 229.87 0)
+			(at 41.91 250.19 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -16537,7 +16728,7 @@
 			)
 		)
 		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
-			(at 39.37 228.6 0)
+			(at 39.37 248.92 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -16549,7 +16740,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 39.37 228.6 0)
+			(at 39.37 248.92 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -16561,7 +16752,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 39.37 228.6 0)
+			(at 39.37 248.92 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -16990,7 +17181,7 @@
 	)
 	(symbol
 		(lib_id "power:VCC")
-		(at 29.21 215.9 0)
+		(at 29.21 236.22 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -17001,7 +17192,7 @@
 		(fields_autoplaced yes)
 		(uuid "a34a0af9-4609-4268-a385-c243e0734a59")
 		(property "Reference" "#PWR054"
-			(at 29.21 212.09 0)
+			(at 29.21 232.41 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -17013,7 +17204,7 @@
 			)
 		)
 		(property "Value" "+3V3"
-			(at 29.21 212.344 0)
+			(at 29.21 232.664 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -17024,7 +17215,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 29.21 215.9 0)
+			(at 29.21 236.22 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -17036,7 +17227,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 29.21 215.9 0)
+			(at 29.21 236.22 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -17048,7 +17239,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 29.21 215.9 0)
+			(at 29.21 236.22 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -17651,7 +17842,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
+		(property "Footprint" "Button_Switch_THT:SW_PUSH_6mm_H4.3mm"
 			(at 43.18 182.88 0)
 			(hide yes)
 			(show_name no)
@@ -17973,7 +18164,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
+		(property "Footprint" "Button_Switch_THT:SW_PUSH_6mm_H4.3mm"
 			(at 43.18 193.04 0)
 			(hide yes)
 			(show_name no)
@@ -19896,6 +20087,86 @@
 		)
 	)
 	(symbol
+		(lib_id "Switch:SW_Push")
+		(at 43.18 218.44 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "e53333d0-463f-4a55-946a-d58001bc33d8")
+		(property "Reference" "SW11"
+			(at 43.18 210.82 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "Next"
+			(at 43.18 213.36 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Button_Switch_THT:SW_PUSH_6mm_H4.3mm"
+			(at 43.18 213.36 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 43.18 213.36 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Push button switch, generic, two pins"
+			(at 43.18 218.44 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "f8ceda46-c3b1-4482-b98c-884bc478ac96")
+		)
+		(pin "2"
+			(uuid "380b3a13-fbb2-4744-9b3e-56766cc239e5")
+		)
+		(instances
+			(project "mp3player"
+				(path "/7851373b-cb7e-4e42-801a-d8b5ac5735f4"
+					(reference "SW11")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "power:VDD")
 		(at 153.67 133.35 0)
 		(unit 1)
@@ -20210,7 +20481,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 39.37 232.41 0)
+		(at 39.37 252.73 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -20221,7 +20492,7 @@
 		(fields_autoplaced yes)
 		(uuid "e8fd0560-15d7-4a0f-9451-c84083fadb1c")
 		(property "Reference" "#PWR056"
-			(at 39.37 226.06 0)
+			(at 39.37 246.38 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -20233,7 +20504,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 39.37 236.22 0)
+			(at 39.37 256.54 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -20244,7 +20515,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 39.37 232.41 0)
+			(at 39.37 252.73 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -20256,7 +20527,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 39.37 232.41 0)
+			(at 39.37 252.73 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -20268,7 +20539,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 39.37 232.41 0)
+			(at 39.37 252.73 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -20765,7 +21036,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 29.21 223.52 0)
+		(at 29.21 243.84 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -20776,7 +21047,7 @@
 		(fields_autoplaced yes)
 		(uuid "f3e055bd-cc50-4207-9ba2-b19cd8c6ecf7")
 		(property "Reference" "#PWR055"
-			(at 29.21 217.17 0)
+			(at 29.21 237.49 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -20788,7 +21059,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 29.21 227.33 0)
+			(at 29.21 247.65 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -20799,7 +21070,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 29.21 223.52 0)
+			(at 29.21 243.84 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -20811,7 +21082,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 29.21 223.52 0)
+			(at 29.21 243.84 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -20823,7 +21094,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 29.21 223.52 0)
+			(at 29.21 243.84 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -21411,6 +21682,85 @@
 			(project "mp3player"
 				(path "/7851373b-cb7e-4e42-801a-d8b5ac5735f4"
 					(reference "#PWR03")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 48.26 228.6 90)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "fa332829-6936-40aa-9df9-d08d778fc834")
+		(property "Reference" "#PWR098"
+			(at 54.61 228.6 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "GND"
+			(at 52.07 228.5999 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" ""
+			(at 48.26 228.6 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 48.26 228.6 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 48.26 228.6 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "a0f05e2d-2ce5-48b5-bfe0-cc88066ca11d")
+		)
+		(instances
+			(project "mp3player"
+				(path "/7851373b-cb7e-4e42-801a-d8b5ac5735f4"
+					(reference "#PWR098")
 					(unit 1)
 				)
 			)
