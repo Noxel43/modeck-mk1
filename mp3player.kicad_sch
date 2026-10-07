@@ -3165,7 +3165,7 @@
 	)
 	(text "other random shit i cant be bothered to find a spot for\n\n"
 		(exclude_from_sim no)
-		(at 182.626 107.442 0)
+		(at 176.784 107.95 0)
 		(effects
 			(font
 				(size 1.27 1.27)
