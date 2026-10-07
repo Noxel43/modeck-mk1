@@ -7188,7 +7188,7 @@
 				)
 			)
 		)
-		(property "Value" "USB_C_Receptacle_USB2.0_16P"
+		(property "Value" "USB_C"
 			(at 275.59 49.53 0)
 			(show_name no)
 			(do_not_autoplace no)
