@@ -4889,6 +4889,14 @@
 		(uuid "91b3a8da-fb05-480f-8366-c6cf87ba049a")
 	)
 	(no_connect
+		(at 290.83 82.55)
+		(uuid "944cb10b-5bcd-4960-a796-d35488401f4a")
+	)
+	(no_connect
+		(at 290.83 85.09)
+		(uuid "ba096d34-6fb4-4543-a9a7-b3aa41e4db24")
+	)
+	(no_connect
 		(at 176.53 48.26)
 		(uuid "bb5d12d8-58ba-4830-b195-79702c2bed7e")
 	)
