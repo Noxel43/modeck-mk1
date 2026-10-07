@@ -4293,6 +4293,16 @@
 	)
 	(wire
 		(pts
+			(xy 294.64 58.42) (xy 294.64 62.23)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "5a508e4c-4a20-4f53-ae70-8b673be02388")
+	)
+	(wire
+		(pts
 			(xy 161.29 66.04) (xy 163.83 66.04)
 		)
 		(stroke
@@ -4610,6 +4620,16 @@
 			(justify left bottom)
 		)
 		(uuid "1fe67ec8-3889-472f-beaf-8b16f3016bda")
+	)
+	(label "CHG_STAT"
+		(at 294.64 62.23 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "2080c998-7b5f-4d52-9e20-7d23011e99de")
 	)
 	(label "USB_DM"
 		(at 55.88 36.83 0)
