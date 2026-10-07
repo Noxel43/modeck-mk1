@@ -6640,6 +6640,16 @@
 		)
 		(uuid "352a498f-fd59-4537-b000-a20b184519ed")
 	)
+	(label "TFT_CS"
+		(at 356.87 62.23 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "3545f421-574f-48a7-848f-ea630540ca4e")
+	)
 	(label "SD_D1"
 		(at 414.02 26.67 180)
 		(effects
