@@ -14416,7 +14416,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "Conn_01x08"
+		(property "Value" "TFT SPI"
 			(at 373.38 72.3899 0)
 			(show_name no)
 			(do_not_autoplace no)
