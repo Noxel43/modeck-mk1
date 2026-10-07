@@ -6128,10 +6128,6 @@
 		(uuid "be372dcd-4bbd-45fc-91f6-b5d8b2d97a4d")
 	)
 	(no_connect
-		(at 274.32 35.56)
-		(uuid "d4384f94-147f-4f9c-b0fa-4ce7706f15cc")
-	)
-	(no_connect
 		(at 147.32 39.37)
 		(uuid "d63006b4-6d47-44d0-b688-e7157f9efe0f")
 	)
@@ -6555,7 +6551,7 @@
 		)
 		(uuid "177c359a-812f-4179-9a75-8f753ae34d0c")
 	)
-	(label "CHG_PROG"
+	(label "CHG_STAT"
 		(at 274.32 40.64 270)
 		(effects
 			(font
@@ -7445,6 +7441,16 @@
 		)
 		(uuid "cc6c67f9-3312-40db-99c0-891f69dcdbac")
 	)
+	(label "VBAT"
+		(at 274.32 35.56 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "ccc84f1d-d531-42d7-bf96-433e4690d996")
+	)
 	(label "IO0"
 		(at 21.59 40.64 0)
 		(effects
@@ -7505,7 +7511,7 @@
 		)
 		(uuid "d98ad604-02ff-4a41-8cf0-3d7a68b4d333")
 	)
-	(label "CHG_STAT"
+	(label "CHG_PROG"
 		(at 254 40.64 270)
 		(effects
 			(font
