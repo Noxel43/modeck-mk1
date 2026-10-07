@@ -6026,6 +6026,16 @@
 	)
 	(wire
 		(pts
+			(xy 378.46 44.45) (xy 378.46 44.45)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c1efec97-1855-4185-83e1-7fccef705a4c")
+	)
+	(wire
+		(pts
 			(xy 161.29 96.52) (xy 161.29 93.98)
 		)
 		(stroke
@@ -13175,7 +13185,6 @@
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "7f833afe-623c-4dd4-8912-d34cb1a439e5")
 		(property "Reference" "#PWR061"
 			(at 372.11 41.91 0)
@@ -13189,7 +13198,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 374.65 41.9099 90)
+			(at 375.666 41.148 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
