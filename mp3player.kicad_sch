@@ -4371,7 +4371,7 @@
 		(uuid "177c359a-812f-4179-9a75-8f753ae34d0c")
 	)
 	(label "CHG_PROG"
-		(at 289.56 33.02 270)
+		(at 283.21 30.48 270)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4421,7 +4421,7 @@
 		(uuid "21c90a70-d2d4-43bc-a6a5-915d10bd2571")
 	)
 	(label "VBAT"
-		(at 323.85 71.12 180)
+		(at 297.18 30.48 270)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5021,7 +5021,7 @@
 		(uuid "d98ad604-02ff-4a41-8cf0-3d7a68b4d333")
 	)
 	(label "CHG_STAT"
-		(at 269.24 33.02 270)
+		(at 262.89 30.48 270)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6694,7 +6694,7 @@
 	)
 	(symbol
 		(lib_id "Connector_Generic:Conn_01x02")
-		(at 328.93 71.12 0)
+		(at 297.18 25.4 90)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -6705,7 +6705,7 @@
 		(fields_autoplaced yes)
 		(uuid "2b586632-ccd9-49fc-85c9-dced78d873a8")
 		(property "Reference" "J2"
-			(at 331.47 71.1199 0)
+			(at 297.1799 22.86 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -6716,7 +6716,7 @@
 			)
 		)
 		(property "Value" "Battery"
-			(at 331.47 73.6599 0)
+			(at 299.7199 22.86 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -6727,7 +6727,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 328.93 71.12 0)
+			(at 297.18 25.4 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6738,7 +6738,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 328.93 71.12 0)
+			(at 297.18 25.4 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6749,7 +6749,7 @@
 			)
 		)
 		(property "Description" "Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"
-			(at 328.93 71.12 0)
+			(at 297.18 25.4 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10039,7 +10039,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 323.85 73.66 270)
+		(at 299.72 30.48 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -10049,7 +10049,7 @@
 		(dnp no)
 		(uuid "84bbaa7b-3b13-46c1-bb12-7bf650fe8b97")
 		(property "Reference" "#PWR047"
-			(at 317.5 73.66 0)
+			(at 299.72 36.83 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10060,7 +10060,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 321.31 73.66 90)
+			(at 299.72 33.02 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -10071,7 +10071,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 323.85 73.66 0)
+			(at 299.72 30.48 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10082,7 +10082,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 323.85 73.66 0)
+			(at 299.72 30.48 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10093,7 +10093,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 323.85 73.66 0)
+			(at 299.72 30.48 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13887,7 +13887,7 @@
 	)
 	(symbol
 		(lib_id "power:VCC")
-		(at 279.4 22.86 0)
+		(at 273.05 20.32 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -13897,7 +13897,7 @@
 		(dnp no)
 		(uuid "eef6852a-3f8e-4a4e-b9d1-fbd541a3884f")
 		(property "Reference" "#PWR048"
-			(at 279.4 26.67 0)
+			(at 273.05 24.13 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13908,7 +13908,7 @@
 			)
 		)
 		(property "Value" "VBUS"
-			(at 279.4 19.05 0)
+			(at 273.05 16.51 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -13918,7 +13918,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 279.4 22.86 0)
+			(at 273.05 20.32 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13929,7 +13929,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 279.4 22.86 0)
+			(at 273.05 20.32 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13940,7 +13940,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"VCC\""
-			(at 279.4 22.86 0)
+			(at 273.05 20.32 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -14364,7 +14364,7 @@
 	)
 	(symbol
 		(lib_id "power:VCC")
-		(at 289.56 27.94 270)
+		(at 283.21 25.4 270)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -14374,7 +14374,7 @@
 		(dnp no)
 		(uuid "f6265347-500d-448f-990c-027a607ef733")
 		(property "Reference" "#PWR?"
-			(at 285.75 27.94 0)
+			(at 279.4 25.4 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -14385,7 +14385,7 @@
 			)
 		)
 		(property "Value" "VBAT"
-			(at 292.1 27.94 0)
+			(at 285.75 25.4 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -14396,7 +14396,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 289.56 27.94 0)
+			(at 283.21 25.4 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -14407,7 +14407,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 289.56 27.94 0)
+			(at 283.21 25.4 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -14418,7 +14418,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"VCC\""
-			(at 289.56 27.94 0)
+			(at 283.21 25.4 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -14600,7 +14600,7 @@
 	)
 	(symbol
 		(lib_id "Battery_Management:MCP73831-2-OT")
-		(at 279.4 30.48 0)
+		(at 273.05 27.94 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -14610,7 +14610,7 @@
 		(dnp no)
 		(uuid "f6e0bb81-1c90-4c2f-88fb-e518e8907d73")
 		(property "Reference" "U4"
-			(at 269.748 22.86 0)
+			(at 263.398 20.32 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -14621,7 +14621,7 @@
 			)
 		)
 		(property "Value" "MCP73831-2-OT"
-			(at 258.572 20.32 0)
+			(at 252.222 17.78 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -14633,7 +14633,7 @@
 			)
 		)
 		(property "Footprint" "Package_TO_SOT_SMD:SOT-23-5"
-			(at 280.67 36.83 0)
+			(at 274.32 34.29 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -14646,7 +14646,7 @@
 			)
 		)
 		(property "Datasheet" "http://ww1.microchip.com/downloads/en/DeviceDoc/20001984g.pdf"
-			(at 279.4 48.768 0)
+			(at 273.05 46.228 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -14657,7 +14657,7 @@
 			)
 		)
 		(property "Description" "Single cell, Li-Ion/Li-Po charge management controller, 4.20V, Tri-State Status Output, in SOT23-5 package"
-			(at 279.4 30.48 0)
+			(at 273.05 27.94 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -14931,7 +14931,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 279.4 38.1 0)
+		(at 273.05 35.56 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -14941,7 +14941,7 @@
 		(dnp no)
 		(uuid "fa3ec4f5-d1c2-4a87-a276-37d4907d4d74")
 		(property "Reference" "#PWR049"
-			(at 279.4 44.45 0)
+			(at 273.05 41.91 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -14952,7 +14952,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 279.4 41.656 0)
+			(at 273.05 39.116 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -14962,7 +14962,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 279.4 38.1 0)
+			(at 273.05 35.56 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -14973,7 +14973,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 279.4 38.1 0)
+			(at 273.05 35.56 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -14984,7 +14984,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 279.4 38.1 0)
+			(at 273.05 35.56 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
