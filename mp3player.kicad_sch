@@ -6659,7 +6659,7 @@
 		)
 		(uuid "335c61a2-7577-47eb-9e0d-f3b6da3035f9")
 	)
-	(label "SD_D01"
+	(label "SD_D1"
 		(at 63.5 68.58 0)
 		(effects
 			(font
@@ -7219,7 +7219,7 @@
 		)
 		(uuid "9e8779b5-7630-42ed-b43d-00eba6465466")
 	)
-	(label "SD_DO2"
+	(label "SD_D2"
 		(at 63.5 71.12 0)
 		(effects
 			(font
