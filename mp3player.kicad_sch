@@ -7010,6 +7010,16 @@
 		)
 		(uuid "779d3312-b40a-41bf-b1c4-1b1f9df602e7")
 	)
+	(label "TFT_SCK"
+		(at 356.87 72.39 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "7942e420-3fff-4e25-a5d5-657c7f116baa")
+	)
 	(label "VREF"
 		(at 189.23 86.36 0)
 		(effects
