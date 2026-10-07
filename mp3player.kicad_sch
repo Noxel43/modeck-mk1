@@ -3566,6 +3566,16 @@
 		)
 		(uuid "077895c0-1a04-479d-aa2f-dd88af1e4f42")
 	)
+	(label "VBAT_SENSE"
+		(at 143.51 127 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "123cc86a-5de2-4909-ab9c-f115520757e8")
+	)
 	(label "TFT_MOSI"
 		(at 13.97 59.69 0)
 		(effects
