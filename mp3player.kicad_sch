@@ -6345,7 +6345,7 @@
 		(uuid "434eb121-cb1c-4bd6-88ab-9ebc198d9897")
 	)
 	(label "SD_CLK"
-		(at 378.46 39.37 180)
+		(at 363.22 38.1 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6525,7 +6525,7 @@
 		(uuid "5fd529ed-1b71-4d2a-989a-dab921c1df49")
 	)
 	(label "SD_D3"
-		(at 378.46 31.75 180)
+		(at 363.22 30.48 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6605,7 +6605,7 @@
 		(uuid "736cba88-849f-4906-9756-1d3c1e59a4d5")
 	)
 	(label "SD_CMD"
-		(at 378.46 34.29 180)
+		(at 363.22 33.02 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6735,7 +6735,7 @@
 		(uuid "9525db65-1e04-464e-9abd-f51cf1b21573")
 	)
 	(label "SD_D1"
-		(at 378.46 46.99 180)
+		(at 363.22 45.72 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6755,7 +6755,7 @@
 		(uuid "96db7321-cd4d-4739-9447-05bc1c31839c")
 	)
 	(label "SD_D0"
-		(at 378.46 44.45 180)
+		(at 363.22 43.18 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6865,7 +6865,7 @@
 		(uuid "b9afaa7a-148a-4dca-a630-ccc8801fc2dd")
 	)
 	(label "SD_D2"
-		(at 378.46 29.21 180)
+		(at 363.22 27.94 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6925,7 +6925,7 @@
 		(uuid "cb9ce651-534f-4051-aa9a-2a846d50411b")
 	)
 	(label "+3V3"
-		(at 378.46 36.83 180)
+		(at 363.22 35.56 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -9475,7 +9475,7 @@
 	)
 	(symbol
 		(lib_id "Connector:Micro_SD_Card")
-		(at 401.32 36.83 0)
+		(at 386.08 35.56 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -9486,7 +9486,7 @@
 		(fields_autoplaced yes)
 		(uuid "2fd0c34e-e09a-4378-b012-baff82e5cce3")
 		(property "Reference" "J4"
-			(at 401.955 17.78 0)
+			(at 386.715 16.51 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -9496,7 +9496,7 @@
 			)
 		)
 		(property "Value" "Micro_SD_Card"
-			(at 401.955 20.32 0)
+			(at 386.715 19.05 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -9506,7 +9506,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 430.53 29.21 0)
+			(at 415.29 27.94 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9517,7 +9517,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.we-online.com/components/products/datasheet/693072010801.pdf"
-			(at 401.32 36.83 0)
+			(at 386.08 35.56 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9528,7 +9528,7 @@
 			)
 		)
 		(property "Description" "Micro SD Card Socket"
-			(at 401.32 36.83 0)
+			(at 386.08 35.56 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11565,7 +11565,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 421.64 52.07 90)
+		(at 406.4 50.8 90)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -11575,7 +11575,7 @@
 		(dnp no)
 		(uuid "5d6f92c9-5c3c-43d8-9b02-2793e23697d7")
 		(property "Reference" "#PWR062"
-			(at 427.99 52.07 0)
+			(at 412.75 50.8 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11586,7 +11586,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 424.434 52.832 90)
+			(at 409.194 51.562 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -11597,7 +11597,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 421.64 52.07 0)
+			(at 406.4 50.8 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11608,7 +11608,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 421.64 52.07 0)
+			(at 406.4 50.8 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11619,7 +11619,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 421.64 52.07 0)
+			(at 406.4 50.8 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13245,7 +13245,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 378.46 41.91 270)
+		(at 363.22 40.64 270)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -13255,7 +13255,7 @@
 		(dnp no)
 		(uuid "7f833afe-623c-4dd4-8912-d34cb1a439e5")
 		(property "Reference" "#PWR061"
-			(at 372.11 41.91 0)
+			(at 356.87 40.64 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13266,7 +13266,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 375.666 41.148 90)
+			(at 360.426 39.878 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -13277,7 +13277,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 378.46 41.91 0)
+			(at 363.22 40.64 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13288,7 +13288,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 378.46 41.91 0)
+			(at 363.22 40.64 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13299,7 +13299,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 378.46 41.91 0)
+			(at 363.22 40.64 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
