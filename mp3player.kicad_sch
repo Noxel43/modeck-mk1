@@ -5682,6 +5682,16 @@
 		)
 		(uuid "7026b330-7193-4613-8374-fa8ef88dde1f")
 	)
+	(label "CC2"
+		(at 313.69 52.07 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "736cba88-849f-4906-9756-1d3c1e59a4d5")
+	)
 	(label "VREF"
 		(at 189.23 86.36 0)
 		(effects
@@ -6071,6 +6081,16 @@
 			(justify left bottom)
 		)
 		(uuid "f13ce100-a3dc-4188-837e-a2673f799274")
+	)
+	(label "CC1"
+		(at 304.8 52.07 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "f2b187e0-1c12-484b-ba53-d7ce2d83ab14")
 	)
 	(label "EN"
 		(at 31.75 87.63 0)
