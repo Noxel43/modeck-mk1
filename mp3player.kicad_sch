@@ -6196,12 +6196,12 @@
 		(uuid "7bc3d412-e719-4483-8bb2-997608d965a1")
 	)
 	(label "VBUS"
-		(at 331.47 52.07 0)
+		(at 331.47 52.07 180)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
-			(justify left bottom)
+			(justify right bottom)
 		)
 		(uuid "800e14b9-a5dc-47a7-a564-25d68871bdaf")
 	)
@@ -7343,7 +7343,7 @@
 		(dnp no)
 		(uuid "0fc314c9-b8e6-41e7-92a4-60a7c66ea86f")
 		(property "Reference" "U5"
-			(at 337.82 44.958 0)
+			(at 333.756 48.26 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -7354,7 +7354,7 @@
 			)
 		)
 		(property "Value" "USBLC6-2SC6"
-			(at 337.82 47.498 0)
+			(at 333.756 50.8 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
