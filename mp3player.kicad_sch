@@ -6395,16 +6395,6 @@
 		)
 		(uuid "b9afaa7a-148a-4dca-a630-ccc8801fc2dd")
 	)
-	(label "USB_DP"
-		(at 336.55 59.69 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "bd4d60e4-7989-495b-9c36-916253d72fa0")
-	)
 	(label "HP_L"
 		(at 227.33 41.91 180)
 		(effects
@@ -6514,6 +6504,16 @@
 			(justify right bottom)
 		)
 		(uuid "da6798b4-002b-47f8-ace1-77bb1cf5e5d4")
+	)
+	(label "USB_DP"
+		(at 336.55 59.69 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "dc181389-cfd1-4e90-85e6-c9991d85e2a7")
 	)
 	(label "12S_BCLK"
 		(at 13.97 72.39 0)
