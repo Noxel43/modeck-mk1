@@ -5356,7 +5356,7 @@
 			)
 		)
 		(property "Value" "3V3"
-			(at 192.278 134.62 90)
+			(at 192.024 134.62 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -7734,7 +7734,7 @@
 			)
 		)
 		(property "Value" "VSW"
-			(at 169.926 134.62 0)
+			(at 169.672 134.62 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
