@@ -13026,7 +13026,7 @@
 			)
 		)
 		(property "Value" "+3V3"
-			(at 359.41 54.61 0)
+			(at 359.156 54.61 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
