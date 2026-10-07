@@ -14610,7 +14610,7 @@
 		(dnp no)
 		(uuid "f6e0bb81-1c90-4c2f-88fb-e518e8907d73")
 		(property "Reference" "U4"
-			(at 276.098 13.716 0)
+			(at 276.098 22.86 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -14621,7 +14621,8 @@
 			)
 		)
 		(property "Value" "MCP73831-2-OT"
-			(at 276.098 16.256 0)
+			(at 264.922 20.32 0)
+			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
