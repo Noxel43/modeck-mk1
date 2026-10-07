@@ -3385,12 +3385,6 @@
 		(uuid "000f7862-1934-43c1-9a91-6286f9eea312")
 	)
 	(junction
-		(at 173.99 130.81)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "2c77242e-23db-4329-a55d-a5df4e00befc")
-	)
-	(junction
 		(at 158.75 20.32)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -3675,6 +3669,16 @@
 			(type default)
 		)
 		(uuid "b9088a5e-aa22-477d-9624-9125d642883d")
+	)
+	(wire
+		(pts
+			(xy 172.72 132.08) (xy 173.99 130.81)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ba560b70-2ade-4ded-8a9a-e055d02e8e0b")
 	)
 	(wire
 		(pts
@@ -5335,7 +5339,7 @@
 	)
 	(symbol
 		(lib_id "power:VCC")
-		(at 189.23 130.81 270)
+		(at 189.23 130.81 180)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -5345,7 +5349,7 @@
 		(dnp no)
 		(uuid "14ba02ad-a89a-4c61-a5d5-8af1b662f192")
 		(property "Reference" "#PWR041"
-			(at 185.42 130.81 0)
+			(at 189.23 127 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5356,7 +5360,7 @@
 			)
 		)
 		(property "Value" "3V3"
-			(at 192.024 130.81 90)
+			(at 189.23 133.604 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -7713,7 +7717,7 @@
 	)
 	(symbol
 		(lib_id "power:VDD")
-		(at 173.99 130.81 90)
+		(at 172.72 132.08 180)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -7723,7 +7727,7 @@
 		(dnp no)
 		(uuid "5d7034b0-90ce-4948-9dfb-4dc9fcc18f3e")
 		(property "Reference" "#PWR042"
-			(at 177.8 130.81 0)
+			(at 172.72 128.27 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7734,7 +7738,7 @@
 			)
 		)
 		(property "Value" "VSW"
-			(at 169.672 130.81 90)
+			(at 172.72 136.398 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -7744,7 +7748,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 173.99 130.81 0)
+			(at 172.72 132.08 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7755,7 +7759,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 173.99 130.81 0)
+			(at 172.72 132.08 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7766,7 +7770,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"VDD\""
-			(at 173.99 130.81 0)
+			(at 172.72 132.08 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
