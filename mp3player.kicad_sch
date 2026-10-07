@@ -5217,6 +5217,17 @@
 		)
 		(uuid "dff6bd1b-ccc2-4882-8022-58ef9fe4eac2")
 	)
+	(text "Battery"
+		(exclude_from_sim no)
+		(at 300.228 13.716 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "13b025b5-d2ce-46db-859e-09ffbb0b0f69")
+	)
 	(text "MCU - ESP32-S3"
 		(exclude_from_sim no)
 		(at 40.64 13.97 0)
