@@ -8,6 +8,8 @@
 		(title "modeck mk1 mainboard")
 		(rev "v0.1")
 		(company "noxel")
+		(comment 1 "MODECK MK1")
+		(comment 3 "The customisable open source DIY MP3 Player")
 	)
 	(lib_symbols
 		(symbol "Audio:ES8388"
