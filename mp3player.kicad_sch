@@ -6814,6 +6814,16 @@
 		)
 		(uuid "b9afaa7a-148a-4dca-a630-ccc8801fc2dd")
 	)
+	(label "SD_D2"
+		(at 378.46 29.21 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "c0b9699b-c9d1-40a6-835b-9b922709d773")
+	)
 	(label "HP_L"
 		(at 227.33 41.91 180)
 		(effects
