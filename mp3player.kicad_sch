@@ -5464,6 +5464,16 @@
 		)
 		(uuid "434eb121-cb1c-4bd6-88ab-9ebc198d9897")
 	)
+	(label "CC2"
+		(at 290.83 62.23 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "44937d51-9686-457c-a830-1d6365ac0b51")
+	)
 	(label "12S_MCLK"
 		(at 13.97 69.85 0)
 		(effects
