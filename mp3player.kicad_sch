@@ -4954,7 +4954,7 @@
 		(dnp no)
 		(uuid "023b2551-f185-42a3-bc46-e9ec89003171")
 		(property "Reference" "SW10"
-			(at 207.01 110.998 0)
+			(at 207.01 112.268 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -4964,7 +4964,7 @@
 			)
 		)
 		(property "Value" "Power"
-			(at 207.01 113.03 0)
+			(at 207.01 114.046 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
