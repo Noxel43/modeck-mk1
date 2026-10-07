@@ -13574,7 +13574,7 @@
 		(dnp no)
 		(uuid "8588eaad-4882-44f8-bdd6-438546a4cb50")
 		(property "Reference" "R20"
-			(at 359.156 64.008 90)
+			(at 359.41 64.008 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -13584,7 +13584,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "R"
+		(property "Value" "10k"
 			(at 361.95 63.4999 0)
 			(show_name no)
 			(do_not_autoplace no)
