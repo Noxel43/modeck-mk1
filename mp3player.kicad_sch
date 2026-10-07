@@ -6344,6 +6344,16 @@
 		)
 		(uuid "434eb121-cb1c-4bd6-88ab-9ebc198d9897")
 	)
+	(label "SD_CLK"
+		(at 378.46 39.37 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "442f094f-6d13-4a09-831f-aa3ed3fcbe03")
+	)
 	(label "CC2"
 		(at 290.83 62.23 0)
 		(effects
