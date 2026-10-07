@@ -6744,6 +6744,16 @@
 		)
 		(uuid "96db7321-cd4d-4739-9447-05bc1c31839c")
 	)
+	(label "SD_D0"
+		(at 378.46 44.45 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "9b0948eb-735a-4f20-877c-a9fab64c1466")
+	)
 	(label "SLIDE_POT"
 		(at 13.97 34.29 0)
 		(effects
