@@ -3,7 +3,7 @@
 	(generator "eeschema")
 	(generator_version "10.0")
 	(uuid "7851373b-cb7e-4e42-801a-d8b5ac5735f4")
-	(paper "A2")
+	(paper "A4")
 	(lib_symbols
 		(symbol "Audio:ES8388"
 			(exclude_from_sim no)
