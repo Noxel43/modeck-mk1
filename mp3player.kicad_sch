@@ -5965,6 +5965,16 @@
 		)
 		(uuid "44937d51-9686-457c-a830-1d6365ac0b51")
 	)
+	(label "USB_DM"
+		(at 330.2 59.69 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "45e40fa9-07e8-4f62-8dc9-a1da6658977d")
+	)
 	(label "12S_MCLK"
 		(at 13.97 69.85 0)
 		(effects
@@ -6154,6 +6164,16 @@
 			(justify left bottom)
 		)
 		(uuid "6baf553d-78fd-4340-88e6-4c3a8e234f83")
+	)
+	(label "USB_DM"
+		(at 340.36 59.69 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "6dc770b3-784e-4540-b107-75f4d2ae561b")
 	)
 	(label "USB_DM"
 		(at 290.83 67.31 0)
