@@ -1,0 +1,32 @@
+ERC report (2026-10-07T13:37:32, Encoding UTF8)
+Report includes: Errors, Warnings
+
+***** Sheet /
+[power_pin_not_driven]: Input Power pin not driven by any Output Power pins
+    ; error
+    @(4350 mils, 7550 mils): Symbol J4 Pin 4 [VDD, Power input, Line]
+[power_pin_not_driven]: Input Power pin not driven by any Output Power pins
+    ; error
+    @(5000 mils, 2950 mils): Symbol U2 Pin 4 [DGND, Power input, Line]
+[pin_to_pin]: Pins of type Power output and Power output are connected
+    ; error
+    @(6450 mils, 3050 mils): Symbol #FLG06 Pin 1 [Power output, Line]
+    @(5650 mils, 5250 mils): Symbol #FLG03 Pin 1 [Power output, Line]
+[pin_to_pin]: Pins of type Power output and Power output are connected
+    ; error
+    @(6050 mils, 5250 mils): Symbol #FLG04 Pin 1 [Power output, Line]
+    @(10800 mils, 1400 mils): Symbol U4 Pin 3 [V_{BAT}, Power output, Line]
+[power_pin_not_driven]: Input Power pin not driven by any Output Power pins
+    ; error
+    @(8300 mils, 2600 mils): Symbol #PWR028 Pin 1 [Power input, Line]
+[power_pin_not_driven]: Input Power pin not driven by any Output Power pins
+    ; error
+    @(10400 mils, 1200 mils): Symbol U4 Pin 4 [V_{DD}, Power input, Line]
+
+ ** ERC messages: 6  Errors 6  Warnings 0
+
+ ** Ignored checks:
+    - Global label only appears once in the schematic
+    - Four connection points are joined together
+    - SPICE model issue
+    - Assigned footprint doesn't match footprint filters
