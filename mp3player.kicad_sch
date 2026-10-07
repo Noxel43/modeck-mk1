@@ -13013,7 +13013,6 @@
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "7cf6af32-710b-4d2f-ae67-7669d61e7913")
 		(property "Reference" "#PWR063"
 			(at 359.41 62.23 0)
@@ -13026,8 +13025,8 @@
 				)
 			)
 		)
-		(property "Value" "3V3"
-			(at 359.41 53.34 0)
+		(property "Value" "+3V3"
+			(at 359.41 54.61 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
