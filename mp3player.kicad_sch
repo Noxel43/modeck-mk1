@@ -13875,7 +13875,6 @@
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "eef6852a-3f8e-4a4e-b9d1-fbd541a3884f")
 		(property "Reference" "#PWR048"
 			(at 285.75 26.67 0)
@@ -13889,7 +13888,7 @@
 			)
 		)
 		(property "Value" "VBUS"
-			(at 285.75 17.78 0)
+			(at 285.75 19.05 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
