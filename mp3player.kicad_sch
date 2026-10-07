@@ -6670,6 +6670,16 @@
 		)
 		(uuid "37465d11-5d46-4da1-8340-93e585e2726d")
 	)
+	(label "TFT_MOSI"
+		(at 356.87 69.85 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "38002e18-d55f-446e-9005-c1d66822078e")
+	)
 	(label "VSW"
 		(at 215.9 115.57 0)
 		(effects
