@@ -5513,7 +5513,7 @@
 	)
 	(rectangle
 		(start 13.97 15.24)
-		(end 72.39 119.634)
+		(end 72.39 120.396)
 		(stroke
 			(width 0)
 			(type default)
@@ -7663,7 +7663,6 @@
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "064ccfb8-18c5-4f60-b023-14e31a64f4c1")
 		(property "Reference" "#PWR?"
 			(at 31.75 121.92 0)
@@ -7677,7 +7676,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 31.75 120.65 0)
+			(at 31.75 119.888 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -15101,7 +15100,6 @@
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "96d19416-1ca4-41d1-adc7-57b28bae47ac")
 		(property "Reference" "#PWR068"
 			(at 20.32 121.92 0)
@@ -15115,7 +15113,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 20.32 120.65 0)
+			(at 20.32 119.888 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
