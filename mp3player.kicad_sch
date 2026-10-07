@@ -5010,6 +5010,16 @@
 		)
 		(uuid "d98ad604-02ff-4a41-8cf0-3d7a68b4d333")
 	)
+	(label "CHG_STAT]"
+		(at 275.59 33.02 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "da6798b4-002b-47f8-ace1-77bb1cf5e5d4")
+	)
 	(label "12S_BCLK"
 		(at 13.97 72.39 0)
 		(effects
