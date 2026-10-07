@@ -6162,6 +6162,26 @@
 	)
 	(wire
 		(pts
+			(xy 256.54 114.3) (xy 256.54 113.03)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "24c4fd90-9b1d-465c-a88f-1aad9a5b8d22")
+	)
+	(wire
+		(pts
+			(xy 256.54 116.84) (xy 256.54 115.57)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "2c13ada4-801a-4403-aab7-cafab4935483")
+	)
+	(wire
+		(pts
 			(xy 13.97 59.69) (xy 25.4 59.69)
 		)
 		(stroke
@@ -6222,6 +6242,16 @@
 	)
 	(wire
 		(pts
+			(xy 256.54 124.46) (xy 256.54 123.19)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4399d66e-5cee-4879-abcc-3a9e72a6cba4")
+	)
+	(wire
+		(pts
 			(xy 13.97 46.99) (xy 25.4 46.99)
 		)
 		(stroke
@@ -6249,6 +6279,16 @@
 			(type default)
 		)
 		(uuid "61d1428e-5386-42e8-89dd-2ed8d439c328")
+	)
+	(wire
+		(pts
+			(xy 256.54 119.38) (xy 256.54 118.11)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "622d0089-cc5a-4d55-a23b-98e7290606cb")
 	)
 	(polyline
 		(pts
@@ -6432,6 +6472,26 @@
 	)
 	(wire
 		(pts
+			(xy 256.54 129.54) (xy 256.54 128.27)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "da3e31e0-a003-46ae-86db-79895a45f52e")
+	)
+	(wire
+		(pts
+			(xy 256.54 127) (xy 256.54 125.73)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "db283e49-68f2-43fd-876c-86cb804100aa")
+	)
+	(wire
+		(pts
 			(xy 20.32 97.79) (xy 20.32 96.52)
 		)
 		(stroke
@@ -6439,6 +6499,16 @@
 			(type default)
 		)
 		(uuid "e0548ea6-0c8e-49f5-b6bb-72bf17e4123b")
+	)
+	(wire
+		(pts
+			(xy 256.54 121.92) (xy 256.54 120.65)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e32b7f4c-f94e-4387-9c66-5d2d309e5464")
 	)
 	(wire
 		(pts
@@ -6459,6 +6529,16 @@
 			(type default)
 		)
 		(uuid "ecf21117-1883-4ef9-ae24-1f05e0130441")
+	)
+	(wire
+		(pts
+			(xy 256.54 132.08) (xy 256.54 130.81)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f414c10d-0668-4227-a7d0-ada35700f3af")
 	)
 	(wire
 		(pts
@@ -14395,7 +14475,7 @@
 	)
 	(symbol
 		(lib_id "Connector_Generic:Conn_01x08")
-		(at 261.62 120.65 0)
+		(at 261.62 121.92 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -14406,7 +14486,7 @@
 		(fields_autoplaced yes)
 		(uuid "798254c9-4d70-4314-a09e-0706a4868a2d")
 		(property "Reference" "J5"
-			(at 264.16 120.6499 0)
+			(at 264.16 121.9199 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -14417,7 +14497,7 @@
 			)
 		)
 		(property "Value" "TFT SPI"
-			(at 264.16 123.1899 0)
+			(at 264.16 124.4599 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -14428,7 +14508,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 261.62 120.65 0)
+			(at 261.62 121.92 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -14439,7 +14519,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 261.62 120.65 0)
+			(at 261.62 121.92 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -14450,7 +14530,7 @@
 			)
 		)
 		(property "Description" "Generic connector, single row, 01x08, script generated (kicad-library-utils/schlib/autogen/connector/)"
-			(at 261.62 120.65 0)
+			(at 261.62 121.92 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
