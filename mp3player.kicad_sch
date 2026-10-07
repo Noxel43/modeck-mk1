@@ -17012,7 +17012,7 @@
 				)
 			)
 		)
-		(property "Value" "3V3"
+		(property "Value" "+3V3"
 			(at 172.212 144.78 0)
 			(show_name no)
 			(do_not_autoplace no)
