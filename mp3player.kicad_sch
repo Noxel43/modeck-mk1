@@ -6839,7 +6839,7 @@
 				)
 			)
 		)
-		(property "Value" "HPVDD"
+		(property "Value" "VSW"
 			(at 198.12 114.046 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11729,7 +11729,7 @@
 				)
 			)
 		)
-		(property "Value" "VDD_CODEC"
+		(property "Value" "VBAT"
 			(at 185.42 114.046 0)
 			(show_name no)
 			(do_not_autoplace no)
