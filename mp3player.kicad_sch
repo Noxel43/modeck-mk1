@@ -8998,7 +8998,7 @@
 	)
 	(symbol
 		(lib_id "power:VCC")
-		(at 342.9 35.56 0)
+		(at 349.25 17.78 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -9008,7 +9008,7 @@
 		(dnp no)
 		(uuid "5ca65811-74bd-4e0b-ab63-7f376b09f57d")
 		(property "Reference" "#PWR053"
-			(at 342.9 39.37 0)
+			(at 349.25 21.59 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9019,7 +9019,7 @@
 			)
 		)
 		(property "Value" "VBAT"
-			(at 342.9 33.02 0)
+			(at 346.71 14.224 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -9030,7 +9030,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 342.9 35.56 0)
+			(at 349.25 17.78 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9041,7 +9041,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 342.9 35.56 0)
+			(at 349.25 17.78 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9052,7 +9052,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"VCC\""
-			(at 342.9 35.56 0)
+			(at 349.25 17.78 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
