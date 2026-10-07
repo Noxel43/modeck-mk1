@@ -14352,7 +14352,6 @@
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "f6265347-500d-448f-990c-027a607ef733")
 		(property "Reference" "#PWR?"
 			(at 292.1 27.94 0)
@@ -14365,8 +14364,8 @@
 				)
 			)
 		)
-		(property "Value" "VCC"
-			(at 299.72 27.9399 90)
+		(property "Value" "VBAT"
+			(at 298.45 27.94 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
