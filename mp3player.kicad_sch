@@ -6122,16 +6122,6 @@
 	)
 	(wire
 		(pts
-			(xy 360.68 69.85) (xy 351.79 69.85)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "04f06206-e2f6-4e87-a261-6ff3eb6d9dde")
-	)
-	(wire
-		(pts
 			(xy 158.75 20.32) (xy 161.29 20.32)
 		)
 		(stroke
@@ -6159,16 +6149,6 @@
 			(type default)
 		)
 		(uuid "1569e02d-a2b6-4be7-a09c-b42bbf01b24c")
-	)
-	(wire
-		(pts
-			(xy 360.68 72.39) (xy 364.49 72.39)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "19d9ecdc-7c22-48c1-a8b4-dc30f2ceff77")
 	)
 	(wire
 		(pts
@@ -6302,16 +6282,6 @@
 	)
 	(wire
 		(pts
-			(xy 351.79 69.85) (xy 365.76 72.39)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "6fa0b8ef-348f-4064-b823-ca89f7dc74f1")
-	)
-	(wire
-		(pts
 			(xy 133.35 96.52) (xy 133.35 93.98)
 		)
 		(stroke
@@ -6369,16 +6339,6 @@
 			(type default)
 		)
 		(uuid "b361c113-c8f4-4cf2-aef9-ab565b712c45")
-	)
-	(wire
-		(pts
-			(xy 360.68 69.85) (xy 360.68 72.39)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "b42ee428-91a3-457e-8afc-cdf0e713241d")
 	)
 	(wire
 		(pts
@@ -6721,7 +6681,7 @@
 		(uuid "37465d11-5d46-4da1-8340-93e585e2726d")
 	)
 	(label "TFT_MOSI"
-		(at 351.79 69.85 180)
+		(at 361.95 72.39 180)
 		(effects
 			(font
 				(size 1.27 1.27)
