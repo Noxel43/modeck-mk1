@@ -6734,6 +6734,16 @@
 		)
 		(uuid "901116f0-ddb8-45ec-a0b1-c296b9bb3490")
 	)
+	(label "SD_CMD"
+		(at 384.81 66.04 270)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "946e56d5-d55b-41da-97f8-fa799c9baad1")
+	)
 	(label "BTN_EQ"
 		(at 92.71 74.93 180)
 		(effects
