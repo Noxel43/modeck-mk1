@@ -4158,6 +4158,16 @@
 		)
 		(uuid "4c48b6c4-2c27-471b-8af7-1133e5e1220e")
 	)
+	(label "VBAT"
+		(at 204.47 116.84 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "4e12468c-3afd-4a43-83fa-533581143c3c")
+	)
 	(label "BTN_MODE_NEXT"
 		(at 92.71 64.77 180)
 		(effects
@@ -4944,7 +4954,7 @@
 	)
 	(symbol
 		(lib_id "Switch:SW_SPST")
-		(at 207.01 116.84 0)
+		(at 209.55 116.84 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -4954,7 +4964,7 @@
 		(dnp no)
 		(uuid "023b2551-f185-42a3-bc46-e9ec89003171")
 		(property "Reference" "SW10"
-			(at 207.01 112.268 0)
+			(at 209.55 112.268 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -4964,7 +4974,7 @@
 			)
 		)
 		(property "Value" "Power"
-			(at 207.01 114.046 0)
+			(at 209.55 114.046 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -4974,7 +4984,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 207.01 116.84 0)
+			(at 209.55 116.84 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4985,7 +4995,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 207.01 116.84 0)
+			(at 209.55 116.84 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4996,7 +5006,7 @@
 			)
 		)
 		(property "Description" "Single Pole Single Throw (SPST) switch"
-			(at 207.01 116.84 0)
+			(at 209.55 116.84 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
