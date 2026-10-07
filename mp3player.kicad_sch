@@ -8003,7 +8003,6 @@
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "7c34b89c-f703-49dc-82fe-d2db67d4e8c2")
 		(property "Reference" "#PWR036"
 			(at 138.43 140.97 0)
@@ -8017,7 +8016,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 138.43 139.7 0)
+			(at 138.43 138.684 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -10220,7 +10219,6 @@
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "c0ab6f47-b7f2-4294-840f-f4b71279efba")
 		(property "Reference" "#PWR035"
 			(at 138.43 123.19 0)
@@ -10234,7 +10232,7 @@
 			)
 		)
 		(property "Value" "VBAT"
-			(at 138.43 114.3 0)
+			(at 138.43 115.316 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
