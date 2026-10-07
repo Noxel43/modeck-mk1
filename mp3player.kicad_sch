@@ -6940,6 +6940,16 @@
 		)
 		(uuid "6843c5b1-13d2-4ea0-8006-0690a4fef81a")
 	)
+	(label "TFT_DC"
+		(at 356.87 67.31 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "684b0ed1-2aed-4abc-b2a4-77978f9c6a24")
+	)
 	(label "USB_DP"
 		(at 337.82 46.99 0)
 		(effects
