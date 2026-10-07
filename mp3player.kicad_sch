@@ -11411,10 +11411,9 @@
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "e84307e1-a0a5-4fd6-b66a-d68e46347315")
 		(property "Reference" "C14"
-			(at 161.29 119.38 90)
+			(at 161.29 121.158 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -11424,7 +11423,7 @@
 			)
 		)
 		(property "Value" "100nF"
-			(at 161.29 121.92 90)
+			(at 161.29 123.698 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
