@@ -5644,6 +5644,16 @@
 		)
 		(uuid "6843c5b1-13d2-4ea0-8006-0690a4fef81a")
 	)
+	(label "USB_DM"
+		(at 290.83 67.31 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "7026b330-7193-4613-8374-fa8ef88dde1f")
+	)
 	(label "VREF"
 		(at 189.23 86.36 0)
 		(effects
