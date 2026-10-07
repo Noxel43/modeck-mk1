@@ -6084,6 +6084,16 @@
 		)
 		(uuid "fbc9cc79-ba80-4ec5-a4b9-76884cc3dc6a")
 	)
+	(label "USB_DP"
+		(at 290.83 72.39 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "fd731319-ee2a-4d5a-9bee-8d049a2cc438")
+	)
 	(label "VBAT_SENSE"
 		(at 13.97 46.99 0)
 		(effects
