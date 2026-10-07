@@ -6135,6 +6135,16 @@
 		)
 		(uuid "6843c5b1-13d2-4ea0-8006-0690a4fef81a")
 	)
+	(label "USB_DP"
+		(at 336.55 57.15 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "6baf553d-78fd-4340-88e6-4c3a8e234f83")
+	)
 	(label "USB_DM"
 		(at 290.83 67.31 0)
 		(effects
@@ -6384,6 +6394,16 @@
 			(justify left bottom)
 		)
 		(uuid "b9afaa7a-148a-4dca-a630-ccc8801fc2dd")
+	)
+	(label "USB_DP"
+		(at 336.55 59.69 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "bd4d60e4-7989-495b-9c36-916253d72fa0")
 	)
 	(label "HP_L"
 		(at 227.33 41.91 180)
