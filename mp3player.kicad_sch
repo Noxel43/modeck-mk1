@@ -6630,6 +6630,16 @@
 		)
 		(uuid "2fbbb0a6-ad2b-4df6-843b-27fb8c98f3d9")
 	)
+	(label "TFT_BL"
+		(at 356.87 74.93 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "335c61a2-7577-47eb-9e0d-f3b6da3035f9")
+	)
 	(label "SD_D01"
 		(at 55.88 59.69 0)
 		(effects
