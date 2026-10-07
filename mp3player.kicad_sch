@@ -6924,6 +6924,16 @@
 		)
 		(uuid "cb9ce651-534f-4051-aa9a-2a846d50411b")
 	)
+	(label "+3V3"
+		(at 378.46 36.83 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "cc6c67f9-3312-40db-99c0-891f69dcdbac")
+	)
 	(label "IO0"
 		(at 13.97 31.75 0)
 		(effects
