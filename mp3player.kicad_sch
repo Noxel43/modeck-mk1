@@ -5284,6 +5284,16 @@
 		)
 		(uuid "077895c0-1a04-479d-aa2f-dd88af1e4f42")
 	)
+	(label "A8"
+		(at 290.83 82.55 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "0ac95c56-9a81-498c-b17c-ff5ac2299fee")
+	)
 	(label "VBAT_SENSE"
 		(at 138.43 124.46 0)
 		(effects
