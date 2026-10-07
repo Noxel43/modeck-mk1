@@ -7697,7 +7697,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Button_Switch_THT:SW_PUSH_6mm_H4.3mm"
+		(property "Footprint" "Button_Switch_SMD:SW_SPST_PTS810"
 			(at 60.96 110.49 0)
 			(hide yes)
 			(show_name no)
@@ -10425,7 +10425,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Connector_PinSocket_2.00mm:PinSocket_1x02_P2.00mm_Vertical"
+		(property "Footprint" "Connector_PinSocket_2.00mm:PinSocket_1x02_P2.00mm_Horizontal"
 			(at 292.1 27.94 0)
 			(hide yes)
 			(show_name no)
@@ -14258,7 +14258,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Button_Switch_SMD:SW_Push_1P1T_NO_Vertical_Wuerth_434133025816"
+		(property "Footprint" "Button_Switch_SMD:SW_SPST_PTS810"
 			(at 60.96 100.33 0)
 			(hide yes)
 			(show_name no)
