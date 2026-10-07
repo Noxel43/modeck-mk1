@@ -6594,6 +6594,16 @@
 		)
 		(uuid "736cba88-849f-4906-9756-1d3c1e59a4d5")
 	)
+	(label "SD_CMD"
+		(at 378.46 34.29 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "779d3312-b40a-41bf-b1c4-1b1f9df602e7")
+	)
 	(label "VREF"
 		(at 189.23 86.36 0)
 		(effects
