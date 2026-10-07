@@ -6631,7 +6631,7 @@
 		(uuid "2fbbb0a6-ad2b-4df6-843b-27fb8c98f3d9")
 	)
 	(label "TFT_BL"
-		(at 365.76 77.47 180)
+		(at 256.54 128.27 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6651,7 +6651,7 @@
 		(uuid "352a498f-fd59-4537-b000-a20b184519ed")
 	)
 	(label "TFT_CS"
-		(at 365.76 64.77 180)
+		(at 256.54 115.57 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6681,7 +6681,7 @@
 		(uuid "37465d11-5d46-4da1-8340-93e585e2726d")
 	)
 	(label "TFT_MOSI"
-		(at 365.76 72.39 180)
+		(at 256.54 123.19 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6961,7 +6961,7 @@
 		(uuid "6843c5b1-13d2-4ea0-8006-0690a4fef81a")
 	)
 	(label "TFT_DC"
-		(at 365.76 69.85 180)
+		(at 256.54 120.65 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -7021,7 +7021,7 @@
 		(uuid "779d3312-b40a-41bf-b1c4-1b1f9df602e7")
 	)
 	(label "TFT_SCK"
-		(at 365.76 74.93 180)
+		(at 256.54 125.73 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -7461,7 +7461,7 @@
 		(uuid "df3ef0ec-5858-425c-9b1e-f832e28f9af6")
 	)
 	(label "TFT_RST"
-		(at 365.76 67.31 180)
+		(at 256.54 118.11 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8529,7 +8529,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 365.76 80.01 0)
+		(at 256.54 130.81 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -8540,7 +8540,7 @@
 		(fields_autoplaced yes)
 		(uuid "0e44cb6b-c748-4b00-ad50-d53f79c6d46c")
 		(property "Reference" "#PWR074"
-			(at 365.76 86.36 0)
+			(at 256.54 137.16 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8551,7 +8551,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 365.76 85.09 0)
+			(at 256.54 135.89 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -8561,7 +8561,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 365.76 80.01 0)
+			(at 256.54 130.81 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8572,7 +8572,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 365.76 80.01 0)
+			(at 256.54 130.81 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8583,7 +8583,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 365.76 80.01 0)
+			(at 256.54 130.81 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9335,7 +9335,7 @@
 	)
 	(symbol
 		(lib_id "power:VCC")
-		(at 365.76 62.23 0)
+		(at 256.54 113.03 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -9346,7 +9346,7 @@
 		(fields_autoplaced yes)
 		(uuid "17c250fb-e711-436d-8b62-e939aad86fb0")
 		(property "Reference" "#PWR073"
-			(at 365.76 66.04 0)
+			(at 256.54 116.84 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9357,7 +9357,7 @@
 			)
 		)
 		(property "Value" "+3V3"
-			(at 365.76 57.15 0)
+			(at 256.54 107.95 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -9367,7 +9367,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 365.76 62.23 0)
+			(at 256.54 113.03 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9378,7 +9378,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 365.76 62.23 0)
+			(at 256.54 113.03 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9389,7 +9389,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"VCC\""
-			(at 365.76 62.23 0)
+			(at 256.54 113.03 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -14395,7 +14395,7 @@
 	)
 	(symbol
 		(lib_id "Connector_Generic:Conn_01x08")
-		(at 370.84 69.85 0)
+		(at 261.62 120.65 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -14406,7 +14406,7 @@
 		(fields_autoplaced yes)
 		(uuid "798254c9-4d70-4314-a09e-0706a4868a2d")
 		(property "Reference" "J5"
-			(at 373.38 69.8499 0)
+			(at 264.16 120.6499 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -14417,7 +14417,7 @@
 			)
 		)
 		(property "Value" "TFT SPI"
-			(at 373.38 72.3899 0)
+			(at 264.16 123.1899 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -14428,7 +14428,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 370.84 69.85 0)
+			(at 261.62 120.65 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -14439,7 +14439,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 370.84 69.85 0)
+			(at 261.62 120.65 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -14450,7 +14450,7 @@
 			)
 		)
 		(property "Description" "Generic connector, single row, 01x08, script generated (kicad-library-utils/schlib/autogen/connector/)"
-			(at 370.84 69.85 0)
+			(at 261.62 120.65 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
