@@ -7383,7 +7383,7 @@
 		(dnp no)
 		(uuid "0fc314c9-b8e6-41e7-92a4-60a7c66ea86f")
 		(property "Reference" "U5"
-			(at 337.566 48.26 0)
+			(at 336.296 50.038 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -7394,7 +7394,7 @@
 			)
 		)
 		(property "Value" "USBLC6-2SC6"
-			(at 337.566 50.8 0)
+			(at 336.296 52.578 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
