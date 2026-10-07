@@ -7665,7 +7665,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
 			(at 60.96 110.49 0)
 			(hide yes)
 			(show_name no)
@@ -7898,7 +7898,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
 			(at 181.61 133.35 0)
 			(hide yes)
 			(show_name no)
@@ -8443,7 +8443,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
 			(at 43.18 142.24 0)
 			(hide yes)
 			(show_name no)
@@ -9484,7 +9484,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Connector_USB:USB_C_Receptacle_Amphenol_124019772112A"
 			(at 270.51 80.01 0)
 			(hide yes)
 			(show_name no)
@@ -9844,7 +9844,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
 			(at 43.18 162.56 0)
 			(hide yes)
 			(show_name no)
@@ -10314,7 +10314,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Connector_PinSocket_2.00mm:PinSocket_1x02_P2.00mm_Vertical"
 			(at 292.1 27.94 0)
 			(hide yes)
 			(show_name no)
@@ -10635,7 +10635,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Connector_Card:microSD_HC_Wuerth_693072010801"
 			(at 162.56 184.15 0)
 			(hide yes)
 			(show_name no)
@@ -10736,7 +10736,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
 			(at 43.18 152.4 0)
 			(hide yes)
 			(show_name no)
@@ -12801,7 +12801,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Potentiometer_SMD:Potentiometer_ACP_CA6-VSMD_Vertical"
 			(at 29.21 219.71 0)
 			(hide yes)
 			(show_name no)
@@ -13593,7 +13593,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
 			(at 43.18 203.2 0)
 			(hide yes)
 			(show_name no)
@@ -13750,7 +13750,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
 			(at 43.18 172.72 0)
 			(hide yes)
 			(show_name no)
@@ -14147,7 +14147,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Button_Switch_SMD:SW_Push_1P1T_NO_Vertical_Wuerth_434133025816"
 			(at 60.96 100.33 0)
 			(hide yes)
 			(show_name no)
@@ -14545,7 +14545,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Connector_PinSocket_2.00mm:PinSocket_1x08_P2.00mm_Vertical"
 			(at 232.41 139.7 0)
 			(hide yes)
 			(show_name no)
@@ -16451,7 +16451,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Connector_Audio:Jack_3.5mm_CUI_SJ-3523-SMT_Horizontal"
 			(at 203.2 53.34 0)
 			(hide yes)
 			(show_name no)
@@ -17651,7 +17651,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
 			(at 43.18 182.88 0)
 			(hide yes)
 			(show_name no)
@@ -17973,7 +17973,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
 			(at 43.18 193.04 0)
 			(hide yes)
 			(show_name no)
