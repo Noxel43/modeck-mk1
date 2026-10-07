@@ -3286,6 +3286,16 @@
 		)
 		(uuid "0c183439-b7ce-42d5-a7ec-5cb49aaf439a")
 	)
+	(polyline
+		(pts
+			(xy 130.048 138.43) (xy 167.386 138.43)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "1569e02d-a2b6-4be7-a09c-b42bbf01b24c")
+	)
 	(wire
 		(pts
 			(xy 13.97 72.39) (xy 25.4 72.39)
@@ -3315,6 +3325,16 @@
 			(type default)
 		)
 		(uuid "39a9223e-9b62-4b52-b54f-67a1a2f32e36")
+	)
+	(polyline
+		(pts
+			(xy 167.386 108.966) (xy 167.386 138.43)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "41f52881-38d9-49a1-a95d-f6cda39ac9ff")
 	)
 	(wire
 		(pts
@@ -6819,7 +6839,7 @@
 	)
 	(symbol
 		(lib_id "power:VDD")
-		(at 195.58 119.38 0)
+		(at 194.31 116.84 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -6829,7 +6849,7 @@
 		(dnp no)
 		(uuid "479a4c94-6535-4c79-8c8e-f5fa7f8b7514")
 		(property "Reference" "#PWR040"
-			(at 195.58 123.19 0)
+			(at 194.31 120.65 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6840,7 +6860,7 @@
 			)
 		)
 		(property "Value" "VSW"
-			(at 195.58 115.316 0)
+			(at 194.31 112.776 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -6850,7 +6870,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 195.58 119.38 0)
+			(at 194.31 116.84 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6861,7 +6881,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 195.58 119.38 0)
+			(at 194.31 116.84 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6872,7 +6892,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"VDD\""
-			(at 195.58 119.38 0)
+			(at 194.31 116.84 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7219,7 +7239,7 @@
 	)
 	(symbol
 		(lib_id "power:PWR_FLAG")
-		(at 184.15 119.38 180)
+		(at 182.88 116.84 180)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -7229,7 +7249,7 @@
 		(dnp no)
 		(uuid "5403cf40-3b68-4cbb-af0c-d585c5e1e715")
 		(property "Reference" "#FLG04"
-			(at 184.15 121.285 0)
+			(at 182.88 118.745 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7240,7 +7260,7 @@
 			)
 		)
 		(property "Value" "PWR_FLAG"
-			(at 184.15 123.19 0)
+			(at 182.88 120.65 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -7250,7 +7270,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 184.15 119.38 0)
+			(at 182.88 116.84 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7261,7 +7281,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 184.15 119.38 0)
+			(at 182.88 116.84 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7272,7 +7292,7 @@
 			)
 		)
 		(property "Description" "Special symbol for telling ERC where power comes from"
-			(at 184.15 119.38 0)
+			(at 182.88 116.84 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9908,7 +9928,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 173.99 119.38 0)
+		(at 172.72 116.84 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -9918,7 +9938,7 @@
 		(dnp no)
 		(uuid "ac442989-d552-492e-a9ca-c67794f991d7")
 		(property "Reference" "#PWR038"
-			(at 173.99 125.73 0)
+			(at 172.72 123.19 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9929,7 +9949,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 173.99 123.19 0)
+			(at 172.72 120.65 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -9939,7 +9959,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 173.99 119.38 0)
+			(at 172.72 116.84 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9950,7 +9970,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 173.99 119.38 0)
+			(at 172.72 116.84 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9961,7 +9981,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 173.99 119.38 0)
+			(at 172.72 116.84 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10622,7 +10642,7 @@
 	)
 	(symbol
 		(lib_id "power:PWR_FLAG")
-		(at 195.58 119.38 180)
+		(at 194.31 116.84 180)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -10632,7 +10652,7 @@
 		(dnp no)
 		(uuid "c8b2a19d-c20e-49ee-b576-d8d3a45e49a3")
 		(property "Reference" "#FLG05"
-			(at 195.58 121.285 0)
+			(at 194.31 118.745 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10643,7 +10663,7 @@
 			)
 		)
 		(property "Value" "PWR_FLAG"
-			(at 195.58 123.19 0)
+			(at 194.31 120.65 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -10653,7 +10673,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 195.58 119.38 0)
+			(at 194.31 116.84 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10664,7 +10684,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 195.58 119.38 0)
+			(at 194.31 116.84 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10675,7 +10695,7 @@
 			)
 		)
 		(property "Description" "Special symbol for telling ERC where power comes from"
-			(at 195.58 119.38 0)
+			(at 194.31 116.84 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11475,7 +11495,7 @@
 	)
 	(symbol
 		(lib_id "power:PWR_FLAG")
-		(at 173.99 119.38 0)
+		(at 172.72 116.84 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -11485,7 +11505,7 @@
 		(dnp no)
 		(uuid "e0a62af9-a792-4f1d-b8e1-bcda4f3d5fa6")
 		(property "Reference" "#FLG03"
-			(at 173.99 117.475 0)
+			(at 172.72 114.935 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11496,7 +11516,7 @@
 			)
 		)
 		(property "Value" "PWR_FLAG"
-			(at 173.99 115.316 0)
+			(at 172.72 112.776 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -11506,7 +11526,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 173.99 119.38 0)
+			(at 172.72 116.84 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11517,7 +11537,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 173.99 119.38 0)
+			(at 172.72 116.84 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11528,7 +11548,7 @@
 			)
 		)
 		(property "Description" "Special symbol for telling ERC where power comes from"
-			(at 173.99 119.38 0)
+			(at 172.72 116.84 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11709,7 +11729,7 @@
 	)
 	(symbol
 		(lib_id "power:VDD")
-		(at 184.15 119.38 0)
+		(at 182.88 116.84 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -11719,7 +11739,7 @@
 		(dnp no)
 		(uuid "e572d910-aef9-4a28-a73e-0d2e4da158dd")
 		(property "Reference" "#PWR039"
-			(at 184.15 123.19 0)
+			(at 182.88 120.65 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11730,7 +11750,7 @@
 			)
 		)
 		(property "Value" "VBAT"
-			(at 184.15 115.316 0)
+			(at 182.88 112.776 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -11740,7 +11760,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 184.15 119.38 0)
+			(at 182.88 116.84 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11751,7 +11771,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 184.15 119.38 0)
+			(at 182.88 116.84 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11762,7 +11782,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"VDD\""
-			(at 184.15 119.38 0)
+			(at 182.88 116.84 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
