@@ -9405,7 +9405,7 @@
 	)
 	(symbol
 		(lib_id "Connector:Micro_SD_Card")
-		(at 384.81 36.83 0)
+		(at 401.32 36.83 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -9416,7 +9416,7 @@
 		(fields_autoplaced yes)
 		(uuid "2fd0c34e-e09a-4378-b012-baff82e5cce3")
 		(property "Reference" "J4"
-			(at 385.445 17.78 0)
+			(at 401.955 17.78 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -9426,7 +9426,7 @@
 			)
 		)
 		(property "Value" "Micro_SD_Card"
-			(at 385.445 20.32 0)
+			(at 401.955 20.32 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -9436,7 +9436,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 414.02 29.21 0)
+			(at 430.53 29.21 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9447,7 +9447,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.we-online.com/components/products/datasheet/693072010801.pdf"
-			(at 384.81 36.83 0)
+			(at 401.32 36.83 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9458,7 +9458,7 @@
 			)
 		)
 		(property "Description" "Micro SD Card Socket"
-			(at 384.81 36.83 0)
+			(at 401.32 36.83 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
