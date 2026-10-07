@@ -10,7 +10,7 @@
 		(company "noxel")
 		(comment 1 "The customisable open source DIY MP3 Player")
 		(comment 3 "MODECK MK1")
-		(comment 4 " ")
+		(comment 4 ".")
 	)
 	(lib_symbols
 		(symbol "Audio:ES8388"
