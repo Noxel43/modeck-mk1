@@ -6789,6 +6789,16 @@
 		)
 		(uuid "45e40fa9-07e8-4f62-8dc9-a1da6658977d")
 	)
+	(label "ROUT1"
+		(at 147.32 52.07 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "497c5e72-5df4-4421-990a-c9879762432b")
+	)
 	(label "12S_MCLK"
 		(at 21.59 78.74 0)
 		(effects
@@ -7248,6 +7258,16 @@
 			(justify left bottom)
 		)
 		(uuid "a739ea1c-1188-46ca-8f54-46beec3b2a5d")
+	)
+	(label "LOUT1"
+		(at 147.32 49.53 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "a9c594cb-e34c-4ce3-a5f0-d33cc83ce34c")
 	)
 	(label "CODEC_MCLK"
 		(at 114.3 36.83 180)
