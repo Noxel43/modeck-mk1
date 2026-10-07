@@ -7898,7 +7898,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "10μF"
+		(property "Value" "4.7μF"
 			(at 350.52 26.6699 0)
 			(show_name no)
 			(do_not_autoplace no)
