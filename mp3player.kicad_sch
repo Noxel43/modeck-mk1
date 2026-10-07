@@ -6514,6 +6514,16 @@
 		)
 		(uuid "5fd529ed-1b71-4d2a-989a-dab921c1df49")
 	)
+	(label "SD_D3"
+		(at 378.46 31.75 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "61680dd6-b2db-4c8c-b042-9257fbb8a519")
+	)
 	(label "ADCVREF"
 		(at 143.51 55.88 180)
 		(effects
