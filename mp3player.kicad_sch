@@ -8885,7 +8885,7 @@
 			)
 		)
 		(property "Value" "2k"
-			(at 304.8 34.2899 0)
+			(at 303.784 34.29 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -9209,7 +9209,7 @@
 			)
 		)
 		(property "Value" "R"
-			(at 307.34 57.1499 0)
+			(at 306.07 57.15 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -10160,7 +10160,7 @@
 			)
 		)
 		(property "Value" "R"
-			(at 316.23 57.1499 0)
+			(at 314.96 57.15 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -11681,7 +11681,7 @@
 			)
 		)
 		(property "Value" "1k"
-			(at 294.64 34.2899 0)
+			(at 293.624 34.29 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
