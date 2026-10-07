@@ -10423,7 +10423,7 @@
 			)
 		)
 		(property "Value" "3V3"
-			(at 205.74 128.016 90)
+			(at 203.962 127 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
