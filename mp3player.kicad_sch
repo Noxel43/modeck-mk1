@@ -7569,7 +7569,7 @@
 		)
 		(uuid "f67d43f1-f0a4-4794-8d50-9dd2045e3ae3")
 	)
-	(label "SD_D03"
+	(label "SD_D3"
 		(at 63.5 53.34 0)
 		(effects
 			(font
