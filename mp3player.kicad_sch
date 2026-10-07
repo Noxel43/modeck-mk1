@@ -9198,7 +9198,7 @@
 		(dnp no)
 		(uuid "3cf89d4e-0094-47b8-838b-f49219553c4f")
 		(property "Reference" "R18"
-			(at 305.054 57.404 90)
+			(at 304.8 57.658 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -10147,10 +10147,9 @@
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "5bb210a5-6a76-463f-a9c6-c1e63af92a7d")
 		(property "Reference" "R19"
-			(at 316.23 54.6099 0)
+			(at 313.944 57.658 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
