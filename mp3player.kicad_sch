@@ -4219,7 +4219,7 @@
 		(uuid "21c90a70-d2d4-43bc-a6a5-915d10bd2571")
 	)
 	(label "VBAT"
-		(at 276.86 21.59 180)
+		(at 297.18 35.56 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6482,7 +6482,7 @@
 	)
 	(symbol
 		(lib_id "Connector_Generic:Conn_01x02")
-		(at 281.94 21.59 0)
+		(at 302.26 35.56 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -6493,7 +6493,7 @@
 		(fields_autoplaced yes)
 		(uuid "2b586632-ccd9-49fc-85c9-dced78d873a8")
 		(property "Reference" "J2"
-			(at 284.48 21.5899 0)
+			(at 304.8 35.5599 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -6504,7 +6504,7 @@
 			)
 		)
 		(property "Value" "Battery"
-			(at 284.48 24.1299 0)
+			(at 304.8 38.0999 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -6515,7 +6515,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 281.94 21.59 0)
+			(at 302.26 35.56 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6526,7 +6526,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 281.94 21.59 0)
+			(at 302.26 35.56 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6537,7 +6537,7 @@
 			)
 		)
 		(property "Description" "Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"
-			(at 281.94 21.59 0)
+			(at 302.26 35.56 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9827,7 +9827,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 276.86 24.13 270)
+		(at 297.18 38.1 270)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -9837,7 +9837,7 @@
 		(dnp no)
 		(uuid "84bbaa7b-3b13-46c1-bb12-7bf650fe8b97")
 		(property "Reference" "#PWR047"
-			(at 270.51 24.13 0)
+			(at 290.83 38.1 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9848,7 +9848,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 274.32 24.13 90)
+			(at 294.64 38.1 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -9859,7 +9859,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 276.86 24.13 0)
+			(at 297.18 38.1 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9870,7 +9870,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 276.86 24.13 0)
+			(at 297.18 38.1 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9881,7 +9881,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 276.86 24.13 0)
+			(at 297.18 38.1 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
