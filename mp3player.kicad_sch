@@ -3691,7 +3691,7 @@
 	)
 	(text "other random shit i cant be bothered to find a spot for\n\n"
 		(exclude_from_sim no)
-		(at 176.784 107.95 0)
+		(at 179.324 107.95 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4219,7 +4219,7 @@
 		(uuid "21c90a70-d2d4-43bc-a6a5-915d10bd2571")
 	)
 	(label "VBAT"
-		(at 226.06 113.03 180)
+		(at 228.6 111.76 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6482,7 +6482,7 @@
 	)
 	(symbol
 		(lib_id "Connector_Generic:Conn_01x02")
-		(at 231.14 113.03 0)
+		(at 233.68 111.76 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -6493,7 +6493,7 @@
 		(fields_autoplaced yes)
 		(uuid "2b586632-ccd9-49fc-85c9-dced78d873a8")
 		(property "Reference" "J2"
-			(at 233.68 113.0299 0)
+			(at 236.22 111.7599 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -6504,7 +6504,7 @@
 			)
 		)
 		(property "Value" "Battery"
-			(at 233.68 115.5699 0)
+			(at 236.22 114.2999 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -6515,7 +6515,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 231.14 113.03 0)
+			(at 233.68 111.76 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6526,7 +6526,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 231.14 113.03 0)
+			(at 233.68 111.76 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6537,7 +6537,7 @@
 			)
 		)
 		(property "Description" "Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"
-			(at 231.14 113.03 0)
+			(at 233.68 111.76 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9827,7 +9827,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 226.06 115.57 270)
+		(at 228.6 114.3 270)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -9837,7 +9837,7 @@
 		(dnp no)
 		(uuid "84bbaa7b-3b13-46c1-bb12-7bf650fe8b97")
 		(property "Reference" "#PWR047"
-			(at 219.71 115.57 0)
+			(at 222.25 114.3 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9848,7 +9848,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 223.52 115.57 90)
+			(at 226.06 114.3 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -9859,7 +9859,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 226.06 115.57 0)
+			(at 228.6 114.3 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9870,7 +9870,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 226.06 115.57 0)
+			(at 228.6 114.3 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9881,7 +9881,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 226.06 115.57 0)
+			(at 228.6 114.3 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
