@@ -6086,7 +6086,7 @@
 		(uuid "5ad92ac2-c368-441a-82b6-e2e8def4aa37")
 	)
 	(label "USB_DP"
-		(at 326.39 57.15 180)
+		(at 330.2 57.15 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6146,7 +6146,7 @@
 		(uuid "6843c5b1-13d2-4ea0-8006-0690a4fef81a")
 	)
 	(label "USB_DP"
-		(at 336.55 57.15 0)
+		(at 340.36 57.15 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6216,7 +6216,7 @@
 		(uuid "7bc3d412-e719-4483-8bb2-997608d965a1")
 	)
 	(label "VBUS"
-		(at 331.47 52.07 180)
+		(at 335.28 52.07 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -7353,7 +7353,7 @@
 	)
 	(symbol
 		(lib_id "Power_Protection:USBLC6-2SC6")
-		(at 331.47 57.15 0)
+		(at 335.28 57.15 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -7363,7 +7363,7 @@
 		(dnp no)
 		(uuid "0fc314c9-b8e6-41e7-92a4-60a7c66ea86f")
 		(property "Reference" "U5"
-			(at 333.756 48.26 0)
+			(at 337.566 48.26 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -7374,7 +7374,7 @@
 			)
 		)
 		(property "Value" "USBLC6-2SC6"
-			(at 333.756 50.8 0)
+			(at 337.566 50.8 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -7385,7 +7385,7 @@
 			)
 		)
 		(property "Footprint" "Package_TO_SOT_SMD:SOT-23-6"
-			(at 332.74 63.5 0)
+			(at 336.55 63.5 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7398,7 +7398,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.st.com/resource/en/datasheet/usblc6-2.pdf"
-			(at 332.74 65.405 0)
+			(at 336.55 65.405 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7410,7 +7410,7 @@
 			)
 		)
 		(property "Description" "Very low capacitance ESD protection diode, 2 data-line, SOT-23-6"
-			(at 331.47 57.15 0)
+			(at 335.28 57.15 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -17303,7 +17303,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 331.47 64.77 0)
+		(at 335.28 64.77 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -17314,7 +17314,7 @@
 		(fields_autoplaced yes)
 		(uuid "ef502c7c-93ba-47e3-8221-c10a039b88e0")
 		(property "Reference" "#PWR060"
-			(at 331.47 71.12 0)
+			(at 335.28 71.12 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -17325,7 +17325,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 331.47 69.85 0)
+			(at 335.28 69.85 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -17335,7 +17335,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 331.47 64.77 0)
+			(at 335.28 64.77 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -17346,7 +17346,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 331.47 64.77 0)
+			(at 335.28 64.77 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -17357,7 +17357,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 331.47 64.77 0)
+			(at 335.28 64.77 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
