@@ -5524,6 +5524,18 @@
 		(uuid "6eda45c8-1a8f-433b-92b6-ea3900876019")
 	)
 	(rectangle
+		(start 220.98 108.966)
+		(end 246.888 128.778)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(fill
+			(type none)
+		)
+		(uuid "6fcc04cf-bdbb-4d9c-b906-f6c23191e559")
+	)
+	(rectangle
 		(start 131.318 83.312)
 		(end 222.25 101.092)
 		(stroke
