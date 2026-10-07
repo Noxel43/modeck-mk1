@@ -3385,7 +3385,7 @@
 		(uuid "000f7862-1934-43c1-9a91-6286f9eea312")
 	)
 	(junction
-		(at 173.99 133.35)
+		(at 168.91 133.35)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "0de34171-5207-4d97-8b2a-317d2b09bb1e")
@@ -3588,7 +3588,7 @@
 	)
 	(wire
 		(pts
-			(xy 173.99 130.81) (xy 173.99 133.35)
+			(xy 168.91 130.81) (xy 168.91 133.35)
 		)
 		(stroke
 			(width 0)
@@ -5335,7 +5335,7 @@
 	)
 	(symbol
 		(lib_id "power:VCC")
-		(at 189.23 130.81 180)
+		(at 184.15 130.81 180)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -5345,7 +5345,7 @@
 		(dnp no)
 		(uuid "14ba02ad-a89a-4c61-a5d5-8af1b662f192")
 		(property "Reference" "#PWR041"
-			(at 189.23 127 0)
+			(at 184.15 127 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5356,7 +5356,7 @@
 			)
 		)
 		(property "Value" "3V3"
-			(at 189.23 133.604 90)
+			(at 184.15 133.604 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -5367,7 +5367,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 189.23 130.81 0)
+			(at 184.15 130.81 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5378,7 +5378,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 189.23 130.81 0)
+			(at 184.15 130.81 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5389,7 +5389,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"VCC\""
-			(at 189.23 130.81 0)
+			(at 184.15 130.81 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6755,7 +6755,7 @@
 	)
 	(symbol
 		(lib_id "Regulator_Linear:AP2112K-3.3")
-		(at 181.61 133.35 0)
+		(at 176.53 133.35 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -6766,7 +6766,7 @@
 		(fields_autoplaced yes)
 		(uuid "39d160b3-81d4-4b69-9c68-e57d6465a257")
 		(property "Reference" "U3"
-			(at 181.61 124.46 0)
+			(at 176.53 124.46 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -6776,7 +6776,7 @@
 			)
 		)
 		(property "Value" "AP2112K-3.3"
-			(at 181.61 127 0)
+			(at 176.53 127 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -6786,7 +6786,7 @@
 			)
 		)
 		(property "Footprint" "Package_TO_SOT_SMD:SOT-23-5"
-			(at 181.61 125.095 0)
+			(at 176.53 125.095 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6797,7 +6797,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.diodes.com/assets/Datasheets/AP2112.pdf"
-			(at 181.61 130.81 0)
+			(at 176.53 130.81 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6808,7 +6808,7 @@
 			)
 		)
 		(property "Description" "600mA low dropout linear regulator, with enable pin, 3.8V-6V input voltage range, 3.3V fixed positive output, SOT-23-5"
-			(at 181.61 133.35 0)
+			(at 176.53 133.35 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11039,7 +11039,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 181.61 140.97 90)
+		(at 176.53 140.97 90)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -11050,7 +11050,7 @@
 		(fields_autoplaced yes)
 		(uuid "c4803a1b-a203-4e7e-8ac6-b8af9e5ec34a")
 		(property "Reference" "#PWR043"
-			(at 187.96 140.97 0)
+			(at 182.88 140.97 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11061,7 +11061,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 185.42 140.9699 90)
+			(at 180.34 140.9699 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -11072,7 +11072,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 181.61 140.97 0)
+			(at 176.53 140.97 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11083,7 +11083,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 181.61 140.97 0)
+			(at 176.53 140.97 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11094,7 +11094,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 181.61 140.97 0)
+			(at 176.53 140.97 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12841,7 +12841,7 @@
 	)
 	(symbol
 		(lib_id "power:VDD")
-		(at 173.99 133.35 180)
+		(at 168.91 133.35 180)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -12851,7 +12851,7 @@
 		(dnp no)
 		(uuid "f2dbc78f-1cac-4795-97fc-e61c5a5daefb")
 		(property "Reference" "#PWR042"
-			(at 173.99 129.54 0)
+			(at 168.91 129.54 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12862,7 +12862,7 @@
 			)
 		)
 		(property "Value" "VSW"
-			(at 173.99 137.668 90)
+			(at 168.91 137.668 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -12872,7 +12872,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 173.99 133.35 0)
+			(at 168.91 133.35 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12883,7 +12883,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 173.99 133.35 0)
+			(at 168.91 133.35 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12894,7 +12894,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"VDD\""
-			(at 173.99 133.35 0)
+			(at 168.91 133.35 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
