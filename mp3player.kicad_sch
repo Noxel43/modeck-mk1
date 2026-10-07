@@ -13585,7 +13585,7 @@
 			)
 		)
 		(property "Value" "10k"
-			(at 361.95 63.4999 0)
+			(at 361.95 63.754 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
