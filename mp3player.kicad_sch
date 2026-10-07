@@ -5010,7 +5010,7 @@
 		)
 		(uuid "d98ad604-02ff-4a41-8cf0-3d7a68b4d333")
 	)
-	(label "CHG_STAT]"
+	(label "CHG_STAT"
 		(at 275.59 33.02 180)
 		(effects
 			(font
