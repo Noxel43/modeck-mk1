@@ -4411,7 +4411,7 @@
 		(uuid "21c90a70-d2d4-43bc-a6a5-915d10bd2571")
 	)
 	(label "VBAT"
-		(at 297.18 35.56 180)
+		(at 323.85 71.12 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6674,7 +6674,7 @@
 	)
 	(symbol
 		(lib_id "Connector_Generic:Conn_01x02")
-		(at 302.26 35.56 0)
+		(at 328.93 71.12 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -6685,7 +6685,7 @@
 		(fields_autoplaced yes)
 		(uuid "2b586632-ccd9-49fc-85c9-dced78d873a8")
 		(property "Reference" "J2"
-			(at 304.8 35.5599 0)
+			(at 331.47 71.1199 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -6696,7 +6696,7 @@
 			)
 		)
 		(property "Value" "Battery"
-			(at 304.8 38.0999 0)
+			(at 331.47 73.6599 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -6707,7 +6707,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 302.26 35.56 0)
+			(at 328.93 71.12 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6718,7 +6718,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 302.26 35.56 0)
+			(at 328.93 71.12 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6729,7 +6729,7 @@
 			)
 		)
 		(property "Description" "Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"
-			(at 302.26 35.56 0)
+			(at 328.93 71.12 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10019,7 +10019,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 297.18 38.1 270)
+		(at 323.85 73.66 270)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -10029,7 +10029,7 @@
 		(dnp no)
 		(uuid "84bbaa7b-3b13-46c1-bb12-7bf650fe8b97")
 		(property "Reference" "#PWR047"
-			(at 290.83 38.1 0)
+			(at 317.5 73.66 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10040,7 +10040,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 294.64 38.1 90)
+			(at 321.31 73.66 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -10051,7 +10051,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 297.18 38.1 0)
+			(at 323.85 73.66 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10062,7 +10062,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 297.18 38.1 0)
+			(at 323.85 73.66 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10073,7 +10073,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 297.18 38.1 0)
+			(at 323.85 73.66 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -14425,7 +14425,7 @@
 	)
 	(symbol
 		(lib_id "Battery_Management:MCP73831-2-OT")
-		(at 274.32 26.67 0)
+		(at 285.75 30.48 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -14436,7 +14436,7 @@
 		(fields_autoplaced yes)
 		(uuid "f6e0bb81-1c90-4c2f-88fb-e518e8907d73")
 		(property "Reference" "U4"
-			(at 276.4633 16.51 0)
+			(at 287.8933 20.32 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -14447,7 +14447,7 @@
 			)
 		)
 		(property "Value" "MCP73831-2-OT"
-			(at 276.4633 19.05 0)
+			(at 287.8933 22.86 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -14458,7 +14458,7 @@
 			)
 		)
 		(property "Footprint" "Package_TO_SOT_SMD:SOT-23-5"
-			(at 275.59 33.02 0)
+			(at 287.02 36.83 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -14471,7 +14471,7 @@
 			)
 		)
 		(property "Datasheet" "http://ww1.microchip.com/downloads/en/DeviceDoc/20001984g.pdf"
-			(at 274.32 44.958 0)
+			(at 285.75 48.768 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -14482,7 +14482,7 @@
 			)
 		)
 		(property "Description" "Single cell, Li-Ion/Li-Po charge management controller, 4.20V, Tri-State Status Output, in SOT23-5 package"
-			(at 274.32 26.67 0)
+			(at 285.75 30.48 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
