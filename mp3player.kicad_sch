@@ -6819,7 +6819,7 @@
 	)
 	(symbol
 		(lib_id "power:VDD")
-		(at 198.12 118.11 0)
+		(at 194.31 118.11 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -6829,7 +6829,7 @@
 		(dnp no)
 		(uuid "479a4c94-6535-4c79-8c8e-f5fa7f8b7514")
 		(property "Reference" "#PWR040"
-			(at 198.12 121.92 0)
+			(at 194.31 121.92 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6840,7 +6840,7 @@
 			)
 		)
 		(property "Value" "VSW"
-			(at 198.12 114.046 0)
+			(at 194.31 114.046 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -6850,7 +6850,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 198.12 118.11 0)
+			(at 194.31 118.11 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6861,7 +6861,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 198.12 118.11 0)
+			(at 194.31 118.11 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6872,7 +6872,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"VDD\""
-			(at 198.12 118.11 0)
+			(at 194.31 118.11 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7219,7 +7219,7 @@
 	)
 	(symbol
 		(lib_id "power:PWR_FLAG")
-		(at 185.42 118.11 180)
+		(at 182.88 118.11 180)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -7229,7 +7229,7 @@
 		(dnp no)
 		(uuid "5403cf40-3b68-4cbb-af0c-d585c5e1e715")
 		(property "Reference" "#FLG04"
-			(at 185.42 120.015 0)
+			(at 182.88 120.015 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7240,7 +7240,7 @@
 			)
 		)
 		(property "Value" "PWR_FLAG"
-			(at 185.42 121.92 0)
+			(at 182.88 121.92 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -7250,7 +7250,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 185.42 118.11 0)
+			(at 182.88 118.11 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7261,7 +7261,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 185.42 118.11 0)
+			(at 182.88 118.11 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7272,7 +7272,7 @@
 			)
 		)
 		(property "Description" "Special symbol for telling ERC where power comes from"
-			(at 185.42 118.11 0)
+			(at 182.88 118.11 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10622,7 +10622,7 @@
 	)
 	(symbol
 		(lib_id "power:PWR_FLAG")
-		(at 198.12 118.11 180)
+		(at 194.31 118.11 180)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -10632,7 +10632,7 @@
 		(dnp no)
 		(uuid "c8b2a19d-c20e-49ee-b576-d8d3a45e49a3")
 		(property "Reference" "#FLG05"
-			(at 198.12 120.015 0)
+			(at 194.31 120.015 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10643,7 +10643,7 @@
 			)
 		)
 		(property "Value" "PWR_FLAG"
-			(at 198.12 121.92 0)
+			(at 194.31 121.92 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -10653,7 +10653,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 198.12 118.11 0)
+			(at 194.31 118.11 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10664,7 +10664,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 198.12 118.11 0)
+			(at 194.31 118.11 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10675,7 +10675,7 @@
 			)
 		)
 		(property "Description" "Special symbol for telling ERC where power comes from"
-			(at 198.12 118.11 0)
+			(at 194.31 118.11 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11709,7 +11709,7 @@
 	)
 	(symbol
 		(lib_id "power:VDD")
-		(at 185.42 118.11 0)
+		(at 182.88 118.11 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -11719,7 +11719,7 @@
 		(dnp no)
 		(uuid "e572d910-aef9-4a28-a73e-0d2e4da158dd")
 		(property "Reference" "#PWR039"
-			(at 185.42 121.92 0)
+			(at 182.88 121.92 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11730,7 +11730,7 @@
 			)
 		)
 		(property "Value" "VBAT"
-			(at 185.42 114.046 0)
+			(at 182.88 114.046 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -11740,7 +11740,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 185.42 118.11 0)
+			(at 182.88 118.11 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11751,7 +11751,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 185.42 118.11 0)
+			(at 182.88 118.11 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11762,7 +11762,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"VDD\""
-			(at 185.42 118.11 0)
+			(at 182.88 118.11 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
