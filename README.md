@@ -16,7 +16,7 @@
 - Possible WiFi/BT. For the PCB, I am using the [ESP32-S3-WROOM-1](https://www.altronics.com.au/product/z6433-esp-32s3-development-board), which has WiFi and a built in atenna. It's not currently a priority, but streaming, or at least downloading from wifi would be cool.
 
 ## Core Components:
-***Note:** This is the list of* main *components, not a full BOM, which will be added later.*
+***Note:** This is the list of* main *components, not a full BOM, which can be found [here](BOM.csv).*
 - [ESP32-S3-WROOM-1](https://www.altronics.com.au/product/z6433-esp-32s3-development-board)
   - This is the main MCU, i.e. the brains
 - [ES8388](http://lcsc.com/product-detail/C365736.html)
