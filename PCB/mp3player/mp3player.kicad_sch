@@ -14173,7 +14173,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "R"
+		(property "Value" "33"
 			(at 133.604 100.076 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -15558,7 +15558,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "R"
+		(property "Value" "33"
 			(at 105.664 100.076 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -15881,7 +15881,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "R"
+		(property "Value" "100k"
 			(at 106.68 139.6999 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -16279,7 +16279,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "R"
+		(property "Value" "33"
 			(at 119.634 100.076 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -18001,7 +18001,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "R"
+		(property "Value" "100k"
 			(at 106.68 147.3199 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -20590,7 +20590,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "R"
+		(property "Value" "33"
 			(at 147.574 100.076 0)
 			(show_name no)
 			(do_not_autoplace no)
