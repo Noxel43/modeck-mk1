@@ -11,17 +11,17 @@
 - SD card for storage - easily transfer songs
 - Stereo audio (why am I mentioning this, who wants a mono mp3 player?)
 - 2 Layer PCB. The PCB consists of only two layers, so its cheap to produce.
-- Possible WiFi/BT. For the PCB, I am using the ESP32-S3-WROOM, which has WiFi and a built in atenna. It's not currently a priority, but streaming, or at least downloading from wifi would be cool.
+- Possible WiFi/BT. For the PCB, I am using the [ESP32-S3-WROOM-1](https://www.altronics.com.au/product/z6433-esp-32s3-development-board), which has WiFi and a built in atenna. It's not currently a priority, but streaming, or at least downloading from wifi would be cool.
 
 ## Core Components:
 ***Note:** This is the list of* main *components, not a full BOM, which will be added later.*
-- ESP32-S3-WROOM
+- [ESP32-S3-WROOM-1](https://www.altronics.com.au/product/z6433-esp-32s3-development-board)
   - This is the main MCU, i.e. the brains
-- ES8388
+- [ES8388](http://lcsc.com/product-detail/C365736.html)
   - This is the audio codec, handling all of the audio output
-- Waveshare 1.9" LCD screen, SKU: 23822
+- [Waveshare 1.9" LCD screen, SKU: 23822](https://www.waveshare.com/1.9inch-lcd-module.htm)
   - Used as the screen (duh). Can be substituted for any 1.9" screen.
-- Battery
+- [Battery](https://www.youtube.com/watch?v=dQw4w9WgXcQ&list=RDdQw4w9WgXcQ&start_radio=1)
   - I'm writing this on my school laptop and I can't remember what I'm using specifically, but it's a LiPo. Watch this spot.
 
 ## Specifications:
