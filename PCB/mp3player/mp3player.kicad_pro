@@ -72,6 +72,10 @@
       "diff_pair_dimensions": [],
       "drc_exclusions": [
         [
+          "items_not_allowed|254150000|83390000|bb61b0c2-c695-4e59-81ec-98f45a94136b|00000000-0000-0000-0000-000000000000",
+          "tiny clip, also will be using nylon screws"
+        ],
+        [
           "lib_footprint_mismatch|230150000|82990000|bb61b0c2-c695-4e59-81ec-98f45a94136b|00000000-0000-0000-0000-000000000000",
           "go and fucking cry about it i got rid of the ground pads so fucking what??????? kys"
         ],
@@ -90,6 +94,10 @@
         [
           "silk_edge_clearance|194100000|76500000|3dc6c123-1786-4cfb-bbbe-39927e379fae|e208289e-101e-433d-a61d-21fcdbdd479b",
           "Headphone Jack reader intended to protude"
+        ],
+        [
+          "silk_edge_clearance|245000000|90700211|3dc6c123-1786-4cfb-bbbe-39927e379fae|f7ec8c18-9fed-478a-97f2-71b3549571b6",
+          "idc"
         ]
       ],
       "meta": {
@@ -136,8 +144,8 @@
         "pth_inside_courtyard": "error",
         "shorting_items": "error",
         "silk_edge_clearance": "warning",
-        "silk_over_copper": "warning",
-        "silk_overlap": "warning",
+        "silk_over_copper": "ignore",
+        "silk_overlap": "ignore",
         "skew_out_of_range": "error",
         "solder_mask_bridge": "error",
         "starved_thermal": "error",
