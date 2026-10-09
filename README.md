@@ -2,7 +2,7 @@
 
 *A fully open-source, DIY MP3 Player*
 
-![PCB Render](https://imgur.com/3E8Lr56)
+![PCB Render](Renders/cycle.gif)
 
 ## Core Features:
 - Loads of buttons (9) that are each mappable
