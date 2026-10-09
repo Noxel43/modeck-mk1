@@ -2,6 +2,8 @@
 
 *A fully open-source, DIY MP3 Player*
 
+![PCB Render](https://imgur.com/3E8Lr56)
+
 ## Core Features:
 - Loads of buttons (9) that are each mappable
 - ~~Lovely tactile feel~~ (I lie, currently, for prototyping, I'm just using 6mm tacts, however, I really want to incorporate keyboard switches)
