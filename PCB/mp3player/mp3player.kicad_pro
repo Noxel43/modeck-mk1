@@ -70,7 +70,28 @@
         }
       },
       "diff_pair_dimensions": [],
-      "drc_exclusions": [],
+      "drc_exclusions": [
+        [
+          "lib_footprint_mismatch|230150000|82990000|bb61b0c2-c695-4e59-81ec-98f45a94136b|00000000-0000-0000-0000-000000000000",
+          "go and fucking cry about it i got rid of the ground pads so fucking what??????? kys"
+        ],
+        [
+          "silk_edge_clearance|185000000|110000000|3dc6c123-1786-4cfb-bbbe-39927e379fae|c102ed1a-c8cd-491a-aac5-8e2c40d3f024",
+          "SD Card reader intended to protude"
+        ],
+        [
+          "silk_edge_clearance|185000000|99000000|3dc6c123-1786-4cfb-bbbe-39927e379fae|f5a598f8-96b1-4422-84c6-7cb97e03d7d9",
+          "SD Card reader intended to protude"
+        ],
+        [
+          "silk_edge_clearance|187900000|76500000|3dc6c123-1786-4cfb-bbbe-39927e379fae|e0e5d6d6-a02c-4c6f-bbf9-92afc2beaa39",
+          "Headphone Jack reader intended to protude"
+        ],
+        [
+          "silk_edge_clearance|194100000|76500000|3dc6c123-1786-4cfb-bbbe-39927e379fae|e208289e-101e-433d-a61d-21fcdbdd479b",
+          "Headphone Jack reader intended to protude"
+        ]
+      ],
       "meta": {
         "version": 2
       },
@@ -120,7 +141,7 @@
         "skew_out_of_range": "error",
         "solder_mask_bridge": "error",
         "starved_thermal": "error",
-        "text_height": "warning",
+        "text_height": "ignore",
         "text_on_edge_cuts": "error",
         "text_thickness": "warning",
         "through_hole_pad_without_hole": "error",
