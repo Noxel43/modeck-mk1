@@ -1,43 +1,44 @@
-﻿Ref,Qty,Value,Unit,Price (ea),Price (tot),Footprint/Type,MFN,Link
-C1,1,22,µF, $-   , $-   ,Capacitor_SMD:C_0805_2012Metric,CL21A226MAQNNNE,https://www.digikey.com/en/products/result?keywords=CL21A226MAQNNNE
-"C2,C4,C5,C14,C16,C21",6,100,nF, $-   , $-   ,Capacitor_SMD:C_0603_1608Metric,GRM188R71H104KA93D,https://www.digikey.com/en/products/result?keywords=GRM188R71H104KA93D
-"C3,C6,C7,C11,C12,C13",6,1,µF, $-   , $-   ,Capacitor_SMD:C_0603_1608Metric,CL10A105KB8NNNC,https://www.digikey.com/en/products/result?keywords=CL10A105KB8NNNC
-"C8,C15,C17,C18,C22",5,10,µF, $-   , $-   ,Capacitor_SMD:C_0805_2012Metric,CL21A106KAYNNNE,https://www.digikey.com/en/products/result?keywords=CL21A106KAYNNNE
-"C9,C10",2,220,µF, $-   , $-   ,Capacitor_SMD:CP_Elec_6.3x5.4,EEE-FK0J221P,https://www.digikey.com/en/products/result?keywords=EEE-FK0J221P
-"C19,C20",2,4.7,µF, $-   , $-   ,Capacitor_SMD:C_0805_2012Metric,CL21A475KAQNNNE,https://www.digikey.com/en/products/result?keywords=CL21A475KAQNNNE
-D1,1,LED,N/A, $0.19 , $0.19 ,LED_SMD:LED_0603_1608Metric,150060VS55040,https://www.digikey.com/en/products/detail/w%C3%BCrth-elektronik/150060VS55040/8557182
-J1,1,AudioJack3,N/A, $0.68 , $0.68 ,Connector_Audio:Jack_3.5mm_CUI_SJ-3523-SMT_Horizontal,STX-3000,https://www.digikey.com/en/products/result?keywords=STX-3000
-J2,1,Battery,N/A, $-   , $-   ,Connector_PinSocket_2.00mm:PinSocket_1x02_P2.00mm_Horizontal,N/A,
-J3,1,USB_C,N/A, $2.35 , $2.35 ,Connector_USB:USB_C_Receptacle_Amphenol_124019772112A,124019772112A,https://www.digikey.com/en/products/detail/amphenol-cs-commercial-products/124019772112A/13683231
-J4,1,Micro_SD_Card,N/A, $3.41 , $3.41 ,Connector_Card:microSD_HC_Wuerth_693072010801,693072010801,https://www.digikey.com/en/products/detail/w%C3%BCrth-elektronik/693072010801/3124584?s=N4IgTCBcDaIGwE4DMAGA7GFBGFAObIAugL5A
-J5,1,TFT SPI,N/A, $-   , $-   ,Connector_JST:JST_GH_SM08B-GHS-TB_1x08-1MP_P1.25mm_Horizontal,N/A,
-"R1,R2,R5,R6,R8,R9,R20,R21,R22,R23,R24",11,10,kΩ, $-   , $-   ,Resistor_SMD:R_0603_1608Metric,RC0603FR-0710KL,https://www.digikey.com/en/products/result?keywords=RC0603FR-0710KL
-R3,1,5.1,Ω, $-   , $-   ,Resistor_SMD:R_0603_1608Metric,RC0603FR-075R1L,https://www.digikey.com/en/products/result?keywords=RC0603FR-075R1L
-R4,1,4.7,Ω, $-   , $-   ,Resistor_SMD:R_0603_1608Metric,RC0603FR-074R7L,https://www.digikey.com/en/products/result?keywords=RC0603FR-074R7L
-R7,1,0,Ω, $-   , $-   ,Resistor_SMD:R_0603_1608Metric,RC0603JR-070RL,https://www.digikey.com/en/products/result?keywords=RC0603JR-070RL
-"R10,R11,R12,R13",4,33,Ω, $-   , $-   ,Resistor_SMD:R_0603_1608Metric,RC0603FR-0733RL,https://www.digikey.com/en/products/result?keywords=RC0603FR-0733RL
-"R14,R15",2,100,kΩ, $-   , $-   ,Resistor_SMD:R_0603_1608Metric,RC0603FR-07100KL,https://www.digikey.com/en/products/result?keywords=RC0603FR-07100KL
-R16,1,1,kΩ, $-   , $-   ,Resistor_SMD:R_0603_1608Metric,RC0603FR-071KL,https://www.digikey.com/en/products/result?keywords=RC0603FR-071KL
-R17,1,2,kΩ, $-   , $-   ,Resistor_SMD:R_0603_1608Metric,RC0603FR-072KL,https://www.digikey.com/en/products/result?keywords=RC0603FR-072KL
-"R18,R19",2,5.1,kΩ, $-   , $-   ,Resistor_SMD:R_0603_1608Metric,RC0603FR-075K1L,https://www.digikey.com/en/products/result?keywords=RC0603FR-075K1L
-RV1,1,Slide pot,N/A, $0.28 , $0.28 ,Potentiometer_SMD:Potentiometer_ACP_CA6-VSMD_Vertical,TC33X-2-203E,https://www.digikey.com/en/products/detail/bourns-inc/TC33X-2-203E/2566887
-SW1,1,Play,N/A, $0.10 , $0.10 ,Button_Switch_THT:SW_PUSH_6mm_H4.3mm,1825910-6,https://www.digikey.com/en/products/result?keywords=1825910-6
-SW2,1,Trk Prev,N/A, $0.10 , $0.10 ,Button_Switch_THT:SW_PUSH_6mm_H4.3mm,1825910-6,https://www.digikey.com/en/products/result?keywords=1825910-6
-SW3,1,Trk Next,N/A, $0.10 , $0.10 ,Button_Switch_THT:SW_PUSH_6mm_H4.3mm,1825910-6,https://www.digikey.com/en/products/result?keywords=1825910-6
-SW4,1,Mode Prev,N/A, $0.10 , $0.10 ,Button_Switch_THT:SW_PUSH_6mm_H4.3mm,1825910-6,https://www.digikey.com/en/products/result?keywords=1825910-6
-SW5,1,Mode Next,N/A, $0.10 , $0.10 ,Button_Switch_THT:SW_PUSH_6mm_H4.3mm,1825910-6,https://www.digikey.com/en/products/result?keywords=1825910-6
-SW6,1,Eq,N/A, $0.10 , $0.10 ,Button_Switch_THT:SW_PUSH_6mm_H4.3mm,1825910-6,https://www.digikey.com/en/products/result?keywords=1825910-6
-SW7,1,Power,N/A, $0.10 , $0.10 ,Button_Switch_THT:SW_PUSH_6mm_H4.3mm,1825910-6,https://www.digikey.com/en/products/result?keywords=1825910-6
-SW8,1,RESET,N/A, $0.58 , $0.58 ,Button_Switch_SMD:SW_SPST_PTS810,PTS810SJM250SMTR LFS,https://www.digikey.com/en/products/detail/c-k/PTS810SJM250SMTR-LFS/4176610
-SW9,1,BOOT,N/A, $0.58 , $0.58 ,Button_Switch_SMD:SW_SPST_PTS810,PTS810SJM250SMTR LFS,https://www.digikey.com/en/products/detail/c-k/PTS810SJM250SMTR-LFS/4176610
-SW10,1,Power_sw,N/A, $2.51 , $2.51 ,Button_Switch_SMD:SW_DIP_SPSTx01_Slide_6.7x4.1mm_W6.73mm_P2.54mm_LowProfile_JPin,SDA01H1SBD,https://www.digikey.com/en/products/detail/c-k/SDA01H1SBD/2263273
-SW11,1,Next,N/A, $0.10 , $0.10 ,Button_Switch_THT:SW_PUSH_6mm_H4.3mm,1825910-6,https://www.digikey.com/en/products/result?keywords=1825910-6
-SW12,1,Prev,N/A, $0.10 , $0.10 ,Button_Switch_THT:SW_PUSH_6mm_H4.3mm,1825910-6,https://www.digikey.com/en/products/result?keywords=1825910-6
-U1,1,ESP32-S3-WROOM-1,N/A, $6.10 , $6.10 ,RF_Module:ESP32-S3-WROOM-1,ESP32-S3-WROOM-1-N16,https://www.digikey.com/en/products/detail/espressif-systems/esp32-s3-wroom-1-n16/16162647
-U2,1,ES8388,N/A, $1.12 , $1.12 ,Package_DFN_QFN:QFN-28-1EP_4x4mm_P0.45mm_EP2.6x2.6mm,ES8388,https://www.lcsc.com/product-detail/C365736.html
-U3,1,AP2112K-3.3,N/A, $0.28 , $0.28 ,Package_TO_SOT_SMD:SOT-23-5,AP2112K-3.3TRG1,https://www.digikey.com/en/products/detail/diodes-incorporated/ap2112k-3-3trg1/4470746
-U4,1,MCP73831-2-OT,N/A, $0.76 , $0.76 ,Package_TO_SOT_SMD:SOT-23-5,MCP73831T-2ACI/OT,https://www.digikey.com/en/products/detail/microchip-technology/MCP73831T-2ACI-OT/964301
-U5,1,USBLC6-2SC6,N/A, $0.86 , $0.86 ,Package_TO_SOT_SMD:SOT-23-6,USBLC6-2SC6,https://www.digikey.com/en/products/detail/goodwork/usblc6-2sc6/29515591
-Capacitors + Resistors,1,Just approx,N/A,10.00, $10.00 ,,,
-Total,,,,, $30.60 ,,,
-,,,,,,,,
+﻿Ref,Qty,Value,Unit,Price (ea),Price (tot),Footprint/Type,MFN,Link,,
+C1,1,22,µF, $-   , $-   ,Capacitor_SMD:C_0805_2012Metric,CL21A226MAQNNNE,https://www.digikey.com/en/products/result?keywords=CL21A226MAQNNNE,,
+"C2,C4,C5,C14,C16,C21",6,100,nF, $-   , $-   ,Capacitor_SMD:C_0603_1608Metric,GRM188R71H104KA93D,https://www.digikey.com/en/products/result?keywords=GRM188R71H104KA93D,,
+"C3,C6,C7,C11,C12,C13",6,1,µF, $-   , $-   ,Capacitor_SMD:C_0603_1608Metric,CL10A105KB8NNNC,https://www.digikey.com/en/products/result?keywords=CL10A105KB8NNNC,,
+"C8,C15,C17,C18,C22",5,10,µF, $-   , $-   ,Capacitor_SMD:C_0805_2012Metric,CL21A106KAYNNNE,https://www.digikey.com/en/products/result?keywords=CL21A106KAYNNNE,,
+"C9,C10",2,220,µF, $-   , $-   ,Capacitor_SMD:CP_Elec_6.3x5.4,EEE-FK0J221P,https://www.digikey.com/en/products/result?keywords=EEE-FK0J221P,,
+"C19,C20",2,4.7,µF, $-   , $-   ,Capacitor_SMD:C_0805_2012Metric,CL21A475KAQNNNE,https://www.digikey.com/en/products/result?keywords=CL21A475KAQNNNE,,
+D1,1,LED,N/A,$0.19,$0.19,LED_SMD:LED_0603_1608Metric,150060VS55040,https://www.digikey.com/en/products/detail/w%C3%BCrth-elektronik/150060VS55040/8557182,,
+J1,1,AudioJack3,N/A,$0.68,$0.68,Connector_Audio:Jack_3.5mm_CUI_SJ-3523-SMT_Horizontal,STX-3000,https://www.digikey.com/en/products/result?keywords=STX-3000,,
+J2,1,Battery,N/A, $-   , $-   ,Connector_PinSocket_2.00mm:PinSocket_1x02_P2.00mm_Horizontal,N/A,,,
+J3,1,USB_C,N/A,$2.35,$2.35,Connector_USB:USB_C_Receptacle_Amphenol_124019772112A,124019772112A,https://www.digikey.com/en/products/detail/amphenol-cs-commercial-products/124019772112A/13683231,,
+J4,1,Micro_SD_Card,N/A,$3.41,$3.41,Connector_Card:microSD_HC_Wuerth_693072010801,6.93072E+11,https://www.digikey.com/en/products/detail/w%C3%BCrth-elektronik/693072010801/3124584?s=N4IgTCBcDaIGwE4DMAGA7GFBGFAObIAugL5A,,
+J5,1,TFT SPI,N/A, $-   , $-   ,Connector_JST:JST_GH_SM08B-GHS-TB_1x08-1MP_P1.25mm_Horizontal,N/A,,,
+"R1,R2,R5,R6,R8,R9,R20,R21,R22,R23,R24",11,10,kΩ, $-   , $-   ,Resistor_SMD:R_0603_1608Metric,RC0603FR-0710KL,https://www.digikey.com/en/products/result?keywords=RC0603FR-0710KL,,
+R3,1,5.1,Ω, $-   , $-   ,Resistor_SMD:R_0603_1608Metric,RC0603FR-075R1L,https://www.digikey.com/en/products/result?keywords=RC0603FR-075R1L,,
+R4,1,4.7,Ω, $-   , $-   ,Resistor_SMD:R_0603_1608Metric,RC0603FR-074R7L,https://www.digikey.com/en/products/result?keywords=RC0603FR-074R7L,,
+R7,1,0,Ω, $-   , $-   ,Resistor_SMD:R_0603_1608Metric,RC0603JR-070RL,https://www.digikey.com/en/products/result?keywords=RC0603JR-070RL,,
+"R10,R11,R12,R13",4,33,Ω, $-   , $-   ,Resistor_SMD:R_0603_1608Metric,RC0603FR-0733RL,https://www.digikey.com/en/products/result?keywords=RC0603FR-0733RL,,
+"R14,R15",2,100,kΩ, $-   , $-   ,Resistor_SMD:R_0603_1608Metric,RC0603FR-07100KL,https://www.digikey.com/en/products/result?keywords=RC0603FR-07100KL,,
+R16,1,1,kΩ, $-   , $-   ,Resistor_SMD:R_0603_1608Metric,RC0603FR-071KL,https://www.digikey.com/en/products/result?keywords=RC0603FR-071KL,,
+R17,1,2,kΩ, $-   , $-   ,Resistor_SMD:R_0603_1608Metric,RC0603FR-072KL,https://www.digikey.com/en/products/result?keywords=RC0603FR-072KL,,
+"R18,R19",2,5.1,kΩ, $-   , $-   ,Resistor_SMD:R_0603_1608Metric,RC0603FR-075K1L,https://www.digikey.com/en/products/result?keywords=RC0603FR-075K1L,,
+RV1,1,Slide pot,N/A,$0.28,$0.28,Potentiometer_SMD:Potentiometer_ACP_CA6-VSMD_Vertical,TC33X-2-203E,https://www.digikey.com/en/products/detail/bourns-inc/TC33X-2-203E/2566887,,
+SW1,1,Play,N/A,$0.10,$0.10,Button_Switch_THT:SW_PUSH_6mm_H4.3mm,1825910-6,https://www.digikey.com/en/products/result?keywords=1825910-6,,
+SW2,1,Trk Prev,N/A,$0.10,$0.10,Button_Switch_THT:SW_PUSH_6mm_H4.3mm,1825910-6,https://www.digikey.com/en/products/result?keywords=1825910-6,,
+SW3,1,Trk Next,N/A,$0.10,$0.10,Button_Switch_THT:SW_PUSH_6mm_H4.3mm,1825910-6,https://www.digikey.com/en/products/result?keywords=1825910-6,,
+SW4,1,Mode Prev,N/A,$0.10,$0.10,Button_Switch_THT:SW_PUSH_6mm_H4.3mm,1825910-6,https://www.digikey.com/en/products/result?keywords=1825910-6,,
+SW5,1,Mode Next,N/A,$0.10,$0.10,Button_Switch_THT:SW_PUSH_6mm_H4.3mm,1825910-6,https://www.digikey.com/en/products/result?keywords=1825910-6,,
+SW6,1,Eq,N/A,$0.10,$0.10,Button_Switch_THT:SW_PUSH_6mm_H4.3mm,1825910-6,https://www.digikey.com/en/products/result?keywords=1825910-6,,
+SW7,1,Power,N/A,$0.10,$0.10,Button_Switch_THT:SW_PUSH_6mm_H4.3mm,1825910-6,https://www.digikey.com/en/products/result?keywords=1825910-6,,
+SW8,1,RESET,N/A,$0.58,$0.58,Button_Switch_SMD:SW_SPST_PTS810,PTS810SJM250SMTR LFS,https://www.digikey.com/en/products/detail/c-k/PTS810SJM250SMTR-LFS/4176610,,
+SW9,1,BOOT,N/A,$0.58,$0.58,Button_Switch_SMD:SW_SPST_PTS810,PTS810SJM250SMTR LFS,https://www.digikey.com/en/products/detail/c-k/PTS810SJM250SMTR-LFS/4176610,,
+SW10,1,Power_sw,N/A,$2.51,$2.51,Button_Switch_SMD:SW_DIP_SPSTx01_Slide_6.7x4.1mm_W6.73mm_P2.54mm_LowProfile_JPin,SDA01H1SBD,https://www.digikey.com/en/products/detail/c-k/SDA01H1SBD/2263273,,
+SW11,1,Next,N/A,$0.10,$0.10,Button_Switch_THT:SW_PUSH_6mm_H4.3mm,1825910-6,https://www.digikey.com/en/products/result?keywords=1825910-6,,
+SW12,1,Prev,N/A,$0.10,$0.10,Button_Switch_THT:SW_PUSH_6mm_H4.3mm,1825910-6,https://www.digikey.com/en/products/result?keywords=1825910-6,,
+U1,1,ESP32-S3-WROOM-1,N/A,$6.10,$6.10,RF_Module:ESP32-S3-WROOM-1,ESP32-S3-WROOM-1-N16,https://www.digikey.com/en/products/detail/espressif-systems/esp32-s3-wroom-1-n16/16162647,,
+U2,1,ES8388,N/A,$1.12,$1.12,Package_DFN_QFN:QFN-28-1EP_4x4mm_P0.45mm_EP2.6x2.6mm,ES8388,https://www.lcsc.com/product-detail/C365736.html,,
+U3,1,AP2112K-3.3,N/A,$0.28,$0.28,Package_TO_SOT_SMD:SOT-23-5,AP2112K-3.3TRG1,https://www.digikey.com/en/products/detail/diodes-incorporated/ap2112k-3-3trg1/4470746,,
+U4,1,MCP73831-2-OT,N/A,$0.76,$0.76,Package_TO_SOT_SMD:SOT-23-5,MCP73831T-2ACI/OT,https://www.digikey.com/en/products/detail/microchip-technology/MCP73831T-2ACI-OT/964301,,
+U5,1,USBLC6-2SC6,N/A,$0.86,$0.86,Package_TO_SOT_SMD:SOT-23-6,USBLC6-2SC6,https://www.digikey.com/en/products/detail/goodwork/usblc6-2sc6/29515591,,
+Screen,1,1.9,"""",$11.99,$11.99,N/A,23822,https://www.waveshare.com/1.9inch-lcd-module.htm,,
+Battery,1,2000,mA,$14.45,$10.00,N/A,CE04378,https://core-electronics.com.au/polymer-lithium-ion-battery-2000mah-38459.html,,
+Capacitors + Resistors,1,Just approx,N/A,10,$10.00,,,,,
+Total,,,,,$52.59,,,,,
