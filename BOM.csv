@@ -6,10 +6,10 @@ C1,1,22,µF, $-   , $-   ,Capacitor_SMD:C_0805_2012Metric,CL21A226MAQNNNE,https:
 "C9,C10",2,220,µF, $-   , $-   ,Capacitor_SMD:CP_Elec_6.3x5.4,EEE-FK0J221P,https://www.digikey.com/en/products/result?keywords=EEE-FK0J221P
 "C19,C20",2,4.7,µF, $-   , $-   ,Capacitor_SMD:C_0805_2012Metric,CL21A475KAQNNNE,https://www.digikey.com/en/products/result?keywords=CL21A475KAQNNNE
 D1,1,LED,N/A,$0.19,$0.19,LED_SMD:LED_0603_1608Metric,150060VS55040,https://www.digikey.com/en/products/detail/w%C3%BCrth-elektronik/150060VS55040/8557182
-J1,1,AudioJack3,N/A,$0.68,$0.68,Connector_Audio:Jack_3.5mm_CUI_SJ-3523-SMT_Horizontal,STX-3000,https://www.digikey.com/en/products/result?keywords=STX-3000
+J1,1,AudioJack3,N/A,$0.80,$0.80,Connector_Audio:Jack_3.5mm_CUI_SJ-3523-SMT_Horizontal,SJ-3523-SMT-TR,https://www.digikey.com/en/products/detail/same-sky-formerly-cui-devices/sj-3523-smt-tr/281297
 J2,1,Battery,N/A, $-   , $-   ,Connector_PinSocket_2.00mm:PinSocket_1x02_P2.00mm_Horizontal,N/A,
-J3,1,USB_C,N/A,$2.35,$2.35,Connector_USB:USB_C_Receptacle_Amphenol_124019772112A,124019772112A,https://www.digikey.com/en/products/detail/amphenol-cs-commercial-products/124019772112A/13683231
-J4,1,Micro_SD_Card,N/A,$3.41,$3.41,Connector_Card:microSD_HC_Wuerth_693072010801,693072010801,https://www.digikey.com/en/products/detail/w%C3%BCrth-elektronik/693072010801/3124584?s=N4IgTCBcDaIGwE4DMAGA7GFBGFAObIAugL5A
+J3,1,USB_C,N/A,$2.35,$2.35,Connector_USB:USB_C_Receptacle_Amphenol_124019772112A,USB4500-03-1-A,https://www.digikey.bg/en/products/detail/gct/USB4500-03-1-A/15283214
+J4,1,Micro_SD_Card,N/A,$3.41,$3.41,Connector_Card:microSD_HC_Wuerth_693072010801,6.93072E+11,https://www.digikey.com/en/products/detail/w%C3%BCrth-elektronik/693072010801/3124584?s=N4IgTCBcDaIGwE4DMAGA7GFBGFAObIAugL5A
 J5,1,TFT SPI,N/A, $-   , $-   ,Connector_JST:JST_GH_SM08B-GHS-TB_1x08-1MP_P1.25mm_Horizontal,N/A,
 "R1,R2,R5,R6,R8,R9,R20,R21,R22,R23,R24",11,10,kΩ, $-   , $-   ,Resistor_SMD:R_0603_1608Metric,RC0603FR-0710KL,https://www.digikey.com/en/products/result?keywords=RC0603FR-0710KL
 R3,1,5.1,Ω, $-   , $-   ,Resistor_SMD:R_0603_1608Metric,RC0603FR-075R1L,https://www.digikey.com/en/products/result?keywords=RC0603FR-075R1L
